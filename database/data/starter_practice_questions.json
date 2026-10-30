@@ -1,0 +1,770 @@
+[
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-01-physics",
+    "topic_name": "Errors in Measurement",
+    "question_type": "single_correct",
+    "difficulty": "easy",
+    "stem": "In a physical quantity P = (a³ b²) / (√c · d), the percentage errors in measurements of a, b, c and d are 1%, 3%, 4% and 2% respectively. What is the maximum percentage error in P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10%"
+      },
+      {
+        "id": "B",
+        "text": "13%"
+      },
+      {
+        "id": "C",
+        "text": "14%"
+      },
+      {
+        "id": "D",
+        "text": "11%"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "ΔP/P × 100 = 3(Δa/a) + 2(Δb/b) + (1/2)(Δc/c) + 1(Δd/d) = 3(1%) + 2(3%) + 0.5(4%) + 2% = 3 + 6 + 2 + 2 = 13%.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 1, Section 1.6",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-05-physics",
+    "topic_name": "Moment of Inertia & Rolling Motion",
+    "question_type": "single_correct",
+    "difficulty": "hard",
+    "stem": "A solid sphere and a hollow cylinder of the same mass and same radius roll down an inclined plane without slipping from the same height. The ratio of their linear accelerations down the incline (a_sphere : a_hollow_cylinder) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 : 7"
+      },
+      {
+        "id": "B",
+        "text": "7 : 10"
+      },
+      {
+        "id": "C",
+        "text": "5 : 7"
+      },
+      {
+        "id": "D",
+        "text": "14 : 15"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For rolling without slipping, a = g sinθ / (1 + I / mR²). For solid sphere, I/mR² = 2/5, so a_sphere = (5/7) g sinθ. For hollow cylinder, I/mR² = 1, so a_cyl = (1/2) g sinθ. Ratio a_sphere / a_cyl = (5/7) / (1/2) = 10 : 7.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 6, Rolling Motion",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-03-physics",
+    "topic_name": "Conservation of Linear Momentum",
+    "question_type": "single_correct",
+    "difficulty": "medium",
+    "stem": "A bullet of mass 20 g moving horizontally with a velocity of 400 m/s gets embedded in a wooden block of mass 1.98 kg suspended by a light vertical string. The vertical height through which the block rises is (take g = 10 m/s²):",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.4 m"
+      },
+      {
+        "id": "B",
+        "text": "0.8 m"
+      },
+      {
+        "id": "C",
+        "text": "1.2 m"
+      },
+      {
+        "id": "D",
+        "text": "1.6 m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By conservation of linear momentum: m u = (m + M) V => 0.02 × 400 = (0.02 + 1.98) V => 8 = 2 V => V = 4 m/s. Height risen h = V² / (2g) = 16 / (2 × 10) = 0.8 m.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 5, Section 5.6",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-08-physics",
+    "topic_name": "Thermodynamic Processes",
+    "question_type": "single_correct",
+    "difficulty": "medium",
+    "stem": "An ideal diatomic gas (γ = 7/5) undergoes an isobaric expansion in which 350 J of heat is supplied to the gas. The work done by the gas during this expansion is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "100 J"
+      },
+      {
+        "id": "B",
+        "text": "140 J"
+      },
+      {
+        "id": "C",
+        "text": "250 J"
+      },
+      {
+        "id": "D",
+        "text": "210 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In an isobaric process, W / Q = nRΔT / nCpΔT = R / Cp = 1 - 1/γ. For diatomic gas γ = 7/5, so W / Q = 1 - 5/7 = 2/7. Thus W = (2/7) × 350 J = 100 J.",
+    "ncert_reference": "NCERT Class 11 Physics Part 2, Ch 11, Section 11.8",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-11-physics",
+    "topic_name": "Parallel Plate Capacitor & Dielectrics",
+    "question_type": "single_correct",
+    "difficulty": "medium",
+    "stem": "A parallel plate air capacitor of capacitance C is charged to a potential V by a battery. The battery is then disconnected and a dielectric slab of dielectric constant K = 4 is completely filled between the plates. The new electrostatic energy stored in the capacitor becomes:",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 × (½ CV²)"
+      },
+      {
+        "id": "B",
+        "text": "(1/4) × (½ CV²)"
+      },
+      {
+        "id": "C",
+        "text": "½ CV² (remains unchanged)"
+      },
+      {
+        "id": "D",
+        "text": "(1/16) × (½ CV²)"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Since battery is disconnected, charge Q = CV remains constant. New capacitance C' = KC = 4C. New energy U' = Q² / (2C') = (Q² / 2C) × (1/K) = (1/4) × (½ CV²).",
+    "ncert_reference": "NCERT Class 12 Physics Part 1, Ch 2, Section 2.14",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-12-physics",
+    "topic_name": "Wheatstone Bridge & Meter Bridge",
+    "question_type": "single_correct",
+    "difficulty": "easy",
+    "stem": "In a meter bridge experiment, the null point is obtained at 40 cm from the left end when resistance R is in the left gap and S = 12 Ω is in the right gap. The value of unknown resistance R is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "6 Ω"
+      },
+      {
+        "id": "B",
+        "text": "8 Ω"
+      },
+      {
+        "id": "C",
+        "text": "9 Ω"
+      },
+      {
+        "id": "D",
+        "text": "18 Ω"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For a balanced meter bridge: R / S = l / (100 - l) => R / 12 = 40 / 60 = 2/3 => R = 8 Ω.",
+    "ncert_reference": "NCERT Class 12 Physics Part 1, Ch 3, Section 3.14",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-13-physics",
+    "topic_name": "LCR Series Circuit & Resonance",
+    "question_type": "single_correct",
+    "difficulty": "hard",
+    "stem": "In a series LCR circuit with R = 40 Ω, XL = 100 Ω and XC = 70 Ω connected across a 200 V (rms) AC source, the average power dissipated and power factor of the circuit are respectively:",
+    "options": [
+      {
+        "id": "A",
+        "text": "640 W and 0.8"
+      },
+      {
+        "id": "B",
+        "text": "800 W and 0.6"
+      },
+      {
+        "id": "C",
+        "text": "640 W and 0.6"
+      },
+      {
+        "id": "D",
+        "text": "1000 W and 0.8"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Impedance Z = √[R² + (XL - XC)²] = √[40² + (100 - 70)²] = √(1600 + 900) = 50 Ω. Power factor cosφ = R / Z = 40 / 50 = 0.8. I_rms = V_rms / Z = 200 / 50 = 4 A. Average power P = I_rms² R = 16 × 40 = 640 W.",
+    "ncert_reference": "NCERT Class 12 Physics Part 1, Ch 7, Section 7.6",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-19-physics",
+    "topic_name": "Photoelectric Effect & de Broglie Waves",
+    "question_type": "single_correct",
+    "difficulty": "easy",
+    "stem": "An electron and a proton are accelerated through the same potential difference V. The ratio of their de Broglie wavelengths (λ_e : λ_p) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "m_p / m_e"
+      },
+      {
+        "id": "B",
+        "text": "√(m_p / m_e)"
+      },
+      {
+        "id": "C",
+        "text": "√(m_e / m_p)"
+      },
+      {
+        "id": "D",
+        "text": "1 : 1"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "de Broglie wavelength λ = h / √(2mqV). Since both have same magnitude of charge q and accelerating voltage V, λ ∝ 1 / √m. Therefore λ_e / λ_p = √(m_p / m_e).",
+    "ncert_reference": "NCERT Class 12 Physics Part 2, Ch 11, Section 11.7",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-03-chemistry",
+    "topic_name": "Molecular Orbital Theory (MOT)",
+    "question_type": "single_correct",
+    "difficulty": "easy",
+    "stem": "According to Molecular Orbital Theory, which of the following species has the highest bond order and is diamagnetic in nature?",
+    "options": [
+      {
+        "id": "A",
+        "text": "O₂⁺"
+      },
+      {
+        "id": "B",
+        "text": "N₂⁺"
+      },
+      {
+        "id": "C",
+        "text": "CN⁻"
+      },
+      {
+        "id": "D",
+        "text": "O₂⁻"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "CN⁻ has 6 + 7 + 1 = 14 electrons (isoelectronic with N₂). Its bond order is 3.0 and all electrons are paired, making it diamagnetic. O₂⁺ (B.O. 2.5), N₂⁺ (B.O. 2.5), and O₂⁻ (B.O. 1.5) are all paramagnetic.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 1, Ch 4, Section 4.7",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-04-chemistry",
+    "topic_name": "Ionic Equilibrium: Solubility Product (Ksp)",
+    "question_type": "single_correct",
+    "difficulty": "hard",
+    "stem": "The solubility product (Ksp) of CaF₂ in pure water at 298 K is 3.2 × 10⁻¹¹. What will be its molar solubility in a 0.1 M NaF solution?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3.2 × 10⁻⁹ M"
+      },
+      {
+        "id": "B",
+        "text": "3.2 × 10⁻¹⁰ M"
+      },
+      {
+        "id": "C",
+        "text": "1.6 × 10⁻⁹ M"
+      },
+      {
+        "id": "D",
+        "text": "2.0 × 10⁻⁴ M"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "CaF₂(s) ⇌ Ca²⁺ + 2F⁻. In 0.1 M NaF, [F⁻] ≈ 0.1 M due to common ion effect. Ksp = [Ca²⁺][F⁻]² => 3.2 × 10⁻¹¹ = s × (0.1)² = s × 10⁻² => s = 3.2 × 10⁻⁹ M.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 1, Ch 6, Section 6.13",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-13-chemistry",
+    "topic_name": "Carbocations & Hyperconjugation",
+    "question_type": "single_correct",
+    "difficulty": "medium",
+    "stem": "Arrange the following carbocations in order of decreasing stability: (I) (CH₃)₃C⁺  (II) C₆H₅CH₂⁺  (III) CH₃CH₂⁺  (IV) CH₂=CH⁺",
+    "options": [
+      {
+        "id": "A",
+        "text": "I > II > III > IV"
+      },
+      {
+        "id": "B",
+        "text": "II > I > III > IV"
+      },
+      {
+        "id": "C",
+        "text": "I > III > II > IV"
+      },
+      {
+        "id": "D",
+        "text": "IV > III > II > I"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The benzyl carbocation is resonance-stabilized and is more stable than the tertiary butyl carbocation. The ethyl carbocation is less stable, and the vinyl carbocation is least stable because its positive charge is on an sp2 carbon.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 2, Ch 8, Section 8.7",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-07-chemistry",
+    "topic_name": "First Order Kinetics",
+    "question_type": "single_correct",
+    "difficulty": "medium",
+    "stem": "For a first-order reaction, the time required for 99% completion is how many times the time required for 90% completion of the reaction?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1.5 times"
+      },
+      {
+        "id": "B",
+        "text": "2 times"
+      },
+      {
+        "id": "C",
+        "text": "3 times"
+      },
+      {
+        "id": "D",
+        "text": "4 times"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For a first-order reaction, t = (2.303/k) log([A]₀/[A]). t_99% = (2.303/k) log(100/1) = 2 × (2.303/k). t_90% = (2.303/k) log(100/10) = 1 × (2.303/k). Hence t_99% = 2 × t_90%.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 1, Ch 3, Section 3.3",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-10-chemistry",
+    "topic_name": "Crystal Field Theory (CFT)",
+    "question_type": "single_correct",
+    "difficulty": "medium",
+    "stem": "The spin-only magnetic moment and hybridization of [CoF₆]³⁻ complex ion (Atomic no. of Co = 27) are respectively:",
+    "options": [
+      {
+        "id": "A",
+        "text": "0 BM and d²sp³"
+      },
+      {
+        "id": "B",
+        "text": "4.90 BM and sp³d²"
+      },
+      {
+        "id": "C",
+        "text": "3.87 BM and sp³d²"
+      },
+      {
+        "id": "D",
+        "text": "4.90 BM and d²sp³"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In [CoF₆]³⁻, Co is in +3 oxidation state (3d⁶ configuration). Since F⁻ is a weak field ligand, pairing does not occur. There are n = 4 unpaired electrons in 3d orbitals. Outer 4d orbitals are used -> sp³d² hybridization. μ = √[4(4+2)] = √24 ≈ 4.90 BM.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 1, Ch 5, Section 5.5",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-15-chemistry",
+    "topic_name": "Aldol & Cannizzaro Reactions",
+    "question_type": "single_correct",
+    "difficulty": "medium",
+    "stem": "Which aldehyde has no alpha hydrogen and therefore undergoes the Cannizzaro reaction with concentrated NaOH?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acetaldehyde (CH3CHO)"
+      },
+      {
+        "id": "B",
+        "text": "2,2-Dimethylpropanal ((CH3)3C-CHO)"
+      },
+      {
+        "id": "C",
+        "text": "Propanal (CH3CH2CHO)"
+      },
+      {
+        "id": "D",
+        "text": "2-Methylpropanal ((CH3)2CHCHO)"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "2,2-Dimethylpropanal has no hydrogen on the carbon next to the aldehyde group, so it undergoes the Cannizzaro reaction. The other listed aldehydes have alpha hydrogens.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 2, Ch 8, Section 8.4",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-01-botany",
+    "topic_name": "Algae (Chlorophyceae, Phaeophyceae, Rhodophyceae)",
+    "question_type": "single_correct",
+    "difficulty": "easy",
+    "stem": "Mannitol and Laminarin are the stored food materials in which of the following algae?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chara and Volvox"
+      },
+      {
+        "id": "B",
+        "text": "Fucus and Sargassum"
+      },
+      {
+        "id": "C",
+        "text": "Porphyra and Polysiphonia"
+      },
+      {
+        "id": "D",
+        "text": "Gracilaria and Gelidium"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Mannitol and laminarin are complex carbohydrates stored as reserve food in Phaeophyceae (Brown algae), which include Ectocarpus, Dictyota, Laminaria, Sargassum, and Fucus.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 3, Page 32, Table 3.1",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Meiosis I (Prophase I Stages)",
+    "question_type": "single_correct",
+    "difficulty": "easy",
+    "stem": "During which stage of Prophase I of Meiosis does crossing over occur between non-sister chromatids of homologous chromosomes, mediated by the enzyme recombinase?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Leptotene"
+      },
+      {
+        "id": "B",
+        "text": "Zygotene"
+      },
+      {
+        "id": "C",
+        "text": "Pachytene"
+      },
+      {
+        "id": "D",
+        "text": "Diplotene"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Pachytene is characterized by the appearance of recombination nodules, the sites at which crossing over occurs between non-sister chromatids of the homologous chromosomes via recombinase enzyme.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 10, Page 168",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "C3 & C4 Pathways",
+    "question_type": "statement_based",
+    "difficulty": "medium",
+    "stem": "Statement I: In C₄ plants, the primary CO₂ acceptor is a 3-carbon molecule phosphoenolpyruvate (PEP) and is present in the mesophyll cells.\nStatement II: Mesophyll cells of C₄ plants possess RuBisCO enzyme while bundle sheath cells lack RuBisCO.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both Statement I and Statement II are correct"
+      },
+      {
+        "id": "B",
+        "text": "Both Statement I and Statement II are incorrect"
+      },
+      {
+        "id": "C",
+        "text": "Statement I is correct but Statement II is incorrect"
+      },
+      {
+        "id": "D",
+        "text": "Statement I is incorrect but Statement II is correct"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "In C₄ plants (Hatch and Slack pathway), PEP (3C) is the primary CO₂ acceptor in mesophyll cells. Mesophyll cells LACK RuBisCO; instead, bundle sheath cells are rich in RuBisCO but lack PEPcase.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 11, Page 218",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "Lac Operon & Transcription",
+    "question_type": "single_correct",
+    "difficulty": "medium",
+    "stem": "In the lac operon of E. coli, what do the structural genes z, y, and a code for respectively?",
+    "options": [
+      {
+        "id": "A",
+        "text": "β-galactosidase, permease, and transacetylase"
+      },
+      {
+        "id": "B",
+        "text": "Permease, β-galactosidase, and transacetylase"
+      },
+      {
+        "id": "C",
+        "text": "β-galactosidase, transacetylase, and permease"
+      },
+      {
+        "id": "D",
+        "text": "Repressor protein, β-galactosidase, and permease"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In the lac operon: the z gene codes for β-galactosidase (hydrolyzes lactose into galactose + glucose), the y gene codes for permease (increases cell permeability to β-galactosides), and the a gene encodes a transacetylase.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 5, Page 116",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-10-botany",
+    "topic_name": "Ecological Pyramids & Energy Flow",
+    "question_type": "single_correct",
+    "difficulty": "easy",
+    "stem": "Which of the following ecological pyramids is ALWAYS upright and can never be inverted in any natural ecosystem?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pyramid of numbers in a tree ecosystem"
+      },
+      {
+        "id": "B",
+        "text": "Pyramid of biomass in an aquatic (sea) ecosystem"
+      },
+      {
+        "id": "C",
+        "text": "Pyramid of energy"
+      },
+      {
+        "id": "D",
+        "text": "Both pyramid of biomass and pyramid of numbers"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Pyramid of energy is always upright and can never be inverted, because when energy flows from a particular trophic level to the next trophic level, some energy is always lost as heat at each step (10% law).",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 12, Page 249",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Oxygen Dissociation Curve",
+    "question_type": "single_correct",
+    "difficulty": "medium",
+    "stem": "Which of the following conditions in the tissues favors the dissociation of oxygen from oxyhaemoglobin (right shift of the oxygen-haemoglobin dissociation curve)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "High pO₂, low pCO₂, lower H⁺ concentration and lower temperature"
+      },
+      {
+        "id": "B",
+        "text": "Low pO₂, high pCO₂, higher H⁺ concentration (low pH) and higher temperature"
+      },
+      {
+        "id": "C",
+        "text": "High pO₂, high pCO₂, lower H⁺ concentration and higher temperature"
+      },
+      {
+        "id": "D",
+        "text": "Low pO₂, low pCO₂, lower H⁺ concentration (high pH) and lower temperature"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In the tissues, where low pO₂, high pCO₂, high H⁺ concentration (acidic pH) and higher temperature exist, the conditions are favorable for dissociation of oxygen from oxyhaemoglobin (Bohr effect / right shift).",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 14, Page 274",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Sliding Filament Theory & Sarcomere",
+    "question_type": "single_correct",
+    "difficulty": "medium",
+    "stem": "During muscular contraction in a skeletal muscle fibre, which of the following events does NOT occur?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Length of I-band gets reduced"
+      },
+      {
+        "id": "B",
+        "text": "Length of A-band remains unchanged"
+      },
+      {
+        "id": "C",
+        "text": "Z-lines attached to actin filaments are pulled inwards, shortening the sarcomere"
+      },
+      {
+        "id": "D",
+        "text": "Length of A-band gets significantly shortened"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "According to the sliding filament theory, during muscle contraction, the thin (actin) filaments slide over the thick (myosin) filaments. The I-band and H-zone shorten, the sarcomere shortens, while the A-band retains its original length.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 17, Page 307",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-06-zoology",
+    "topic_name": "Menstrual Cycle & Hormones",
+    "question_type": "single_correct",
+    "difficulty": "easy",
+    "stem": "Rapid secretion of which hormone during the mid-cycle (around the 14th day) induces rupture of the Graafian follicle and thereby the release of ovum (ovulation)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Progesterone"
+      },
+      {
+        "id": "B",
+        "text": "Luteinizing Hormone (LH Surge)"
+      },
+      {
+        "id": "C",
+        "text": "Oxytocin"
+      },
+      {
+        "id": "D",
+        "text": "Relaxin"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Both LH and FSH attain a peak level in the middle of the cycle (about 14th day). Rapid secretion of LH leading to its maximum level during the mid-cycle called LH surge induces rupture of Graafian follicle and ovulation.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 2, Page 35",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-09-zoology",
+    "topic_name": "Genetically Engineered Insulin & Gene Therapy",
+    "question_type": "single_correct",
+    "difficulty": "easy",
+    "stem": "During the maturation of pro-insulin into functional mature insulin in humans, which peptide segment is removed and is NOT present in mature insulin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A-peptide chain"
+      },
+      {
+        "id": "B",
+        "text": "B-peptide chain"
+      },
+      {
+        "id": "C",
+        "text": "C-peptide stretch"
+      },
+      {
+        "id": "D",
+        "text": "Disulphide bridges between A and B chains"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "In mammals, insulin is synthesized as a pro-hormone containing an extra stretch called the C-peptide. This C-peptide is not present in the mature insulin and is removed during maturation into insulin (leaving A and B chains linked by disulphide bonds).",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 10, Page 211",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  },
+  {
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-08-zoology",
+    "topic_name": "Hardy-Weinberg Principle",
+    "question_type": "single_correct",
+    "difficulty": "medium",
+    "stem": "In a population in Hardy-Weinberg equilibrium, the frequency of the recessive allele (q) for a certain autosomal trait is 0.4. What percentage of individuals in this population are heterozygous carriers (2pq)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "16%"
+      },
+      {
+        "id": "B",
+        "text": "36%"
+      },
+      {
+        "id": "C",
+        "text": "48%"
+      },
+      {
+        "id": "D",
+        "text": "24%"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Since p + q = 1 and q = 0.4, dominant allele frequency p = 1 - 0.4 = 0.6. Frequency of heterozygous carriers = 2pq = 2 × 0.6 × 0.4 = 0.48, which corresponds to 48% of the population.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 6, Page 137",
+    "is_pyq": false,
+    "source_label": "Starter practice ? answer/source pending admin verification",
+    "review_status": "pending_review"
+  }
+]

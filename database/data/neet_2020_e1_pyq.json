@@ -1,0 +1,5222 @@
+[
+  {
+    "question_number": "1",
+    "pdf_page": "2",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-10-botany",
+    "topic_name": "Population Attributes",
+    "difficulty": "easy",
+    "stem": "Which of the following is not an attribute of a population?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sex ratio"
+      },
+      {
+        "id": "B",
+        "text": "Natality"
+      },
+      {
+        "id": "C",
+        "text": "Mortality"
+      },
+      {
+        "id": "D",
+        "text": "Species interaction"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Sex ratio, natality and mortality describe population structure or change. Species interaction describes relationships between populations."
+  },
+  {
+    "question_number": "2",
+    "pdf_page": "2",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-10-botany",
+    "topic_name": "Population Growth",
+    "difficulty": "easy",
+    "stem": "The process of population growth is maximum during which phase?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Log phase"
+      },
+      {
+        "id": "B",
+        "text": "Lag phase"
+      },
+      {
+        "id": "C",
+        "text": "Senescence"
+      },
+      {
+        "id": "D",
+        "text": "Dormancy"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In the exponential or log phase, resources are sufficient and the population grows at its highest rate."
+  },
+  {
+    "question_number": "3",
+    "pdf_page": "2",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-02-botany",
+    "topic_name": "Root Systems",
+    "difficulty": "easy",
+    "stem": "The roots that originate from the base of the stem are:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fibrous roots"
+      },
+      {
+        "id": "B",
+        "text": "Primary roots"
+      },
+      {
+        "id": "C",
+        "text": "Prop roots"
+      },
+      {
+        "id": "D",
+        "text": "Lateral roots"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a fibrous root system, numerous roots arise from the base of the stem and replace the primary root."
+  },
+  {
+    "question_number": "4",
+    "pdf_page": "2",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-08-zoology",
+    "topic_name": "Disease-Causing Organisms",
+    "difficulty": "easy",
+    "stem": "Match each disease with its causative organism: (a) typhoid; (b) pneumonia; (c) filariasis; (d) malaria.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-Wuchereria, (b)-Plasmodium, (c)-Salmonella, (d)-Haemophilus"
+      },
+      {
+        "id": "B",
+        "text": "(a)-Salmonella, (b)-Haemophilus, (c)-Wuchereria, (d)-Plasmodium"
+      },
+      {
+        "id": "C",
+        "text": "(a)-Plasmodium, (b)-Wuchereria, (c)-Haemophilus, (d)-Salmonella"
+      },
+      {
+        "id": "D",
+        "text": "(a)-Haemophilus, (b)-Wuchereria, (c)-Plasmodium, (d)-Salmonella"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Salmonella causes typhoid, Haemophilus species can cause pneumonia, Wuchereria causes filariasis, and Plasmodium causes malaria."
+  },
+  {
+    "question_number": "5",
+    "pdf_page": "2",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-06-zoology",
+    "topic_name": "Assisted Reproductive Technologies",
+    "difficulty": "medium",
+    "stem": "Which pair of techniques involves transfer of embryos to assist females who cannot conceive?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ZIFT and IUT"
+      },
+      {
+        "id": "B",
+        "text": "GIFT and ZIFT"
+      },
+      {
+        "id": "C",
+        "text": "ICSI and ZIFT"
+      },
+      {
+        "id": "D",
+        "text": "GIFT and ICSI"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "ZIFT transfers a zygote or early embryo to the fallopian tube, while IUT transfers an embryo into the uterus."
+  },
+  {
+    "question_number": "6",
+    "pdf_page": "2",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-07-zoology",
+    "topic_name": "ABO Blood Groups",
+    "difficulty": "medium",
+    "stem": "Identify the wrong statement about the gene I that controls the ABO blood groups.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The gene I has three alleles."
+      },
+      {
+        "id": "B",
+        "text": "A person has only two of the three alleles."
+      },
+      {
+        "id": "C",
+        "text": "When Iᴬ and Iᴮ are present together, they express the same type of sugar."
+      },
+      {
+        "id": "D",
+        "text": "Allele i does not produce a functional sugar-modifying enzyme."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Iᴬ and Iᴮ are codominant and produce different sugar-modifying enzymes, giving distinct A and B antigens."
+  },
+  {
+    "question_number": "7",
+    "pdf_page": "2",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-09-botany",
+    "topic_name": "DNA-Modifying Enzymes",
+    "difficulty": "easy",
+    "stem": "Choose the correctly matched enzyme and function.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ligases - join two DNA molecules"
+      },
+      {
+        "id": "B",
+        "text": "Polymerases - break DNA into fragments"
+      },
+      {
+        "id": "C",
+        "text": "Nucleases - separate the two DNA strands"
+      },
+      {
+        "id": "D",
+        "text": "Exonucleases - make cuts at specific internal positions in DNA"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "DNA ligases join DNA fragments by forming phosphodiester bonds; restriction endonucleases make sequence-specific cuts."
+  },
+  {
+    "question_number": "8",
+    "pdf_page": "2",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-07-zoology",
+    "topic_name": "Inherited Disorders",
+    "difficulty": "medium",
+    "stem": "Which disease and inheritance description is correctly matched?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Haemophilia — Y-linked"
+      },
+      {
+        "id": "B",
+        "text": "Phenylketonuria — autosomal dominant"
+      },
+      {
+        "id": "C",
+        "text": "Sickle-cell anaemia — autosomal recessive; gene on chromosome 11"
+      },
+      {
+        "id": "D",
+        "text": "Thalassaemia — X-linked"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Sickle-cell anaemia is an autosomal recessive disorder caused by a mutation in the beta-globin gene on chromosome 11."
+  },
+  {
+    "question_number": "9",
+    "pdf_page": "2",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-01-zoology",
+    "topic_name": "Animal Groups and Features",
+    "difficulty": "medium",
+    "stem": "Match: (a) a gregarious, polyphagous pest; (b) an adult with radial symmetry and a bilaterally symmetrical larva; (c) book lungs; (d) bioluminescence.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-Asterias, (b)-Ctenoplana, (c)-Scorpion, (d)-Locusta"
+      },
+      {
+        "id": "B",
+        "text": "(a)-Locusta, (b)-Asterias, (c)-Scorpion, (d)-Ctenoplana"
+      },
+      {
+        "id": "C",
+        "text": "(a)-Ctenoplana, (b)-Scorpion, (c)-Asterias, (d)-Locusta"
+      },
+      {
+        "id": "D",
+        "text": "(a)-Scorpion, (b)-Asterias, (c)-Ctenoplana, (d)-Locusta"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Locusta is a gregarious pest, Asterias has radial adults and bilateral larvae, scorpions have book lungs, and Ctenoplana is bioluminescent."
+  },
+  {
+    "question_number": "10",
+    "pdf_page": "2",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-08-zoology",
+    "topic_name": "Malaria Parasite Life Cycle",
+    "difficulty": "easy",
+    "stem": "The infectious stage of Plasmodium that enters the human body is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trophozoites"
+      },
+      {
+        "id": "B",
+        "text": "Sporozoites"
+      },
+      {
+        "id": "C",
+        "text": "Female gametocytes"
+      },
+      {
+        "id": "D",
+        "text": "Male gametocytes"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "An infected female Anopheles mosquito injects sporozoites into the human bloodstream."
+  },
+  {
+    "question_number": "11",
+    "pdf_page": "3",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Biological Macromolecules",
+    "difficulty": "easy",
+    "stem": "Which pair has a glycosidic bond in the first substance and a peptide bond in the second, respectively?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chitin, cholesterol"
+      },
+      {
+        "id": "B",
+        "text": "Glycerol, trypsin"
+      },
+      {
+        "id": "C",
+        "text": "Cellulose, lecithin"
+      },
+      {
+        "id": "D",
+        "text": "Inulin, insulin"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Inulin is a polysaccharide with glycosidic linkages. Insulin is a protein whose amino acids are joined by peptide bonds."
+  },
+  {
+    "question_number": "12",
+    "pdf_page": "3",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-06-botany",
+    "topic_name": "Alternation of Generations",
+    "difficulty": "medium",
+    "stem": "Which plant structures contain two generations, one within the other? (a) pollen grains inside the anther; (b) a germinated pollen grain with two male gametes; (c) a seed inside a fruit; (d) an embryo sac inside the ovule.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a) only"
+      },
+      {
+        "id": "B",
+        "text": "(a), (b), and (c)"
+      },
+      {
+        "id": "C",
+        "text": "(c) and (d)"
+      },
+      {
+        "id": "D",
+        "text": "(a) and (d)"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The pollen grain and embryo sac are gametophytes contained within sporophytic structures, the anther and ovule respectively."
+  },
+  {
+    "question_number": "13",
+    "pdf_page": "3",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "Biological Nitrogen Fixation",
+    "difficulty": "medium",
+    "stem": "What are the products of the reaction catalysed by nitrogenase in the root nodules of leguminous plants?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ammonia alone"
+      },
+      {
+        "id": "B",
+        "text": "Nitrate alone"
+      },
+      {
+        "id": "C",
+        "text": "Ammonia and oxygen"
+      },
+      {
+        "id": "D",
+        "text": "Ammonia and hydrogen"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Nitrogenase reduces N₂ to ammonia; hydrogen is also produced during the reduction reaction."
+  },
+  {
+    "question_number": "14",
+    "pdf_page": "3",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "G₁ Phase of the Cell Cycle",
+    "difficulty": "easy",
+    "stem": "Which statement correctly describes the G₁ phase of interphase?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNA synthesis or replication takes place."
+      },
+      {
+        "id": "B",
+        "text": "All cell components are reorganised for nuclear division."
+      },
+      {
+        "id": "C",
+        "text": "The cell is metabolically active and grows, but does not replicate its DNA."
+      },
+      {
+        "id": "D",
+        "text": "Nuclear division takes place."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "During G₁, the cell grows and carries out metabolism. DNA replication occurs later, in S phase."
+  },
+  {
+    "question_number": "15",
+    "pdf_page": "3",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Nephron Epithelium",
+    "difficulty": "medium",
+    "stem": "Cuboidal epithelium with a brush border of microvilli is found in the:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lining of the intestine"
+      },
+      {
+        "id": "B",
+        "text": "Ducts of salivary glands"
+      },
+      {
+        "id": "C",
+        "text": "Proximal convoluted tubule of the nephron"
+      },
+      {
+        "id": "D",
+        "text": "Eustachian tube"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The proximal convoluted tubule is lined by cuboidal cells with a brush border that increases surface area for reabsorption."
+  },
+  {
+    "question_number": "16",
+    "pdf_page": "3",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Cell Inclusions",
+    "difficulty": "easy",
+    "stem": "Which statement about cell inclusion bodies is incorrect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are not bound by a membrane."
+      },
+      {
+        "id": "B",
+        "text": "They are involved in ingestion of food particles."
+      },
+      {
+        "id": "C",
+        "text": "They lie free in the cytoplasm."
+      },
+      {
+        "id": "D",
+        "text": "They can represent reserve material in the cytoplasm."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Inclusion bodies are non-membrane-bound materials, often reserves, found in the cytoplasm; they do not ingest food particles."
+  },
+  {
+    "question_number": "17",
+    "pdf_page": "3",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Golgi Apparatus",
+    "difficulty": "easy",
+    "stem": "The important site of formation of glycoproteins and glycolipids in eukaryotic cells is the:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Endoplasmic reticulum"
+      },
+      {
+        "id": "B",
+        "text": "Peroxisome"
+      },
+      {
+        "id": "C",
+        "text": "Golgi apparatus"
+      },
+      {
+        "id": "D",
+        "text": "Polysome"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The Golgi apparatus modifies and processes proteins and lipids, including formation of glycoproteins and glycolipids."
+  },
+  {
+    "question_number": "18",
+    "pdf_page": "3",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-09-botany",
+    "topic_name": "Gel Electrophoresis",
+    "difficulty": "easy",
+    "stem": "In gel electrophoresis, separated DNA fragments can be visualised using:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acetocarmine in bright blue light"
+      },
+      {
+        "id": "B",
+        "text": "Ethidium bromide under ultraviolet radiation"
+      },
+      {
+        "id": "C",
+        "text": "Acetocarmine under ultraviolet radiation"
+      },
+      {
+        "id": "D",
+        "text": "Ethidium bromide under infrared radiation"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "DNA bands stained with ethidium bromide fluoresce under ultraviolet light."
+  },
+  {
+    "question_number": "19",
+    "pdf_page": "3",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Oxygen Transport and Bohr Effect",
+    "difficulty": "medium",
+    "stem": "Identify the wrong statement about oxygen transport.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Binding of oxygen with haemoglobin is mainly related to the partial pressure of oxygen."
+      },
+      {
+        "id": "B",
+        "text": "Partial pressure of carbon dioxide can interfere with oxygen binding to haemoglobin."
+      },
+      {
+        "id": "C",
+        "text": "Higher H⁺ concentration in alveoli favours the formation of oxyhaemoglobin."
+      },
+      {
+        "id": "D",
+        "text": "Low pCO₂ in alveoli favours the formation of oxyhaemoglobin."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Alveoli have relatively low CO₂ and H⁺, which favour oxygen loading. Higher H⁺ promotes oxygen release in tissues."
+  },
+  {
+    "question_number": "20",
+    "pdf_page": "3",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-02-botany",
+    "topic_name": "Asteraceae Flower Structure",
+    "difficulty": "easy",
+    "stem": "Ray florets of the family Asteraceae have a/an:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inferior ovary"
+      },
+      {
+        "id": "B",
+        "text": "Superior ovary"
+      },
+      {
+        "id": "C",
+        "text": "Hypogynous ovary"
+      },
+      {
+        "id": "D",
+        "text": "Half-inferior ovary"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Asteraceae has an inferior ovary; this remains true for its ray florets."
+  },
+  {
+    "question_number": "21",
+    "pdf_page": "3",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "EcoRI Recognition Site",
+    "difficulty": "easy",
+    "stem": "Which double-stranded DNA sequence is specifically recognised by EcoRI?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5′-GAATTC-3′ / 3′-CTTAAG-5′"
+      },
+      {
+        "id": "B",
+        "text": "5′-GGAACC-3′ / 3′-CCTTGG-5′"
+      },
+      {
+        "id": "C",
+        "text": "5′-CTTAAG-3′ / 3′-GAATTC-5′"
+      },
+      {
+        "id": "D",
+        "text": "5′-GGATCC-3′ / 3′-CCTAGG-5′"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "EcoRI recognises the palindromic sequence 5′-GAATTC-3′ and cuts between G and A."
+  },
+  {
+    "question_number": "22",
+    "pdf_page": "4",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-09-botany",
+    "topic_name": "Restriction Enzymes",
+    "difficulty": "medium",
+    "stem": "According to the NTA Set E1 final key, which statement is identified as wrong about restriction enzymes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Each restriction enzyme functions by inspecting the length of a DNA sequence."
+      },
+      {
+        "id": "B",
+        "text": "They cut DNA strands at palindromic sites."
+      },
+      {
+        "id": "C",
+        "text": "They are useful in genetic engineering."
+      },
+      {
+        "id": "D",
+        "text": "Sticky DNA ends can be joined using DNA ligases."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The NTA Set E1 final key lists option D. This item may be ambiguous because ligases are generally used to join compatible sticky ends; check the cited paper and final key."
+  },
+  {
+    "question_number": "23",
+    "pdf_page": "4",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-08-botany",
+    "topic_name": "Sewage Treatment",
+    "difficulty": "medium",
+    "stem": "Which material is put into an anaerobic sludge digester for further sewage treatment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Primary sludge"
+      },
+      {
+        "id": "B",
+        "text": "Floating debris"
+      },
+      {
+        "id": "C",
+        "text": "Effluent from primary treatment"
+      },
+      {
+        "id": "D",
+        "text": "Activated sludge"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A portion of activated sludge is sent to an anaerobic sludge digester, where anaerobic microbes break down organic matter."
+  },
+  {
+    "question_number": "24",
+    "pdf_page": "4",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Inspiration",
+    "difficulty": "easy",
+    "stem": "Which events occur during inspiration? (a) diaphragm contracts; (b) external intercostal muscles contract; (c) pulmonary volume decreases; (d) intrapulmonary pressure increases.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a) and (b)"
+      },
+      {
+        "id": "B",
+        "text": "(c) and (d)"
+      },
+      {
+        "id": "C",
+        "text": "(a), (b), and (d)"
+      },
+      {
+        "id": "D",
+        "text": "(d) only"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Diaphragm and external intercostal contraction increase thoracic and pulmonary volume, lowering intrapulmonary pressure."
+  },
+  {
+    "question_number": "25",
+    "pdf_page": "4",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-02-zoology",
+    "topic_name": "Cockroach Nervous System",
+    "difficulty": "medium",
+    "stem": "If the head of a cockroach is removed, it may live for a few days because:",
+    "options": [
+      {
+        "id": "A",
+        "text": "The supra-oesophageal ganglia are situated in the ventral abdomen."
+      },
+      {
+        "id": "B",
+        "text": "The cockroach does not have a nervous system."
+      },
+      {
+        "id": "C",
+        "text": "The head contains only a small proportion of its nervous system; the rest lies along the ventral side of the body."
+      },
+      {
+        "id": "D",
+        "text": "The head contains one-third of its nervous system and the rest lies along the dorsal side of the body."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The ventral nerve cord and segmental ganglia control much of the body, so a cockroach can survive briefly without its head."
+  },
+  {
+    "question_number": "26",
+    "pdf_page": "4",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-01-zoology",
+    "topic_name": "Phylum Chordata",
+    "difficulty": "medium",
+    "stem": "Which statements are true for Chordata? (a) in Urochordata the notochord runs from head to tail throughout life; (b) in Vertebrata the notochord is present only during the embryonic period; (c) the central nervous system is dorsal and hollow; (d) Hemichordata is one of the three chordate subphyla.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(d) and (c)"
+      },
+      {
+        "id": "B",
+        "text": "(c) and (a)"
+      },
+      {
+        "id": "C",
+        "text": "(a) and (b)"
+      },
+      {
+        "id": "D",
+        "text": "(b) and (c)"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Vertebrate notochord is embryonic, and chordates have a dorsal hollow nerve cord. Urochordate notochord is larval and Hemichordata is a separate phylum."
+  },
+  {
+    "question_number": "27",
+    "pdf_page": "4",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-09-botany",
+    "topic_name": "Biotechnology Applications",
+    "difficulty": "medium",
+    "stem": "Match each organism with its biotechnology use: (a) Bacillus thuringiensis; (b) Thermus aquaticus; (c) Agrobacterium tumefaciens; (d) Salmonella typhimurium.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-cloning vector, (b)-first rDNA molecule, (c)-DNA polymerase, (d)-Cry proteins"
+      },
+      {
+        "id": "B",
+        "text": "(a)-Cry proteins, (b)-DNA polymerase, (c)-cloning vector, (d)-construction of the first rDNA molecule"
+      },
+      {
+        "id": "C",
+        "text": "(a)-DNA polymerase, (b)-first rDNA molecule, (c)-Cry proteins, (d)-cloning vector"
+      },
+      {
+        "id": "D",
+        "text": "(a)-DNA polymerase, (b)-Cry proteins, (c)-cloning vector, (d)-first rDNA molecule"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B. thuringiensis produces Cry proteins, T. aquaticus provides Taq polymerase, Agrobacterium is used as a plant vector, and Salmonella was used in early recombinant-DNA work."
+  },
+  {
+    "question_number": "28",
+    "pdf_page": "4",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "Mineral Nutrition",
+    "difficulty": "medium",
+    "stem": "Match the plant elements with their functions: (a) iron; (b) zinc; (c) boron; (d) manganese.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-photolysis of water, (b)-pollen germination, (c)-chlorophyll biosynthesis, (d)-IAA biosynthesis"
+      },
+      {
+        "id": "B",
+        "text": "(a)-IAA biosynthesis, (b)-chlorophyll biosynthesis, (c)-photolysis of water, (d)-pollen germination"
+      },
+      {
+        "id": "C",
+        "text": "(a)-chlorophyll biosynthesis, (b)-IAA biosynthesis, (c)-pollen germination, (d)-photolysis of water"
+      },
+      {
+        "id": "D",
+        "text": "(a)-IAA biosynthesis, (b)-photolysis of water, (c)-pollen germination, (d)-chlorophyll biosynthesis"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Iron is needed for chlorophyll formation, zinc supports auxin biosynthesis, boron supports pollen germination, and manganese participates in water photolysis."
+  },
+  {
+    "question_number": "29",
+    "pdf_page": "5",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-02-botany",
+    "topic_name": "Heartwood and Sapwood",
+    "difficulty": "medium",
+    "stem": "Identify the incorrect statement about heartwood and sapwood.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Heartwood does not conduct water but provides mechanical support."
+      },
+      {
+        "id": "B",
+        "text": "Sapwood conducts water and minerals from root to leaf."
+      },
+      {
+        "id": "C",
+        "text": "Sapwood is the innermost secondary xylem and is lighter in colour."
+      },
+      {
+        "id": "D",
+        "text": "Deposits such as tannins, resins and oils make heartwood dark in colour."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Sapwood is the outer, functional secondary xylem. Heartwood is the inner, darker non-conducting region."
+  },
+  {
+    "question_number": "30",
+    "pdf_page": "5",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Biological Molecules and Natural Products",
+    "difficulty": "medium",
+    "stem": "Match: (a) inhibitor of catalytic activity; (b) substance possessing peptide bonds; (c) fungal cell-wall material; (d) secondary metabolite.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-malonate, (b)-collagen, (c)-chitin, (d)-ricin"
+      },
+      {
+        "id": "B",
+        "text": "(a)-chitin, (b)-ricin, (c)-collagen, (d)-malonate"
+      },
+      {
+        "id": "C",
+        "text": "(a)-chitin, (b)-collagen, (c)-malonate, (d)-ricin"
+      },
+      {
+        "id": "D",
+        "text": "(a)-malonate, (b)-chitin, (c)-ricin, (d)-collagen"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Malonate inhibits enzymes, collagen is a protein, chitin forms fungal cell walls, and ricin is a plant secondary metabolite."
+  },
+  {
+    "question_number": "31",
+    "pdf_page": "5",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-06-zoology",
+    "topic_name": "Meiosis in the Secondary Oocyte",
+    "difficulty": "medium",
+    "stem": "Meiotic division of the human secondary oocyte is completed:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prior to ovulation"
+      },
+      {
+        "id": "B",
+        "text": "At the time of copulation"
+      },
+      {
+        "id": "C",
+        "text": "After zygote formation"
+      },
+      {
+        "id": "D",
+        "text": "At the time of fusion of a sperm with the ovum"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The secondary oocyte completes meiosis II only after sperm entry triggers completion of the division."
+  },
+  {
+    "question_number": "32",
+    "pdf_page": "5",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-10-botany",
+    "topic_name": "Global Species Diversity",
+    "difficulty": "easy",
+    "stem": "According to Robert May, the global species diversity is about:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1.5 million"
+      },
+      {
+        "id": "B",
+        "text": "20 million"
+      },
+      {
+        "id": "C",
+        "text": "50 million"
+      },
+      {
+        "id": "D",
+        "text": "7 million"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Robert May estimated global species diversity at about 7 million species."
+  },
+  {
+    "question_number": "33",
+    "pdf_page": "5",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "Translation Initiation",
+    "difficulty": "medium",
+    "stem": "The first phase of translation is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Binding of mRNA to the ribosome"
+      },
+      {
+        "id": "B",
+        "text": "Recognition of a DNA molecule"
+      },
+      {
+        "id": "C",
+        "text": "Aminoacylation of tRNA"
+      },
+      {
+        "id": "D",
+        "text": "Recognition of an anticodon"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Before translation, each tRNA is charged with its corresponding amino acid by an aminoacyl-tRNA synthetase."
+  },
+  {
+    "question_number": "34",
+    "pdf_page": "5",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-10-botany",
+    "topic_name": "Global Biodiversity Patterns",
+    "difficulty": "easy",
+    "stem": "Which of the following regions exhibits the highest species diversity?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Western Ghats of India"
+      },
+      {
+        "id": "B",
+        "text": "Madagascar"
+      },
+      {
+        "id": "C",
+        "text": "Himalayas"
+      },
+      {
+        "id": "D",
+        "text": "Amazon forests"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The tropical Amazon forests are exceptionally species-rich and are identified as a major biodiversity region."
+  },
+  {
+    "question_number": "35",
+    "pdf_page": "5",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-09-zoology",
+    "topic_name": "Maturation of Insulin",
+    "difficulty": "medium",
+    "stem": "Which statement about insulin is not correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "In humans, insulin is synthesised as proinsulin."
+      },
+      {
+        "id": "B",
+        "text": "Proinsulin has an extra peptide called the C-peptide."
+      },
+      {
+        "id": "C",
+        "text": "The functional A and B chains of insulin are linked by hydrogen bonds."
+      },
+      {
+        "id": "D",
+        "text": "Genetically engineered insulin can be produced in E. coli."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The A and B chains of mature insulin are linked by disulfide bonds, not hydrogen bonds."
+  },
+  {
+    "question_number": "36",
+    "pdf_page": "5",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-02-botany",
+    "topic_name": "Monocot Stem Anatomy",
+    "difficulty": "medium",
+    "stem": "A plant cross-section shows many scattered vascular bundles surrounded by bundle sheath, conspicuous parenchymatous ground tissue, conjoint closed bundles and no phloem parenchyma. It is a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Monocotyledonous stem"
+      },
+      {
+        "id": "B",
+        "text": "Monocotyledonous root"
+      },
+      {
+        "id": "C",
+        "text": "Dicotyledonous stem"
+      },
+      {
+        "id": "D",
+        "text": "Dicotyledonous root"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Scattered, conjoint and closed vascular bundles with bundle sheath are characteristic of a monocot stem."
+  },
+  {
+    "question_number": "37",
+    "pdf_page": "5",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-01-zoology",
+    "topic_name": "Vertebrate Groups",
+    "difficulty": "medium",
+    "stem": "Match: (a) 6-15 pairs of gill slits; (b) heterocercal caudal fin; (c) air bladder; (d) poison sting.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-Cyclostomes, (b)-Chondrichthyes, (c)-Osteichthyes, (d)-Trygon"
+      },
+      {
+        "id": "B",
+        "text": "(a)-Chondrichthyes, (b)-Osteichthyes, (c)-Trygon, (d)-Cyclostomes"
+      },
+      {
+        "id": "C",
+        "text": "(a)-Osteichthyes, (b)-Cyclostomes, (c)-Chondrichthyes, (d)-Trygon"
+      },
+      {
+        "id": "D",
+        "text": "(a)-Trygon, (b)-Osteichthyes, (c)-Chondrichthyes, (d)-Cyclostomes"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Cyclostomes have multiple gill slits, Chondrichthyes have a heterocercal tail, Osteichthyes have an air bladder, and Trygon has a poison sting."
+  },
+  {
+    "question_number": "38",
+    "pdf_page": "6",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "Miller–Urey Experiment",
+    "difficulty": "medium",
+    "stem": "In S. L. Miller's experiment, amino acids were produced by mixing which gases and water vapour in a closed flask at 800°C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CH₄, H₂, NH₃ and water vapour"
+      },
+      {
+        "id": "B",
+        "text": "CH₄, H₂, N₂ and water vapour"
+      },
+      {
+        "id": "C",
+        "text": "CH₄, H₂, NH₃ and water vapour at 600°C"
+      },
+      {
+        "id": "D",
+        "text": "CH₃, H₂, NH₃ and water vapour at 600°C"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Miller used methane, hydrogen, ammonia and water vapour, with electrical sparks simulating lightning."
+  },
+  {
+    "question_number": "39",
+    "pdf_page": "6",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "Embryological Evidence for Evolution",
+    "difficulty": "medium",
+    "stem": "Embryological support for evolution was disapproved by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Karl Ernst von Baer"
+      },
+      {
+        "id": "B",
+        "text": "Alfred Russel Wallace"
+      },
+      {
+        "id": "C",
+        "text": "Charles Darwin"
+      },
+      {
+        "id": "D",
+        "text": "A. I. Oparin"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Karl Ernst von Baer criticised Haeckel's interpretation that embryonic stages directly recapitulate evolutionary history."
+  },
+  {
+    "question_number": "40",
+    "pdf_page": "6",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "Guttation",
+    "difficulty": "easy",
+    "stem": "The process that facilitates loss of water in liquid form from the tips of grass blades at night or early morning is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Transpiration"
+      },
+      {
+        "id": "B",
+        "text": "Root pressure"
+      },
+      {
+        "id": "C",
+        "text": "Imbibition"
+      },
+      {
+        "id": "D",
+        "text": "Plasmolysis"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Root pressure can force liquid water out through hydathodes at leaf tips; this process is guttation."
+  },
+  {
+    "question_number": "41",
+    "pdf_page": "6",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-08-botany",
+    "topic_name": "Plant Secondary Metabolites",
+    "difficulty": "medium",
+    "stem": "Plants produce secondary metabolites such as nicotine, strychnine and caffeine primarily for their:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nutritive value"
+      },
+      {
+        "id": "B",
+        "text": "Growth response"
+      },
+      {
+        "id": "C",
+        "text": "Defence action"
+      },
+      {
+        "id": "D",
+        "text": "Effect on reproduction"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Many plant alkaloids act as chemical defences against herbivores and other threats."
+  },
+  {
+    "question_number": "42",
+    "pdf_page": "6",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "Photorespiration",
+    "difficulty": "medium",
+    "stem": "According to the Set E1 key, what three-carbon product is formed by the oxygenation activity of RuBisCO during photorespiration?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two molecules of a three-carbon compound"
+      },
+      {
+        "id": "B",
+        "text": "One molecule of a three-carbon compound"
+      },
+      {
+        "id": "C",
+        "text": "One molecule of a six-carbon compound"
+      },
+      {
+        "id": "D",
+        "text": "One four-carbon compound and one two-carbon compound"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The official key selects one three-carbon compound (3-phosphoglycerate); the oxygenation pathway also forms a two-carbon phosphoglycolate product."
+  },
+  {
+    "question_number": "43",
+    "pdf_page": "6",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-09-botany",
+    "topic_name": "Bt Cotton",
+    "difficulty": "easy",
+    "stem": "Bt cotton developed by introducing a toxin gene from Bacillus thuringiensis is resistant to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Insect pests"
+      },
+      {
+        "id": "B",
+        "text": "Fungal diseases"
+      },
+      {
+        "id": "C",
+        "text": "Plant nematodes"
+      },
+      {
+        "id": "D",
+        "text": "Insect predators"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The introduced cry gene makes Bt cotton toxic to susceptible insect pests, especially bollworms."
+  },
+  {
+    "question_number": "44",
+    "pdf_page": "6",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-07-zoology",
+    "topic_name": "Anthropogenic Selection",
+    "difficulty": "medium",
+    "stem": "Which are examples of organisms that evolved in response to environmental changes caused by human activity? (a) Darwin's finches; (b) herbicide-resistant weeds; (c) drug-resistant eukaryotes; (d) human-created dog breeds.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a) only"
+      },
+      {
+        "id": "B",
+        "text": "(a) and (c)"
+      },
+      {
+        "id": "C",
+        "text": "(b), (c), and (d)"
+      },
+      {
+        "id": "D",
+        "text": "(d) only"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Herbicides, drugs and selective breeding are human-driven pressures that favour resistant populations or selected traits."
+  },
+  {
+    "question_number": "45",
+    "pdf_page": "6",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-08-zoology",
+    "topic_name": "Active and Passive Immunity",
+    "difficulty": "medium",
+    "stem": "Identify the wrong statement about immunity.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Exposure to an antigen can lead the host to produce antibodies; this is active immunity."
+      },
+      {
+        "id": "B",
+        "text": "Directly supplied ready-made antibodies provide passive immunity."
+      },
+      {
+        "id": "C",
+        "text": "Active immunity is quick and gives a full response."
+      },
+      {
+        "id": "D",
+        "text": "A foetus receives some antibodies from its mother by passive immunity."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Active immunity develops over time after antigen exposure and produces immunological memory; passive immunity acts immediately."
+  },
+  {
+    "question_number": "46",
+    "pdf_page": "6",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-08-zoology",
+    "topic_name": "Animal Breeding",
+    "difficulty": "medium",
+    "stem": "The new sheep breed Hisardale was formed from Bikaneri ewes and Marino rams by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Outcrossing"
+      },
+      {
+        "id": "B",
+        "text": "Mutational breeding"
+      },
+      {
+        "id": "C",
+        "text": "Cross-breeding"
+      },
+      {
+        "id": "D",
+        "text": "Inbreeding"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Hisardale was developed by cross-breeding Bikaneri ewes with Marino rams."
+  },
+  {
+    "question_number": "47",
+    "pdf_page": "6",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Human Digestive System",
+    "difficulty": "easy",
+    "stem": "Identify the correct statement about the human digestive system.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The ileum opens into the small intestine."
+      },
+      {
+        "id": "B",
+        "text": "The serosa is the innermost layer of the alimentary canal."
+      },
+      {
+        "id": "C",
+        "text": "The ileum is a highly coiled part."
+      },
+      {
+        "id": "D",
+        "text": "The vermiform appendix arises from the duodenum."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The ileum is a highly coiled part of the small intestine. The serosa is the outermost layer, and the appendix arises near the caecum."
+  },
+  {
+    "question_number": "48",
+    "pdf_page": "7",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-08-botany",
+    "topic_name": "Microbes and Useful Products",
+    "difficulty": "medium",
+    "stem": "Match: (a) Clostridium butylicum; (b) Trichoderma polysporum; (c) Monascus purpureus; (d) Aspergillus niger.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-citric acid, (b)-blood cholesterol lowering agent, (c)-butyric acid, (d)-Cyclosporin-A"
+      },
+      {
+        "id": "B",
+        "text": "(a)-butyric acid, (b)-Cyclosporin-A, (c)-blood cholesterol lowering agent, (d)-citric acid"
+      },
+      {
+        "id": "C",
+        "text": "(a)-Cyclosporin-A, (b)-butyric acid, (c)-blood cholesterol lowering agent, (d)-citric acid"
+      },
+      {
+        "id": "D",
+        "text": "(a)-blood cholesterol lowering agent, (b)-citric acid, (c)-butyric acid, (d)-Cyclosporin-A"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Clostridium produces butyric acid, Trichoderma yields cyclosporin-A, Monascus produces cholesterol-lowering statins, and Aspergillus niger produces citric acid."
+  },
+  {
+    "question_number": "49",
+    "pdf_page": "7",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-08-zoology",
+    "topic_name": "Diabetes Mellitus",
+    "difficulty": "medium",
+    "stem": "Which conditions in urine are indicative of diabetes mellitus?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Uremia and ketonuria"
+      },
+      {
+        "id": "B",
+        "text": "Uremia and renal calculi"
+      },
+      {
+        "id": "C",
+        "text": "Ketonuria and glycosuria"
+      },
+      {
+        "id": "D",
+        "text": "Renal calculi and hyperglycaemia"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Diabetes mellitus can result in glucose in urine and, when fat breakdown is increased, ketone bodies in urine."
+  },
+  {
+    "question_number": "50",
+    "pdf_page": "7",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-01-botany",
+    "topic_name": "Floridean Starch",
+    "difficulty": "easy",
+    "stem": "Floridean starch has a structure similar to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Starch and cellulose"
+      },
+      {
+        "id": "B",
+        "text": "Amylopectin and glycogen"
+      },
+      {
+        "id": "C",
+        "text": "Mannitol and algin"
+      },
+      {
+        "id": "D",
+        "text": "Laminarin and cellulose"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Floridean starch is a branched reserve polysaccharide structurally similar to amylopectin and glycogen."
+  },
+  {
+    "question_number": "51",
+    "pdf_page": "7",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-08-zoology",
+    "topic_name": "Sexually Transmitted Infections",
+    "difficulty": "easy",
+    "stem": "Which option includes only sexually transmitted diseases?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gonorrhoea, syphilis, genital herpes"
+      },
+      {
+        "id": "B",
+        "text": "Gonorrhoea, malaria, genital herpes"
+      },
+      {
+        "id": "C",
+        "text": "AIDS, malaria, filaria"
+      },
+      {
+        "id": "D",
+        "text": "Cancer, AIDS, syphilis"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Gonorrhoea, syphilis and genital herpes are sexually transmitted infections. Malaria and filariasis are not."
+  },
+  {
+    "question_number": "52",
+    "pdf_page": "7",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Meiosis Stages",
+    "difficulty": "medium",
+    "stem": "Match the meiotic stages with their associated events: (a) zygotene; (b) pachytene; (c) diplotene; (d) diakinesis.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-terminalisation, (b)-chiasmata, (c)-synapsis, (d)-crossing over"
+      },
+      {
+        "id": "B",
+        "text": "(a)-synapsis, (b)-crossing over, (c)-chiasmata, (d)-terminalisation"
+      },
+      {
+        "id": "C",
+        "text": "(a)-terminalisation, (b)-crossing over, (c)-synapsis, (d)-chiasmata"
+      },
+      {
+        "id": "D",
+        "text": "(a)-chiasmata, (b)-synapsis, (c)-crossing over, (d)-terminalisation"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Synapsis occurs in zygotene, crossing over in pachytene, chiasmata become visible in diplotene, and terminalisation occurs in diakinesis."
+  },
+  {
+    "question_number": "53",
+    "pdf_page": "7",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-01-botany",
+    "topic_name": "Unicellular Algae",
+    "difficulty": "easy",
+    "stem": "Which pair consists of unicellular algae used as single-cell protein sources?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Laminaria and Sargassum"
+      },
+      {
+        "id": "B",
+        "text": "Gelidium and Gracilaria"
+      },
+      {
+        "id": "C",
+        "text": "Anabaena and Volvox"
+      },
+      {
+        "id": "D",
+        "text": "Chlorella and Spirulina"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Chlorella and Spirulina are unicellular microorganisms used as protein-rich biomass."
+  },
+  {
+    "question_number": "54",
+    "pdf_page": "7",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-06-zoology",
+    "topic_name": "Hormonal Control of Ovulation",
+    "difficulty": "medium",
+    "stem": "Which hormone level can trigger the release of the ovum from the Graafian follicle?",
+    "options": [
+      {
+        "id": "A",
+        "text": "High concentration of estrogen"
+      },
+      {
+        "id": "B",
+        "text": "High concentration of progesterone"
+      },
+      {
+        "id": "C",
+        "text": "Low concentration of LH"
+      },
+      {
+        "id": "D",
+        "text": "Low concentration of FSH"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sustained high estrogen from the mature follicle leads to positive feedback and the LH surge that triggers ovulation."
+  },
+  {
+    "question_number": "55",
+    "pdf_page": "7",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-09-botany",
+    "topic_name": "Biotechnology Applications",
+    "difficulty": "medium",
+    "stem": "Match: (a) Bt cotton; (b) adenosine deaminase deficiency; (c) RNA interference; (d) PCR.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-Bacillus thuringiensis, (b)-gene therapy, (c)-cellular defence, (d)-detection of HIV infection"
+      },
+      {
+        "id": "B",
+        "text": "(a)-detection of HIV infection, (b)-cellular defence, (c)-gene therapy, (d)-Bacillus thuringiensis"
+      },
+      {
+        "id": "C",
+        "text": "(a)-gene therapy, (b)-detection of HIV infection, (c)-Bacillus thuringiensis, (d)-cellular defence"
+      },
+      {
+        "id": "D",
+        "text": "(a)-cellular defence, (b)-gene therapy, (c)-detection of HIV infection, (d)-Bacillus thuringiensis"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Bt cotton uses B. thuringiensis genes; ADA deficiency can be treated with gene therapy; RNAi is a cellular defence mechanism; PCR can detect HIV infection."
+  },
+  {
+    "question_number": "56",
+    "pdf_page": "8",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-10-botany",
+    "topic_name": "Montreal Protocol",
+    "difficulty": "easy",
+    "stem": "The Montreal Protocol, signed in 1987, was intended to control:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Transport of genetically modified organisms between countries"
+      },
+      {
+        "id": "B",
+        "text": "Emission of ozone-depleting substances"
+      },
+      {
+        "id": "C",
+        "text": "Release of greenhouse gases"
+      },
+      {
+        "id": "D",
+        "text": "Disposal of electronic waste"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The Montreal Protocol phases out ozone-depleting substances such as chlorofluorocarbons."
+  },
+  {
+    "question_number": "57",
+    "pdf_page": "8",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-01-botany",
+    "topic_name": "Viroids",
+    "difficulty": "easy",
+    "stem": "Which statement about viroids is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They have RNA enclosed in a protein coat."
+      },
+      {
+        "id": "B",
+        "text": "They consist of free RNA without a protein coat."
+      },
+      {
+        "id": "C",
+        "text": "They have DNA enclosed in a protein coat."
+      },
+      {
+        "id": "D",
+        "text": "They consist of free DNA without a protein coat."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Viroids are small infectious agents made of naked, low-molecular-weight RNA and lack a protein coat."
+  },
+  {
+    "question_number": "58",
+    "pdf_page": "8",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-02-botany",
+    "topic_name": "Ovary Position in Flowers",
+    "difficulty": "easy",
+    "stem": "A half-inferior ovary is characteristic of:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Brinjal"
+      },
+      {
+        "id": "B",
+        "text": "Mustard"
+      },
+      {
+        "id": "C",
+        "text": "Sunflower"
+      },
+      {
+        "id": "D",
+        "text": "Plum"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Plum has a perigynous flower with a half-inferior ovary."
+  },
+  {
+    "question_number": "59",
+    "pdf_page": "8",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Activation of Trypsinogen",
+    "difficulty": "easy",
+    "stem": "Enterokinase helps convert:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Protein into polypeptides"
+      },
+      {
+        "id": "B",
+        "text": "Trypsinogen into trypsin"
+      },
+      {
+        "id": "C",
+        "text": "Caseinogen into casein"
+      },
+      {
+        "id": "D",
+        "text": "Pepsinogen into pepsin"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Enterokinase from the intestinal mucosa activates pancreatic trypsinogen to trypsin."
+  },
+  {
+    "question_number": "60",
+    "pdf_page": "8",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-10-botany",
+    "topic_name": "Trophic Levels",
+    "difficulty": "medium",
+    "stem": "Match grassland species with trophic levels: (a) fourth trophic level; (b) second; (c) first; (d) third.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-vulture, (b)-rabbit, (c)-grass, (d)-crow"
+      },
+      {
+        "id": "B",
+        "text": "(a)-crow, (b)-grass, (c)-vulture, (d)-rabbit"
+      },
+      {
+        "id": "C",
+        "text": "(a)-rabbit, (b)-vulture, (c)-crow, (d)-grass"
+      },
+      {
+        "id": "D",
+        "text": "(a)-grass, (b)-rabbit, (c)-crow, (d)-vulture"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Grass is the producer, rabbit is a primary consumer, crow represents a higher consumer level, and vulture is placed at the fourth level in this matching set."
+  },
+  {
+    "question_number": "61",
+    "pdf_page": "8",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "Mendelian Experiments",
+    "difficulty": "easy",
+    "stem": "How many pairs of true-breeding pea plant varieties did Mendel select that differed in one character with contrasting traits?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Mendel selected 14 true-breeding pea varieties, arranged as seven pairs with contrasting traits."
+  },
+  {
+    "question_number": "62",
+    "pdf_page": "8",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Human Ear",
+    "difficulty": "medium",
+    "stem": "Match: (a) organ of Corti; (b) cochlea; (c) Eustachian tube; (d) stapes.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-coiled labyrinth, (b)-oval window, (c)-basilar membrane, (d)-middle ear to pharynx"
+      },
+      {
+        "id": "B",
+        "text": "(a)-middle ear to pharynx, (b)-organ of Corti, (c)-oval window, (d)-coiled labyrinth"
+      },
+      {
+        "id": "C",
+        "text": "(a)-basilar membrane, (b)-coiled part of labyrinth, (c)-connects middle ear and pharynx, (d)-attached to oval window"
+      },
+      {
+        "id": "D",
+        "text": "(a)-oval window, (b)-middle ear to pharynx, (c)-coiled labyrinth, (d)-basilar membrane"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The organ of Corti rests on the basilar membrane, the cochlea is the coiled labyrinthine part, the Eustachian tube connects to the pharynx, and stapes contacts the oval window."
+  },
+  {
+    "question_number": "63",
+    "pdf_page": "8",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-06-botany",
+    "topic_name": "Pollination in Aquatic Plants",
+    "difficulty": "medium",
+    "stem": "In water hyacinth and water lily, pollination takes place by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Insects or wind"
+      },
+      {
+        "id": "B",
+        "text": "Water currents only"
+      },
+      {
+        "id": "C",
+        "text": "Wind and water"
+      },
+      {
+        "id": "D",
+        "text": "Insects and water"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "These aquatic plants raise their flowers above water and are pollinated by insects or wind rather than water currents."
+  },
+  {
+    "question_number": "64",
+    "pdf_page": "8",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "Gibberellin in Sugarcane",
+    "difficulty": "easy",
+    "stem": "Which plant growth regulator can increase sugarcane stem length and thereby raise yield?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cytokinin"
+      },
+      {
+        "id": "B",
+        "text": "Gibberellin"
+      },
+      {
+        "id": "C",
+        "text": "Ethylene"
+      },
+      {
+        "id": "D",
+        "text": "Abscisic acid"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Gibberellins promote internode elongation in sugarcane, increasing stem length and sugar yield."
+  },
+  {
+    "question_number": "65",
+    "pdf_page": "8",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "Electron Transport in the Light Reaction",
+    "difficulty": "medium",
+    "stem": "During the light reaction, plastoquinone transfers electrons from:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Photosystem II to the cytochrome b6f complex"
+      },
+      {
+        "id": "B",
+        "text": "The cytochrome b6f complex to photosystem I"
+      },
+      {
+        "id": "C",
+        "text": "Photosystem I to NADP+"
+      },
+      {
+        "id": "D",
+        "text": "Photosystem I to ATP synthase"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Plastoquinone carries electrons from photosystem II to the cytochrome b6f complex in the thylakoid membrane."
+  },
+  {
+    "question_number": "66",
+    "pdf_page": "9",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "Seed Dormancy",
+    "difficulty": "easy",
+    "stem": "Which is not an inhibitory substance that governs seed dormancy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gibberellic acid"
+      },
+      {
+        "id": "B",
+        "text": "Abscisic acid"
+      },
+      {
+        "id": "C",
+        "text": "Phenolic acid"
+      },
+      {
+        "id": "D",
+        "text": "Para-ascorbic acid"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Gibberellins promote germination and can overcome dormancy; abscisic acid is a major dormancy-promoting inhibitor."
+  },
+  {
+    "question_number": "67",
+    "pdf_page": "9",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "Transcription",
+    "difficulty": "easy",
+    "stem": "Which enzyme facilitates opening of the DNA helix during transcription?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNA ligase"
+      },
+      {
+        "id": "B",
+        "text": "DNA helicase"
+      },
+      {
+        "id": "C",
+        "text": "DNA polymerase"
+      },
+      {
+        "id": "D",
+        "text": "RNA polymerase"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "RNA polymerase binds the promoter and locally unwinds DNA to form the transcription bubble."
+  },
+  {
+    "question_number": "68",
+    "pdf_page": "9",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Osmoregulation",
+    "difficulty": "medium",
+    "stem": "Which process helps prevent diuresis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increased water reabsorption caused by undersecretion of ADH"
+      },
+      {
+        "id": "B",
+        "text": "Sodium and water reabsorption from renal tubules under aldosterone"
+      },
+      {
+        "id": "C",
+        "text": "Vasoconstriction caused by atrial natriuretic factor"
+      },
+      {
+        "id": "D",
+        "text": "Decreased renin secretion by juxtaglomerular cells"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Aldosterone increases sodium reabsorption in the distal nephron; water follows osmotically, reducing urine loss."
+  },
+  {
+    "question_number": "69",
+    "pdf_page": "9",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-10-botany",
+    "topic_name": "Ecosystem Productivity",
+    "difficulty": "easy",
+    "stem": "Which statement correctly relates gross primary productivity (GPP) to net primary productivity (NPP)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "GPP is always less than NPP."
+      },
+      {
+        "id": "B",
+        "text": "GPP is always greater than NPP."
+      },
+      {
+        "id": "C",
+        "text": "GPP and NPP are the same."
+      },
+      {
+        "id": "D",
+        "text": "GPP and NPP have no relationship."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "NPP equals GPP minus the producers' respiratory losses, so GPP exceeds NPP."
+  },
+  {
+    "question_number": "70",
+    "pdf_page": "9",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-06-zoology",
+    "topic_name": "Reproductive Structures and Hormones",
+    "difficulty": "medium",
+    "stem": "Match: (a) placenta; (b) zona pellucida; (c) bulbourethral glands; (d) Leydig cells.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-lubrication of penis, (b)-layer of ovum, (c)-androgens, (d)-hCG"
+      },
+      {
+        "id": "B",
+        "text": "(a)-androgens, (b)-hCG, (c)-layer of ovum, (d)-lubrication of penis"
+      },
+      {
+        "id": "C",
+        "text": "(a)-layer of ovum, (b)-androgens, (c)-lubrication of penis, (d)-hCG"
+      },
+      {
+        "id": "D",
+        "text": "(a)-hCG, (b)-layer of ovum, (c)-lubrication of penis, (d)-androgens"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The placenta secretes hCG, zona pellucida surrounds the ovum, bulbourethral glands provide lubrication, and Leydig cells produce androgens."
+  },
+  {
+    "question_number": "71",
+    "pdf_page": "9",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-01-botany",
+    "topic_name": "Pteridophytes",
+    "difficulty": "easy",
+    "stem": "Strobili or cones are found in which of the following?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Salvinia"
+      },
+      {
+        "id": "B",
+        "text": "Pteris"
+      },
+      {
+        "id": "C",
+        "text": "Marchantia"
+      },
+      {
+        "id": "D",
+        "text": "Equisetum"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Equisetum bears terminal strobili that contain its sporangia."
+  },
+  {
+    "question_number": "72",
+    "pdf_page": "9",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Cell Cycle",
+    "difficulty": "easy",
+    "stem": "Some dividing cells leave the cycle and enter the quiescent G0 state. This occurs at the end of which phase?",
+    "options": [
+      {
+        "id": "A",
+        "text": "M phase"
+      },
+      {
+        "id": "B",
+        "text": "G1 phase"
+      },
+      {
+        "id": "C",
+        "text": "S phase"
+      },
+      {
+        "id": "D",
+        "text": "G2 phase"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Cells generally enter G0 from G1, before DNA synthesis begins."
+  },
+  {
+    "question_number": "73",
+    "pdf_page": "9",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "Evolution",
+    "difficulty": "easy",
+    "stem": "The flippers of penguins and dolphins are examples of:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Adaptive radiation"
+      },
+      {
+        "id": "B",
+        "text": "Convergent evolution"
+      },
+      {
+        "id": "C",
+        "text": "Industrial melanism"
+      },
+      {
+        "id": "D",
+        "text": "Natural selection"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Similar functional adaptations evolved independently in these distantly related groups."
+  },
+  {
+    "question_number": "74",
+    "pdf_page": "9",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "DNA Structure",
+    "difficulty": "medium",
+    "stem": "A DNA double helix has 6.6 x 10^9 base pairs in a typical mammalian cell. If adjacent base pairs are 0.34 nm apart, what is the approximate DNA length?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.0 m"
+      },
+      {
+        "id": "B",
+        "text": "2.5 m"
+      },
+      {
+        "id": "C",
+        "text": "2.2 m"
+      },
+      {
+        "id": "D",
+        "text": "2.7 m"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Multiplying 6.6 x 10^9 base pairs by 0.34 nm gives 2.244 x 10^9 nm, or about 2.2 m."
+  },
+  {
+    "question_number": "75",
+    "pdf_page": "10",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Electrocardiogram",
+    "difficulty": "easy",
+    "stem": "The QRS complex in a standard ECG represents:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Repolarisation of the atria"
+      },
+      {
+        "id": "B",
+        "text": "Depolarisation of the atria"
+      },
+      {
+        "id": "C",
+        "text": "Depolarisation of the ventricles"
+      },
+      {
+        "id": "D",
+        "text": "Repolarisation of the ventricles"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The QRS complex represents ventricular depolarisation; atrial repolarisation is usually obscured by it."
+  },
+  {
+    "question_number": "76",
+    "pdf_page": "10",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Leukocytes",
+    "difficulty": "medium",
+    "stem": "Match: (a) eosinophils; (b) basophils; (c) neutrophils; (d) lymphocytes.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-histaminase/destructive enzymes, (b)-histamine granules, (c)-phagocytosis, (d)-immune response"
+      },
+      {
+        "id": "B",
+        "text": "(a)-histamine granules, (b)-immune response, (c)-phagocytosis, (d)-histaminase"
+      },
+      {
+        "id": "C",
+        "text": "(a)-immune response, (b)-phagocytosis, (c)-histamine granules, (d)-histaminase"
+      },
+      {
+        "id": "D",
+        "text": "(a)-phagocytosis, (b)-immune response, (c)-histaminase, (d)-histamine granules"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Eosinophils release histaminase and destructive enzymes; basophils release histamine; neutrophils phagocytose; lymphocytes mediate immune responses."
+  },
+  {
+    "question_number": "77",
+    "pdf_page": "10",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "DNA Base Pairing",
+    "difficulty": "easy",
+    "stem": "Which statement about adenine and thymine pairing is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They pair through two hydrogen bonds."
+      },
+      {
+        "id": "B",
+        "text": "They pair through one hydrogen bond."
+      },
+      {
+        "id": "C",
+        "text": "They pair through three hydrogen bonds."
+      },
+      {
+        "id": "D",
+        "text": "Adenine does not pair with thymine."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In DNA, adenine pairs with thymine through two hydrogen bonds."
+  },
+  {
+    "question_number": "78",
+    "pdf_page": "10",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-09-botany",
+    "topic_name": "Cloning Vectors",
+    "difficulty": "easy",
+    "stem": "Which vector feature controls the copy number of linked DNA?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Selectable marker"
+      },
+      {
+        "id": "B",
+        "text": "Origin of replication (ori)"
+      },
+      {
+        "id": "C",
+        "text": "Palindromic sequence"
+      },
+      {
+        "id": "D",
+        "text": "Recognition site"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The origin of replication is associated with vector replication and influences the copy number of linked DNA."
+  },
+  {
+    "question_number": "79",
+    "pdf_page": "10",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Amino Acids",
+    "difficulty": "easy",
+    "stem": "Which of the following is a basic amino acid?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tyrosine"
+      },
+      {
+        "id": "B",
+        "text": "Glutamic acid"
+      },
+      {
+        "id": "C",
+        "text": "Lysine"
+      },
+      {
+        "id": "D",
+        "text": "Valine"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Lysine has a basic side chain; glutamic acid is acidic, while tyrosine and valine are neutral."
+  },
+  {
+    "question_number": "80",
+    "pdf_page": "10",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Endocrine Disorders",
+    "difficulty": "medium",
+    "stem": "Match: (a) pituitary gland; (b) thyroid gland; (c) adrenal gland; (d) pancreas.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-Addison's disease, (b)-diabetes insipidus, (c)-Graves' disease, (d)-diabetes mellitus"
+      },
+      {
+        "id": "B",
+        "text": "(a)-diabetes insipidus, (b)-diabetes mellitus, (c)-Graves' disease, (d)-Addison's disease"
+      },
+      {
+        "id": "C",
+        "text": "(a)-diabetes insipidus, (b)-Graves' disease, (c)-Addison's disease, (d)-diabetes mellitus"
+      },
+      {
+        "id": "D",
+        "text": "(a)-diabetes mellitus, (b)-Graves' disease, (c)-Addison's disease, (d)-diabetes insipidus"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Diabetes insipidus can follow pituitary ADH deficiency; Graves' disease affects thyroid, Addison's disease affects adrenal cortex, and diabetes mellitus involves the pancreas."
+  },
+  {
+    "question_number": "81",
+    "pdf_page": "10",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Glucocorticoids",
+    "difficulty": "medium",
+    "stem": "Select the correct statement about pancreatic and adrenal hormones.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Glucocorticoids stimulate gluconeogenesis."
+      },
+      {
+        "id": "B",
+        "text": "Glucagon is associated with hypoglycaemia."
+      },
+      {
+        "id": "C",
+        "text": "Insulin acts on pancreatic cells and adipocytes."
+      },
+      {
+        "id": "D",
+        "text": "Insulin is associated with hyperglycaemia."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Glucocorticoids promote gluconeogenesis. Glucagon raises blood glucose, and insulin lowers it by acting on target tissues such as adipocytes."
+  },
+  {
+    "question_number": "82",
+    "pdf_page": "10",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Proteins",
+    "difficulty": "easy",
+    "stem": "Which is the most abundant protein in animals?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Haemoglobin"
+      },
+      {
+        "id": "B",
+        "text": "Collagen"
+      },
+      {
+        "id": "C",
+        "text": "Lectin"
+      },
+      {
+        "id": "D",
+        "text": "Insulin"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Collagen is the most abundant protein in the animal kingdom and is a major structural protein."
+  },
+  {
+    "question_number": "83",
+    "pdf_page": "10",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "Chromosomal Theory of Inheritance",
+    "difficulty": "easy",
+    "stem": "Who experimentally verified the chromosomal theory of inheritance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mendel"
+      },
+      {
+        "id": "B",
+        "text": "Sutton"
+      },
+      {
+        "id": "C",
+        "text": "Boveri"
+      },
+      {
+        "id": "D",
+        "text": "Morgan"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Thomas Hunt Morgan's work on Drosophila experimentally supported the chromosomal theory of inheritance."
+  },
+  {
+    "question_number": "84",
+    "pdf_page": "11",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-02-zoology",
+    "topic_name": "Axial and Appendicular Skeleton",
+    "difficulty": "medium",
+    "stem": "Match: (a) floating ribs; (b) acromion; (c) scapula; (d) glenoid cavity.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-second to seventh ribs, (b)-head of humerus, (c)-clavicle, (d)-do not connect with sternum"
+      },
+      {
+        "id": "B",
+        "text": "(a)-clavicle, (b)-head of humerus, (c)-do not connect with sternum, (d)-second to seventh ribs"
+      },
+      {
+        "id": "C",
+        "text": "(a)-head of humerus, (b)-clavicle, (c)-second to seventh ribs, (d)-do not connect with sternum"
+      },
+      {
+        "id": "D",
+        "text": "(a)-do not connect with sternum, (b)-clavicle, (c)-located between second and seventh ribs, (d)-articulates with head of humerus"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Floating ribs do not attach to the sternum; the acromion articulates with the clavicle; the scapula overlies ribs 2-7; the glenoid cavity receives the humeral head."
+  },
+  {
+    "question_number": "85",
+    "pdf_page": "11",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "Citric Acid Cycle",
+    "difficulty": "easy",
+    "stem": "How many substrate-level phosphorylation steps occur in one turn of the citric acid cycle?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Zero"
+      },
+      {
+        "id": "B",
+        "text": "One"
+      },
+      {
+        "id": "C",
+        "text": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Three"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "One GTP (or ATP equivalent) is formed by substrate-level phosphorylation during conversion of succinyl-CoA to succinate."
+  },
+  {
+    "question_number": "86",
+    "pdf_page": "11",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Meiosis",
+    "difficulty": "easy",
+    "stem": "During which meiotic stage does the synaptonemal complex dissolve?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pachytene"
+      },
+      {
+        "id": "B",
+        "text": "Zygotene"
+      },
+      {
+        "id": "C",
+        "text": "Diplotene"
+      },
+      {
+        "id": "D",
+        "text": "Leptotene"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The synaptonemal complex disassembles during diplotene, when homologous chromosomes begin to separate except at chiasmata."
+  },
+  {
+    "question_number": "87",
+    "pdf_page": "11",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-01-zoology",
+    "topic_name": "Animal Symmetry and Body Plan",
+    "difficulty": "easy",
+    "stem": "Which group is bilaterally symmetrical and acoelomate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ctenophora"
+      },
+      {
+        "id": "B",
+        "text": "Platyhelminthes"
+      },
+      {
+        "id": "C",
+        "text": "Aschelminthes"
+      },
+      {
+        "id": "D",
+        "text": "Annelida"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Platyhelminthes are bilaterally symmetrical and lack a body cavity, making them acoelomate."
+  },
+  {
+    "question_number": "88",
+    "pdf_page": "11",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-02-botany",
+    "topic_name": "Ovule Structure",
+    "difficulty": "easy",
+    "stem": "At which point is the body of an ovule fused with its funicle?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hilum"
+      },
+      {
+        "id": "B",
+        "text": "Micropyle"
+      },
+      {
+        "id": "C",
+        "text": "Nucellus"
+      },
+      {
+        "id": "D",
+        "text": "Chalaza"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The hilum is the point where the funicle attaches to the ovule."
+  },
+  {
+    "question_number": "89",
+    "pdf_page": "11",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Digestive Epithelium",
+    "difficulty": "easy",
+    "stem": "Goblet cells of the alimentary canal are modified from which cells?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Squamous epithelial cells"
+      },
+      {
+        "id": "B",
+        "text": "Columnar epithelial cells"
+      },
+      {
+        "id": "C",
+        "text": "Chondrocytes"
+      },
+      {
+        "id": "D",
+        "text": "Compound epithelial cells"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Goblet cells are mucus-secreting, unicellular glands formed from columnar epithelial cells lining the alimentary canal."
+  },
+  {
+    "question_number": "90",
+    "pdf_page": "11",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-08-zoology",
+    "topic_name": "Ultraviolet Radiation and Eye Health",
+    "difficulty": "medium",
+    "stem": "Snow-blindness in the Antarctic region is caused by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Freezing of fluids in the eye at low temperature"
+      },
+      {
+        "id": "B",
+        "text": "Corneal inflammation after a high dose of UV-B radiation"
+      },
+      {
+        "id": "C",
+        "text": "High reflection of visible light from snow"
+      },
+      {
+        "id": "D",
+        "text": "Retinal damage caused by infrared rays"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Snow blindness is photokeratitis caused by excessive ultraviolet exposure, especially reflected UV-B."
+  },
+  {
+    "question_number": "91",
+    "pdf_page": "11",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-03-chemistry",
+    "topic_name": "Molecular Stability",
+    "difficulty": "easy",
+    "stem": "Which of the following molecules does not exist as a stable diatomic molecule?",
+    "options": [
+      {
+        "id": "A",
+        "text": "He2"
+      },
+      {
+        "id": "B",
+        "text": "Li2"
+      },
+      {
+        "id": "C",
+        "text": "C2"
+      },
+      {
+        "id": "D",
+        "text": "O2"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "He2 has no net bond order in the simple molecular-orbital description and is not a stable ordinary diatomic molecule."
+  },
+  {
+    "question_number": "92",
+    "pdf_page": "11",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-06-chemistry",
+    "topic_name": "Solubility Product",
+    "difficulty": "medium",
+    "stem": "Estimate the solubility of Ni(OH)2 in 0.1 M NaOH if its ionic product is 2 x 10^-15.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 x 10^-13 M"
+      },
+      {
+        "id": "B",
+        "text": "2 x 10^-8 M"
+      },
+      {
+        "id": "C",
+        "text": "1 x 10^-13 M"
+      },
+      {
+        "id": "D",
+        "text": "1 x 10^8 M"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Using Ksp = [Ni2+][OH-]^2 and [OH-] approximately 0.1 M gives [Ni2+] = 2 x 10^-13 M."
+  },
+  {
+    "question_number": "93",
+    "pdf_page": "11",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-10-chemistry",
+    "topic_name": "Carbon Allotropes and Industrial Uses",
+    "difficulty": "medium",
+    "stem": "Identify the correct statements: (a) gaseous CO2 is used as a refrigerant for ice cream and frozen food; (b) C60 contains twelve six-membered rings and twenty five-membered rings; (c) ZSM-5 zeolite converts alcohols into gasoline; (d) CO is a colourless, odourless gas.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a), (b), and (c) only"
+      },
+      {
+        "id": "B",
+        "text": "(a) and (c) only"
+      },
+      {
+        "id": "C",
+        "text": "(b) and (c) only"
+      },
+      {
+        "id": "D",
+        "text": "(c) and (d) only"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "According to the official E1 key, option D is correct. Statement (a) refers to gaseous CO2 rather than solid dry ice used for refrigeration; statement (b) reverses the numbers of pentagons and hexagons in C60."
+  },
+  {
+    "question_number": "94",
+    "pdf_page": "12",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-04-chemistry",
+    "topic_name": "Gibbs Energy and Equilibrium",
+    "difficulty": "medium",
+    "stem": "Sucrose hydrolysis has an equilibrium constant of 2 x 10^13 at 300 K. What expression gives the standard Gibbs-energy change?",
+    "options": [
+      {
+        "id": "A",
+        "text": "-8.314 x 300 x ln(2 x 10^13) J mol^-1"
+      },
+      {
+        "id": "B",
+        "text": "+8.314 x 300 x ln(2 x 10^13) J mol^-1"
+      },
+      {
+        "id": "C",
+        "text": "+8.314 x 300 x ln(3 x 10^13) J mol^-1"
+      },
+      {
+        "id": "D",
+        "text": "-8.314 x 300 x ln(4 x 10^13) J mol^-1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For a standard equilibrium constant, delta G degree = -RT ln K; substituting the given values gives option A."
+  },
+  {
+    "question_number": "95",
+    "pdf_page": "12",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-16-chemistry",
+    "topic_name": "Side-Chain Chlorination",
+    "difficulty": "medium",
+    "stem": "Toluene is treated with Cl2 under light to form X. Hydrolysis of X with water at 373 K gives benzaldehyde. Identify X.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chlorobenzene"
+      },
+      {
+        "id": "B",
+        "text": "Benzyl chloride, C6H5CH2Cl"
+      },
+      {
+        "id": "C",
+        "text": "Benzal chloride, C6H5CHCl2"
+      },
+      {
+        "id": "D",
+        "text": "Benzotrichloride, C6H5CCl3"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Further side-chain chlorination forms benzal chloride, which hydrolyses to benzaldehyde."
+  },
+  {
+    "question_number": "96",
+    "pdf_page": "12",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-09-chemistry",
+    "topic_name": "Systematic Element Names",
+    "difficulty": "easy",
+    "stem": "Identify the incorrect match between a systematic temporary name and an IUPAC official name: (a) Unnilunium - Mendelevium; (b) Unniltrium - Lawrencium; (c) Unnilhexium - Seaborgium; (d) Unununnium - Darmstadtium.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a), (i)"
+      },
+      {
+        "id": "B",
+        "text": "(b), (ii)"
+      },
+      {
+        "id": "C",
+        "text": "(c), (iii)"
+      },
+      {
+        "id": "D",
+        "text": "(d), (iv)"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Unununnium was the temporary name for element 111, now named roentgenium; darmstadtium is element 110."
+  },
+  {
+    "question_number": "97",
+    "pdf_page": "12",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-02-chemistry",
+    "topic_name": "Body-Centred Cubic Unit Cell",
+    "difficulty": "medium",
+    "stem": "An element has a body-centred cubic structure with a cell edge of 288 pm. What is its atomic radius?",
+    "options": [
+      {
+        "id": "A",
+        "text": "(sqrt(3)/4) x 288 pm"
+      },
+      {
+        "id": "B",
+        "text": "(sqrt(2)/4) x 288 pm"
+      },
+      {
+        "id": "C",
+        "text": "(4/sqrt(3)) x 288 pm"
+      },
+      {
+        "id": "D",
+        "text": "(4/sqrt(2)) x 288 pm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In a body-centred cubic unit cell, the body diagonal equals 4r and also sqrt(3)a, so r = sqrt(3)a/4."
+  },
+  {
+    "question_number": "98",
+    "pdf_page": "12",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-03-chemistry",
+    "topic_name": "Molecular Polarity",
+    "difficulty": "medium",
+    "stem": "Which set consists entirely of molecules with zero dipole moment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ammonia, beryllium difluoride, water, 1,4-dichlorobenzene"
+      },
+      {
+        "id": "B",
+        "text": "Boron trifluoride, hydrogen fluoride, carbon dioxide, 1,3-dichlorobenzene"
+      },
+      {
+        "id": "C",
+        "text": "Nitrogen trifluoride, beryllium difluoride, water, 1,3-dichlorobenzene"
+      },
+      {
+        "id": "D",
+        "text": "Boron trifluoride, beryllium difluoride, carbon dioxide, 1,4-dichlorobenzene"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Each molecule in option D has a symmetric geometry or substitution pattern that cancels its bond dipoles."
+  },
+  {
+    "question_number": "99",
+    "pdf_page": "12",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-07-chemistry",
+    "topic_name": "Electrolysis of Water",
+    "difficulty": "easy",
+    "stem": "What product is obtained at the anode when dilute sulfuric acid is electrolysed using platinum electrodes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hydrogen gas"
+      },
+      {
+        "id": "B",
+        "text": "Oxygen gas"
+      },
+      {
+        "id": "C",
+        "text": "Hydrogen sulfide gas"
+      },
+      {
+        "id": "D",
+        "text": "Sulfur dioxide gas"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Water is oxidised at the anode during electrolysis, releasing oxygen gas."
+  },
+  {
+    "question_number": "100",
+    "pdf_page": "13",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-17-chemistry",
+    "topic_name": "Grignard Reagents",
+    "difficulty": "medium",
+    "stem": "Acetone reacts with methylmagnesium chloride followed by hydrolysis. Which alcohol is formed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Propan-2-ol"
+      },
+      {
+        "id": "B",
+        "text": "Butan-2-ol"
+      },
+      {
+        "id": "C",
+        "text": "2-methylpropan-2-ol"
+      },
+      {
+        "id": "D",
+        "text": "2-methylpropan-1-ol"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The methyl group adds to the carbonyl carbon of acetone; hydrolysis then produces the tertiary alcohol 2-methylpropan-2-ol."
+  },
+  {
+    "question_number": "101",
+    "pdf_page": "13",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-10-chemistry",
+    "topic_name": "Oxoacids of Sulfur",
+    "difficulty": "medium",
+    "stem": "Which sulfur oxoacid contains an oxygen-oxygen linkage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H2SO3, sulfurous acid"
+      },
+      {
+        "id": "B",
+        "text": "H2SO4, sulfuric acid"
+      },
+      {
+        "id": "C",
+        "text": "H2S2O8, peroxodisulfuric acid"
+      },
+      {
+        "id": "D",
+        "text": "H2S2O7, pyrosulfuric acid"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Peroxodisulfuric acid contains a peroxide O-O bond."
+  },
+  {
+    "question_number": "102",
+    "pdf_page": "13",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-18-chemistry",
+    "topic_name": "Primary Amines",
+    "difficulty": "easy",
+    "stem": "Which type of amine gives the carbylamine test?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aniline (a primary amine)"
+      },
+      {
+        "id": "B",
+        "text": "N-methylaniline (a secondary amine)"
+      },
+      {
+        "id": "C",
+        "text": "N,N-dimethylaniline (a tertiary amine)"
+      },
+      {
+        "id": "D",
+        "text": "N-ethylaniline (a secondary amine)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Only primary amines give the carbylamine test with chloroform and alcoholic KOH."
+  },
+  {
+    "question_number": "103",
+    "pdf_page": "13",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-11-chemistry",
+    "topic_name": "Magnetic Moment of Ions",
+    "difficulty": "medium",
+    "stem": "What is the calculated spin-only magnetic moment of Cr2+?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3.87 BM"
+      },
+      {
+        "id": "B",
+        "text": "4.90 BM"
+      },
+      {
+        "id": "C",
+        "text": "5.92 BM"
+      },
+      {
+        "id": "D",
+        "text": "2.84 BM"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Cr2+ is 3d4 with four unpaired electrons; mu = sqrt(n(n+2)) = sqrt(24), about 4.90 BM."
+  },
+  {
+    "question_number": "104",
+    "pdf_page": "13",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-04-chemistry",
+    "topic_name": "First Law of Thermodynamics",
+    "difficulty": "medium",
+    "stem": "Which set of conditions describes free expansion of an ideal gas under adiabatic conditions?",
+    "options": [
+      {
+        "id": "A",
+        "text": "q = 0, delta T = 0, and w = 0"
+      },
+      {
+        "id": "B",
+        "text": "q = 0, delta T < 0, and w > 0"
+      },
+      {
+        "id": "C",
+        "text": "q < 0, delta T = 0, and w = 0"
+      },
+      {
+        "id": "D",
+        "text": "q > 0, delta T > 0, and w > 0"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For free expansion into vacuum, no heat is exchanged and no work is done; for an ideal gas the internal energy and temperature do not change."
+  },
+  {
+    "question_number": "105",
+    "pdf_page": "13",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-05-chemistry",
+    "topic_name": "Freezing Point Depression",
+    "difficulty": "easy",
+    "stem": "A non-electrolyte solution has molality 0.078 m in benzene. If Kf is 5.12 K kg mol^-1, what is the freezing-point depression to two decimal places?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.20 K"
+      },
+      {
+        "id": "B",
+        "text": "0.80 K"
+      },
+      {
+        "id": "C",
+        "text": "0.40 K"
+      },
+      {
+        "id": "D",
+        "text": "0.60 K"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For a non-electrolyte, delta Tf = Kf m = 5.12 x 0.078 = 0.399 K, which rounds to 0.40 K."
+  },
+  {
+    "question_number": "106",
+    "pdf_page": "13",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-07-chemistry",
+    "topic_name": "Faraday's Laws of Electrolysis",
+    "difficulty": "easy",
+    "stem": "How many Faradays are required to produce 20 g of calcium from molten CaCl2? (Atomic mass Ca = 40 g mol^-1)",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 F"
+      },
+      {
+        "id": "B",
+        "text": "2 F"
+      },
+      {
+        "id": "C",
+        "text": "3 F"
+      },
+      {
+        "id": "D",
+        "text": "4 F"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Twenty grams of calcium is 0.5 mol. Ca2+ requires two electrons per atom, so 1 mol of electrons, or 1 Faraday, is needed."
+  },
+  {
+    "question_number": "107",
+    "pdf_page": "13",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-17-chemistry",
+    "topic_name": "Cross Aldol Condensation",
+    "difficulty": "medium",
+    "stem": "The reaction of benzaldehyde with acetophenone in dilute NaOH is known as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aldol condensation"
+      },
+      {
+        "id": "B",
+        "text": "Cannizzaro reaction"
+      },
+      {
+        "id": "C",
+        "text": "Cross Cannizzaro reaction"
+      },
+      {
+        "id": "D",
+        "text": "Cross aldol condensation"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The enolate of acetophenone reacts with benzaldehyde in a crossed aldol condensation."
+  },
+  {
+    "question_number": "108",
+    "pdf_page": "13",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-13-chemistry",
+    "topic_name": "Paper Chromatography",
+    "difficulty": "easy",
+    "stem": "Paper chromatography is an example of which type of chromatography?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Adsorption chromatography"
+      },
+      {
+        "id": "B",
+        "text": "Partition chromatography"
+      },
+      {
+        "id": "C",
+        "text": "Thin-layer chromatography"
+      },
+      {
+        "id": "D",
+        "text": "Column chromatography"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Paper chromatography separates substances by partition between water held in the paper and the moving solvent."
+  },
+  {
+    "question_number": "109",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-08-chemistry",
+    "topic_name": "Collision Theory",
+    "difficulty": "easy",
+    "stem": "Increasing the concentration of the reactants in a reaction changes which quantity?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Activation energy"
+      },
+      {
+        "id": "B",
+        "text": "Heat of reaction"
+      },
+      {
+        "id": "C",
+        "text": "Threshold energy"
+      },
+      {
+        "id": "D",
+        "text": "Collision frequency"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A higher reactant concentration increases the number of particles per unit volume and therefore collision frequency."
+  },
+  {
+    "question_number": "110",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-01-chemistry",
+    "topic_name": "Partial Pressure",
+    "difficulty": "medium",
+    "stem": "A cylinder contains 7 g of N2 and 8 g of Ar at a total pressure of 27 bar. What is the partial pressure of N2? (N = 14, Ar = 40 g mol^-1)",
+    "options": [
+      {
+        "id": "A",
+        "text": "9 bar"
+      },
+      {
+        "id": "B",
+        "text": "12 bar"
+      },
+      {
+        "id": "C",
+        "text": "15 bar"
+      },
+      {
+        "id": "D",
+        "text": "18 bar"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "There are 0.25 mol of N2 and 0.20 mol of Ar. Dalton's law gives pN2 = (0.25/0.45) x 27 = 15 bar."
+  },
+  {
+    "question_number": "111",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-10-chemistry",
+    "topic_name": "Metallurgy",
+    "difficulty": "medium",
+    "stem": "Select the correct statement about iron and copper metallurgy.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wrought iron contains about 4% carbon."
+      },
+      {
+        "id": "B",
+        "text": "Blister copper gets its appearance from evolving carbon dioxide."
+      },
+      {
+        "id": "C",
+        "text": "Nickel is refined by the Van Arkel vapour-phase method."
+      },
+      {
+        "id": "D",
+        "text": "Pig iron can be moulded into a variety of shapes."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Pig iron is cast into different shapes. Wrought iron has very little carbon; blister copper releases sulfur dioxide, and nickel is refined by the Mond process."
+  },
+  {
+    "question_number": "112",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-14-chemistry",
+    "topic_name": "Carbocation Stability",
+    "difficulty": "medium",
+    "stem": "Why is a tertiary-butyl carbocation more stable than a secondary-butyl carbocation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inductive effect of methyl groups"
+      },
+      {
+        "id": "B",
+        "text": "Resonance donation by methyl groups"
+      },
+      {
+        "id": "C",
+        "text": "Negative resonance effect of methyl groups"
+      },
+      {
+        "id": "D",
+        "text": "Hyperconjugation"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Greater hyperconjugation from adjacent C-H bonds stabilises the tertiary carbocation."
+  },
+  {
+    "question_number": "113",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-17-chemistry",
+    "topic_name": "Cationic Detergents",
+    "difficulty": "easy",
+    "stem": "Which of the following is a cationic detergent?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sodium lauryl sulfate"
+      },
+      {
+        "id": "B",
+        "text": "Sodium stearate"
+      },
+      {
+        "id": "C",
+        "text": "Cetyltrimethylammonium bromide"
+      },
+      {
+        "id": "D",
+        "text": "Sodium dodecylbenzenesulphonate"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Cetyltrimethylammonium bromide is a quaternary ammonium salt with a positively charged surfactant ion."
+  },
+  {
+    "question_number": "114",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-16-chemistry",
+    "topic_name": "Elimination Reactions",
+    "difficulty": "medium",
+    "stem": "The conversion of 2-bromopentane to pent-2-ene is described by which statements: (a) beta-elimination, (b) follows Zaitsev's rule, (c) dehydrohalogenation, (d) dehydration?",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a), (b), and (c) only"
+      },
+      {
+        "id": "B",
+        "text": "(a), (c), and (d) only"
+      },
+      {
+        "id": "C",
+        "text": "(b), (c), and (d) only"
+      },
+      {
+        "id": "D",
+        "text": "(a), (b), and (d) only"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Removing HBr from 2-bromopentane is beta-elimination and dehydrohalogenation; Zaitsev's rule favours pent-2-ene. Dehydration removes water from an alcohol."
+  },
+  {
+    "question_number": "115",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-05-chemistry",
+    "topic_name": "Raoult's Law",
+    "difficulty": "medium",
+    "stem": "Which mixture shows positive deviation from Raoult's law?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ethanol and acetone"
+      },
+      {
+        "id": "B",
+        "text": "Benzene and toluene"
+      },
+      {
+        "id": "C",
+        "text": "Acetone and chloroform"
+      },
+      {
+        "id": "D",
+        "text": "Chloroethane and bromoethane"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ethanol-acetone interactions weaken the strong ethanol-ethanol hydrogen bonding, producing a positive deviation."
+  },
+  {
+    "question_number": "116",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-12-chemistry",
+    "topic_name": "Spectrochemical Series",
+    "difficulty": "medium",
+    "stem": "Which option lists these ligands in increasing field strength?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SCN- < F- < C2O4^2- < CN-"
+      },
+      {
+        "id": "B",
+        "text": "SCN- < F- < CN- < C2O4^2-"
+      },
+      {
+        "id": "C",
+        "text": "F- < SCN- < C2O4^2- < CN-"
+      },
+      {
+        "id": "D",
+        "text": "CN- < C2O4^2- < SCN- < F-"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For the ligands listed, the field strength increases approximately SCN- < F- < oxalate < CN-."
+  },
+  {
+    "question_number": "117",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-19-chemistry",
+    "topic_name": "Basic Amino Acids",
+    "difficulty": "easy",
+    "stem": "Which of the following is a basic amino acid?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Serine"
+      },
+      {
+        "id": "B",
+        "text": "Alanine"
+      },
+      {
+        "id": "C",
+        "text": "Tyrosine"
+      },
+      {
+        "id": "D",
+        "text": "Lysine"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Lysine has a basic side chain; serine, alanine and tyrosine are not basic amino acids."
+  },
+  {
+    "question_number": "118",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-06-chemistry",
+    "topic_name": "Common Ion Effect",
+    "difficulty": "medium",
+    "stem": "When HCl gas is passed through a solution containing CaCl2, MgCl2, and NaCl, which compound crystallises?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both MgCl2 and CaCl2"
+      },
+      {
+        "id": "B",
+        "text": "Only NaCl"
+      },
+      {
+        "id": "C",
+        "text": "Only MgCl2"
+      },
+      {
+        "id": "D",
+        "text": "NaCl, MgCl2, and CaCl2"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The high chloride-ion concentration selectively reduces NaCl solubility enough for it to crystallise."
+  },
+  {
+    "question_number": "119",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-15-chemistry",
+    "topic_name": "Natural Polymers",
+    "difficulty": "easy",
+    "stem": "Which of the following is a natural polymer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "cis-1,4-polyisoprene"
+      },
+      {
+        "id": "B",
+        "text": "Poly(butadiene-styrene)"
+      },
+      {
+        "id": "C",
+        "text": "Polybutadiene"
+      },
+      {
+        "id": "D",
+        "text": "Poly(butadiene-acrylonitrile)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Natural rubber is cis-1,4-polyisoprene."
+  },
+  {
+    "question_number": "120",
+    "pdf_page": "15",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-10-chemistry",
+    "topic_name": "Carbon Monoxide",
+    "difficulty": "medium",
+    "stem": "Which statement about carbon monoxide is not correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It forms carboxyhaemoglobin."
+      },
+      {
+        "id": "B",
+        "text": "It reduces the oxygen-carrying ability of blood."
+      },
+      {
+        "id": "C",
+        "text": "Carboxyhaemoglobin is less stable than oxyhaemoglobin."
+      },
+      {
+        "id": "D",
+        "text": "It is produced by incomplete combustion."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Carbon monoxide binds haemoglobin much more strongly than oxygen, so carboxyhaemoglobin is more stable and impairs oxygen transport."
+  },
+  {
+    "question_number": "121",
+    "pdf_page": "15",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-19-chemistry",
+    "topic_name": "Hydrolysis of Sucrose",
+    "difficulty": "easy",
+    "stem": "Which products are formed when sucrose is hydrolysed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "beta-D-glucose and alpha-D-fructose"
+      },
+      {
+        "id": "B",
+        "text": "alpha-D-glucose and beta-D-glucose"
+      },
+      {
+        "id": "C",
+        "text": "alpha-D-glucose and beta-D-fructose"
+      },
+      {
+        "id": "D",
+        "text": "alpha-D-fructose and beta-D-fructose"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Sucrose hydrolysis yields glucose and fructose; the answer-keyed pair here is alpha-D-glucose and beta-D-fructose."
+  },
+  {
+    "question_number": "122",
+    "pdf_page": "15",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-01-chemistry",
+    "topic_name": "Potassium Ions",
+    "difficulty": "easy",
+    "stem": "Which metal ion activates many enzymes, is involved in glucose oxidation and ATP production, and works with sodium in nerve-signal transmission?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Iron"
+      },
+      {
+        "id": "B",
+        "text": "Copper"
+      },
+      {
+        "id": "C",
+        "text": "Calcium"
+      },
+      {
+        "id": "D",
+        "text": "Potassium"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Potassium ions support enzyme activity and, together with sodium gradients, contribute to nerve impulse transmission."
+  },
+  {
+    "question_number": "123",
+    "pdf_page": "15",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-01-chemistry",
+    "topic_name": "Moles and Number of Atoms",
+    "difficulty": "easy",
+    "stem": "Which sample contains the greatest number of atoms?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 g Ag (atomic mass 108)"
+      },
+      {
+        "id": "B",
+        "text": "1 g Mg (atomic mass 24)"
+      },
+      {
+        "id": "C",
+        "text": "1 g O2 (atomic mass of O = 16)"
+      },
+      {
+        "id": "D",
+        "text": "1 g Li (atomic mass 7)"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "The 1 g lithium sample has the greatest number of moles of atoms among the listed samples."
+  },
+  {
+    "question_number": "124",
+    "pdf_page": "15",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-02-chemistry",
+    "topic_name": "Isotopes and Subatomic Particles",
+    "difficulty": "easy",
+    "stem": "How many protons, neutrons and electrons are in a neutral lutetium-175 atom (atomic number 71)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "71, 104 and 71"
+      },
+      {
+        "id": "B",
+        "text": "104, 71 and 71"
+      },
+      {
+        "id": "C",
+        "text": "71, 71 and 104"
+      },
+      {
+        "id": "D",
+        "text": "175, 104 and 71"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Lutetium-175 has 71 protons, 175 - 71 = 104 neutrons, and 71 electrons when neutral."
+  },
+  {
+    "question_number": "125",
+    "pdf_page": "15",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-07-chemistry",
+    "topic_name": "Oxidation Number",
+    "difficulty": "easy",
+    "stem": "How does the oxidation number of carbon change in CH4 + 4Cl2 -> CCl4 + 4HCl?",
+    "options": [
+      {
+        "id": "A",
+        "text": "+4 to +4"
+      },
+      {
+        "id": "B",
+        "text": "0 to +4"
+      },
+      {
+        "id": "C",
+        "text": "-4 to +4"
+      },
+      {
+        "id": "D",
+        "text": "0 to -4"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Carbon is -4 in methane and +4 in carbon tetrachloride."
+  },
+  {
+    "question_number": "126",
+    "pdf_page": "15",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-11-chemistry",
+    "topic_name": "Transition Metal Chemistry",
+    "difficulty": "medium",
+    "stem": "Identify the incorrect statement about transition metals.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cr2+ (d4) is a stronger reducing agent than Fe2+ (d6) in water."
+      },
+      {
+        "id": "B",
+        "text": "Transition metals can show catalytic activity because of multiple oxidation states and complex formation."
+      },
+      {
+        "id": "C",
+        "text": "Interstitial compounds form when small atoms such as H, C or N are trapped in metal crystal lattices."
+      },
+      {
+        "id": "D",
+        "text": "Chromium has different oxidation states in CrO4^2- and Cr2O7^2-."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Chromium is in the +6 oxidation state in both chromate and dichromate ions, so statement D is incorrect."
+  },
+  {
+    "question_number": "127",
+    "pdf_page": "15",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-04-chemistry",
+    "topic_name": "Enthalpy and Entropy",
+    "difficulty": "medium",
+    "stem": "For the reaction 2Cl(g) -> Cl2(g), which signs apply to delta H and delta S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "delta H > 0 and delta S > 0"
+      },
+      {
+        "id": "B",
+        "text": "delta H > 0 and delta S < 0"
+      },
+      {
+        "id": "C",
+        "text": "delta H < 0 and delta S > 0"
+      },
+      {
+        "id": "D",
+        "text": "delta H < 0 and delta S < 0"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Bond formation releases energy, so delta H is negative; two gas particles form one, so entropy decreases."
+  },
+  {
+    "question_number": "128",
+    "pdf_page": "15",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-06-chemistry",
+    "topic_name": "Colloidal Stability",
+    "difficulty": "easy",
+    "stem": "Zeta potential is useful for determining which property of a colloidal solution?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Viscosity"
+      },
+      {
+        "id": "B",
+        "text": "Solubility"
+      },
+      {
+        "id": "C",
+        "text": "Stability of colloidal particles"
+      },
+      {
+        "id": "D",
+        "text": "Particle size"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The magnitude of zeta potential indicates electrostatic repulsion between particles and helps assess colloidal stability."
+  },
+  {
+    "question_number": "129",
+    "pdf_page": "16",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-12-chemistry",
+    "topic_name": "Complex Formation with Copper(II)",
+    "difficulty": "medium",
+    "stem": "Urea reacts with water to form ammonia and carbon dioxide. When the ammonia is passed through aqueous Cu2+, which deep-blue complex is formed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CuSO4"
+      },
+      {
+        "id": "B",
+        "text": "[Cu(NH3)4]2+"
+      },
+      {
+        "id": "C",
+        "text": "Cu(OH)2"
+      },
+      {
+        "id": "D",
+        "text": "CuCO3.Cu(OH)2"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ammonia coordinates to Cu2+ to form the deep-blue tetraamminecopper(II) complex."
+  },
+  {
+    "question_number": "130",
+    "pdf_page": "16",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-10-chemistry",
+    "topic_name": "Hydrides and Industrial Chemistry",
+    "difficulty": "medium",
+    "stem": "Match: (a) CO(g)+H2(g); (b) temporary hardness of water; (c) B2H6; (d) H2O2 with (i) Mg(HCO3)2 and Ca(HCO3)2; (ii) electron-deficient hydride; (iii) synthesis gas; (iv) non-planar structure.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      },
+      {
+        "id": "B",
+        "text": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+      },
+      {
+        "id": "C",
+        "text": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      },
+      {
+        "id": "D",
+        "text": "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "CO and H2 form synthesis gas; bicarbonates cause temporary hardness; diborane is electron deficient; gaseous H2O2 has a non-planar structure."
+  },
+  {
+    "question_number": "131",
+    "pdf_page": "16",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-10-chemistry",
+    "topic_name": "Nature of Oxides",
+    "difficulty": "medium",
+    "stem": "Match each oxide with its nature: (a) CO; (b) BaO; (c) Al2O3; (d) Cl2O7.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)-basic, (b)-neutral, (c)-acidic, (d)-amphoteric"
+      },
+      {
+        "id": "B",
+        "text": "(a)-neutral, (b)-basic, (c)-amphoteric, (d)-acidic"
+      },
+      {
+        "id": "C",
+        "text": "(a)-acidic, (b)-amphoteric, (c)-basic, (d)-neutral"
+      },
+      {
+        "id": "D",
+        "text": "(a)-amphoteric, (b)-acidic, (c)-neutral, (d)-basic"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "CO is neutral, BaO is basic, Al2O3 is amphoteric, and Cl2O7 is an acidic oxide."
+  },
+  {
+    "question_number": "132",
+    "pdf_page": "16",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-08-chemistry",
+    "topic_name": "First-Order Kinetics",
+    "difficulty": "medium",
+    "stem": "A first-order reaction has rate constant 4.606 x 10^-3 s^-1. How long does it take for 2.0 g of reactant to decrease to 0.2 g?",
+    "options": [
+      {
+        "id": "A",
+        "text": "100 s"
+      },
+      {
+        "id": "B",
+        "text": "200 s"
+      },
+      {
+        "id": "C",
+        "text": "500 s"
+      },
+      {
+        "id": "D",
+        "text": "1000 s"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For a first-order reaction, t = ln(2.0/0.2)/k = ln(10)/(4.606 x 10^-3), about 500 s."
+  },
+  {
+    "question_number": "133",
+    "pdf_page": "16",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-15-chemistry",
+    "topic_name": "Ozonolysis of Alkenes",
+    "difficulty": "medium",
+    "stem": "Which alkene produces methanal as one product on ozonolysis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "But-2-ene, CH3-CH=CH-CH3"
+      },
+      {
+        "id": "B",
+        "text": "Propane, CH3-CH2-CH3"
+      },
+      {
+        "id": "C",
+        "text": "Propene, CH2=CH-CH3"
+      },
+      {
+        "id": "D",
+        "text": "Butane, CH3-CH2-CH2-CH3"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Cleavage of propene's terminal double bond gives methanal and ethanal."
+  },
+  {
+    "question_number": "134",
+    "pdf_page": "16",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-15-chemistry",
+    "topic_name": "Wurtz Reaction",
+    "difficulty": "medium",
+    "stem": "Which alkane cannot be prepared in good yield by the Wurtz reaction?",
+    "options": [
+      {
+        "id": "A",
+        "text": "n-Hexane"
+      },
+      {
+        "id": "B",
+        "text": "2,3-dimethylbutane"
+      },
+      {
+        "id": "C",
+        "text": "n-Heptane"
+      },
+      {
+        "id": "D",
+        "text": "n-Butane"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Preparing an odd-carbon straight-chain alkane by coupling different alkyl halides gives a mixture, so n-heptane is not obtained in good yield."
+  },
+  {
+    "question_number": "135",
+    "pdf_page": "17",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-17-chemistry",
+    "topic_name": "Ether Cleavage",
+    "difficulty": "medium",
+    "stem": "What are the products when anisole is cleaved with HI?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phenol and CH3I"
+      },
+      {
+        "id": "B",
+        "text": "Iodobenzene and CH3OH"
+      },
+      {
+        "id": "C",
+        "text": "Phenol and C2H5I"
+      },
+      {
+        "id": "D",
+        "text": "Iodobenzene and C2H5OH"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "HI cleaves the methyl-oxygen bond of anisole to form phenol and methyl iodide."
+  },
+  {
+    "question_number": "136",
+    "pdf_page": "17",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-18-physics",
+    "topic_name": "Bohr Model",
+    "difficulty": "easy",
+    "stem": "For which of the following is the Bohr model not valid?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hydrogen atom"
+      },
+      {
+        "id": "B",
+        "text": "Singly ionised helium atom (He+)"
+      },
+      {
+        "id": "C",
+        "text": "Deuterium atom"
+      },
+      {
+        "id": "D",
+        "text": "Singly ionised neon atom (Ne+)"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Bohr's model describes one-electron systems. Ne+ still has more than one electron."
+  },
+  {
+    "question_number": "137",
+    "pdf_page": "17",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-15-physics",
+    "topic_name": "Energy in Electromagnetic Waves",
+    "difficulty": "medium",
+    "stem": "What is the ratio of the electric-field and magnetic-field contributions to the intensity of an electromagnetic wave?",
+    "options": [
+      {
+        "id": "A",
+        "text": "c : 1"
+      },
+      {
+        "id": "B",
+        "text": "1 : 1"
+      },
+      {
+        "id": "C",
+        "text": "1 : c"
+      },
+      {
+        "id": "D",
+        "text": "1 : c^2"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In an electromagnetic wave, electric and magnetic fields contribute equally to the energy density and intensity."
+  },
+  {
+    "question_number": "138",
+    "pdf_page": "17",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-16-physics",
+    "topic_name": "Brewster Angle",
+    "difficulty": "medium",
+    "stem": "For an interface, the Brewster angle iB lies in which range?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0 degrees < iB < 30 degrees"
+      },
+      {
+        "id": "B",
+        "text": "30 degrees < iB < 45 degrees"
+      },
+      {
+        "id": "C",
+        "text": "45 degrees < iB < 90 degrees"
+      },
+      {
+        "id": "D",
+        "text": "iB = 90 degrees"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For light incident from air onto an ordinary dielectric, the Brewster angle is greater than 45 degrees and less than 90 degrees."
+  },
+  {
+    "question_number": "139",
+    "pdf_page": "17",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-09-physics",
+    "topic_name": "Gas Density",
+    "difficulty": "medium",
+    "stem": "A cylinder contains hydrogen at 249 kPa and 27 degrees C. Find its density using R = 8.3 J mol^-1 K^-1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.5 kg m^-3"
+      },
+      {
+        "id": "B",
+        "text": "0.2 kg m^-3"
+      },
+      {
+        "id": "C",
+        "text": "0.1 kg m^-3"
+      },
+      {
+        "id": "D",
+        "text": "0.02 kg m^-3"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Using rho = pM/RT with M = 0.002 kg mol^-1 and T = 300 K gives about 0.2 kg m^-3."
+  },
+  {
+    "question_number": "140",
+    "pdf_page": "17",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-16-physics",
+    "topic_name": "Small-Angle Prism",
+    "difficulty": "medium",
+    "stem": "A ray enters one face of a small-angle prism of angle A and emerges normally from the opposite face. If its refractive index is mu, the incidence angle is approximately:",
+    "options": [
+      {
+        "id": "A",
+        "text": "A/(2mu)"
+      },
+      {
+        "id": "B",
+        "text": "2A/mu"
+      },
+      {
+        "id": "C",
+        "text": "mu A"
+      },
+      {
+        "id": "D",
+        "text": "mu A/2"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Normal emergence makes the internal incidence angle at the second face zero. The first internal angle is approximately A, so Snell's law gives i approximately mu A."
+  },
+  {
+    "question_number": "141",
+    "pdf_page": "17",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-08-physics",
+    "topic_name": "Free Expansion",
+    "difficulty": "easy",
+    "stem": "An ideal gas expands into an evacuated, equal-sized cylinder in a thermally insulated system. The process is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Isothermal"
+      },
+      {
+        "id": "B",
+        "text": "Adiabatic"
+      },
+      {
+        "id": "C",
+        "text": "Isochoric"
+      },
+      {
+        "id": "D",
+        "text": "Isobaric"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The system is thermally insulated, so no heat is exchanged; the free expansion is adiabatic."
+  },
+  {
+    "question_number": "142",
+    "pdf_page": "17",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-18-physics",
+    "topic_name": "Mass-Energy Equivalence",
+    "difficulty": "easy",
+    "stem": "What is the energy equivalent of 0.5 g of matter?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4.5 x 10^16 J"
+      },
+      {
+        "id": "B",
+        "text": "4.5 x 10^13 J"
+      },
+      {
+        "id": "C",
+        "text": "1.5 x 10^13 J"
+      },
+      {
+        "id": "D",
+        "text": "0.5 x 10^13 J"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "E = mc^2 with m = 0.0005 kg gives 4.5 x 10^13 J."
+  },
+  {
+    "question_number": "143",
+    "pdf_page": "17",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-06-physics",
+    "topic_name": "Gravity at Altitude",
+    "difficulty": "easy",
+    "stem": "A body weighs 72 N at Earth's surface. What is its gravitational force at a height equal to half Earth's radius?",
+    "options": [
+      {
+        "id": "A",
+        "text": "48 N"
+      },
+      {
+        "id": "B",
+        "text": "32 N"
+      },
+      {
+        "id": "C",
+        "text": "30 N"
+      },
+      {
+        "id": "D",
+        "text": "24 N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "At radius 1.5R, force is 72 x (R/1.5R)^2 = 32 N."
+  },
+  {
+    "question_number": "144",
+    "pdf_page": "18",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-19-physics",
+    "topic_name": "Temperature Coefficient of Resistance",
+    "difficulty": "easy",
+    "stem": "Which solids have a negative temperature coefficient of resistance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Metals"
+      },
+      {
+        "id": "B",
+        "text": "Insulators only"
+      },
+      {
+        "id": "C",
+        "text": "Semiconductors only"
+      },
+      {
+        "id": "D",
+        "text": "Insulators and semiconductors"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For common semiconductors and insulators, resistance generally falls as temperature rises, giving a negative coefficient."
+  },
+  {
+    "question_number": "145",
+    "pdf_page": "18",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-10-physics",
+    "topic_name": "Simple Harmonic Motion",
+    "difficulty": "easy",
+    "stem": "What is the phase difference between displacement and acceleration in simple harmonic motion?",
+    "options": [
+      {
+        "id": "A",
+        "text": "pi rad"
+      },
+      {
+        "id": "B",
+        "text": "3pi/2 rad"
+      },
+      {
+        "id": "C",
+        "text": "pi/2 rad"
+      },
+      {
+        "id": "D",
+        "text": "zero"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Acceleration is proportional to the negative of displacement, so the two are pi radians out of phase."
+  },
+  {
+    "question_number": "146",
+    "pdf_page": "18",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-20-physics",
+    "topic_name": "Screw Gauge",
+    "difficulty": "easy",
+    "stem": "A screw gauge has a least count of 0.01 mm and 50 divisions on its circular scale. What is its pitch?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.01 mm"
+      },
+      {
+        "id": "B",
+        "text": "0.25 mm"
+      },
+      {
+        "id": "C",
+        "text": "0.5 mm"
+      },
+      {
+        "id": "D",
+        "text": "1.0 mm"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Pitch equals least count multiplied by the number of circular-scale divisions: 0.01 x 50 = 0.5 mm."
+  },
+  {
+    "question_number": "147",
+    "pdf_page": "18",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-10-physics",
+    "topic_name": "Beats",
+    "difficulty": "medium",
+    "stem": "Two guitar strings have a beat frequency of 6 Hz. When the tension in string B is reduced slightly, the beat frequency increases to 7 Hz. If string A has frequency 530 Hz, what was the original frequency of B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "523 Hz"
+      },
+      {
+        "id": "B",
+        "text": "524 Hz"
+      },
+      {
+        "id": "C",
+        "text": "536 Hz"
+      },
+      {
+        "id": "D",
+        "text": "537 Hz"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Reducing B's tension lowers its frequency. Since the beat frequency increases, B was already below A: 530 - 6 = 524 Hz."
+  },
+  {
+    "question_number": "148",
+    "pdf_page": "18",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-05-physics",
+    "topic_name": "Centre of Mass",
+    "difficulty": "easy",
+    "stem": "Masses of 5 kg and 10 kg are attached to opposite ends of a 1 m massless rod. How far from the 5 kg mass is the centre of mass?",
+    "options": [
+      {
+        "id": "A",
+        "text": "33 cm"
+      },
+      {
+        "id": "B",
+        "text": "50 cm"
+      },
+      {
+        "id": "C",
+        "text": "67 cm"
+      },
+      {
+        "id": "D",
+        "text": "80 cm"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Taking the 5 kg end as origin, xCOM = (10 x 1)/(5 + 10) = 0.667 m, about 67 cm."
+  },
+  {
+    "question_number": "149",
+    "pdf_page": "18",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-05-physics",
+    "topic_name": "Torque Vector",
+    "difficulty": "medium",
+    "stem": "A force 3j N acts at a position vector 2k m. What is the torque about the origin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6i N m"
+      },
+      {
+        "id": "B",
+        "text": "6j N m"
+      },
+      {
+        "id": "C",
+        "text": "-6i N m"
+      },
+      {
+        "id": "D",
+        "text": "6k N m"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Torque is r x F = (2k) x (3j) = -6i N m."
+  },
+  {
+    "question_number": "150",
+    "pdf_page": "18",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-15-physics",
+    "topic_name": "Radiant Energy",
+    "difficulty": "easy",
+    "stem": "A non-reflecting 20 cm^2 surface receives light at normal incidence with average flux 20 W cm^-2. How much energy does it receive in one minute?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 x 10^3 J"
+      },
+      {
+        "id": "B",
+        "text": "12 x 10^3 J"
+      },
+      {
+        "id": "C",
+        "text": "24 x 10^3 J"
+      },
+      {
+        "id": "D",
+        "text": "48 x 10^3 J"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Power on the surface is 20 x 20 = 400 W. In 60 seconds it receives 24,000 J."
+  },
+  {
+    "question_number": "151",
+    "pdf_page": "18",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-11-physics",
+    "topic_name": "Electric Field Outside a Charged Sphere",
+    "difficulty": "medium",
+    "stem": "A spherical conductor of radius 10 cm carries a uniformly distributed charge of 3.2 x 10^-7 C. Find the electric-field magnitude 15 cm from its centre. Use k = 9 x 10^9 N m^2 C^-2.",
+    "options": [
+      {
+        "id": "A",
+        "text": "1.28 x 10^4 N C^-1"
+      },
+      {
+        "id": "B",
+        "text": "1.28 x 10^5 N C^-1"
+      },
+      {
+        "id": "C",
+        "text": "1.28 x 10^6 N C^-1"
+      },
+      {
+        "id": "D",
+        "text": "1.28 x 10^7 N C^-1"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Outside the conductor, E = kQ/r^2. With r = 0.15 m the result is 1.28 x 10^5 N C^-1."
+  },
+  {
+    "question_number": "152",
+    "pdf_page": "18",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-11-physics",
+    "topic_name": "Electric Potential and Field",
+    "difficulty": "easy",
+    "stem": "The electric potential is 5 V throughout a region of space. What is the magnitude of the electric field there?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Zero"
+      },
+      {
+        "id": "B",
+        "text": "0.5 N C^-1"
+      },
+      {
+        "id": "C",
+        "text": "1 N C^-1"
+      },
+      {
+        "id": "D",
+        "text": "5 N C^-1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The electric field is the negative spatial gradient of potential. A constant potential has zero gradient."
+  },
+  {
+    "question_number": "153",
+    "pdf_page": "18",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-19-physics",
+    "topic_name": "P-N Junction",
+    "difficulty": "easy",
+    "stem": "The depletion region of a p-n junction diode becomes wider due to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Forward bias only"
+      },
+      {
+        "id": "B",
+        "text": "Reverse bias only"
+      },
+      {
+        "id": "C",
+        "text": "Both forward and reverse bias"
+      },
+      {
+        "id": "D",
+        "text": "An increase in forward current"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Reverse bias pulls majority carriers away from the junction and widens the depletion region."
+  },
+  {
+    "question_number": "154",
+    "pdf_page": "19",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-14-physics",
+    "topic_name": "Capacitor in AC Circuit",
+    "difficulty": "medium",
+    "stem": "A 40 microfarad capacitor is connected to a 200 V, 50 Hz AC supply. What is the approximate rms current?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1.7 A"
+      },
+      {
+        "id": "B",
+        "text": "2.05 A"
+      },
+      {
+        "id": "C",
+        "text": "2.5 A"
+      },
+      {
+        "id": "D",
+        "text": "25.1 A"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Xc = 1/(2pi fC), so Irms = V/Xc is approximately 2.5 A."
+  },
+  {
+    "question_number": "155",
+    "pdf_page": "19",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-09-physics",
+    "topic_name": "Mean Free Path",
+    "difficulty": "medium",
+    "stem": "For a gas with molecular diameter d and number density n, which expression gives the mean free path?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/(sqrt(2) pi n d)"
+      },
+      {
+        "id": "B",
+        "text": "1/(sqrt(2) pi n d^2)"
+      },
+      {
+        "id": "C",
+        "text": "1/(sqrt(2) n^2 pi d^2)"
+      },
+      {
+        "id": "D",
+        "text": "1/(sqrt(2) n^2 pi^2 d^2)"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For hard-sphere molecules, the mean free path is lambda = 1/(sqrt(2) pi d^2 n)."
+  },
+  {
+    "question_number": "156",
+    "pdf_page": "19",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-19-physics",
+    "topic_name": "Transistor Action",
+    "difficulty": "easy",
+    "stem": "Which statement is correct for transistor action?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Base, emitter and collector have the same doping concentration."
+      },
+      {
+        "id": "B",
+        "text": "Base, emitter and collector have the same size."
+      },
+      {
+        "id": "C",
+        "text": "Both emitter and collector junctions are forward biased."
+      },
+      {
+        "id": "D",
+        "text": "The base region is very thin and lightly doped."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A transistor's base is thin and lightly doped so that most carriers injected by the emitter reach the collector."
+  },
+  {
+    "question_number": "157",
+    "pdf_page": "19",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-17-physics",
+    "topic_name": "Photoelectric Effect",
+    "difficulty": "easy",
+    "stem": "Light at 1.5 times a material's threshold frequency is incident on it. If the frequency is halved and intensity doubled, what is the photoelectric current?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Doubled"
+      },
+      {
+        "id": "B",
+        "text": "Four times"
+      },
+      {
+        "id": "C",
+        "text": "One-fourth"
+      },
+      {
+        "id": "D",
+        "text": "Zero"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "After halving, the frequency is below threshold, so no photoelectrons are emitted regardless of intensity."
+  },
+  {
+    "question_number": "158",
+    "pdf_page": "19",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-18-physics",
+    "topic_name": "Nuclear Fission",
+    "difficulty": "medium",
+    "stem": "When uranium-235 absorbs a neutron, it produces krypton-89, three neutrons and which other nucleus?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Barium-144"
+      },
+      {
+        "id": "B",
+        "text": "Zirconium-91"
+      },
+      {
+        "id": "C",
+        "text": "Krypton-101"
+      },
+      {
+        "id": "D",
+        "text": "Krypton-103"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Conserving nucleon number and charge in the stated fission reaction gives barium-144."
+  },
+  {
+    "question_number": "159",
+    "pdf_page": "19",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-01-physics",
+    "topic_name": "Energy Unit Conversion",
+    "difficulty": "easy",
+    "stem": "The energy needed to break one DNA bond is 10^-20 J. What is this energy approximately in electronvolts?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6 eV"
+      },
+      {
+        "id": "B",
+        "text": "0.6 eV"
+      },
+      {
+        "id": "C",
+        "text": "0.06 eV"
+      },
+      {
+        "id": "D",
+        "text": "0.006 eV"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Dividing 10^-20 J by 1.602 x 10^-19 J per eV gives about 0.06 eV."
+  },
+  {
+    "question_number": "160",
+    "pdf_page": "19",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-03-physics",
+    "topic_name": "Atwood Machine",
+    "difficulty": "easy",
+    "stem": "Two masses of 4 kg and 6 kg are connected over a frictionless pulley. What is the acceleration magnitude in terms of g?",
+    "options": [
+      {
+        "id": "A",
+        "text": "g"
+      },
+      {
+        "id": "B",
+        "text": "g/2"
+      },
+      {
+        "id": "C",
+        "text": "g/5"
+      },
+      {
+        "id": "D",
+        "text": "g/10"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For an Atwood machine, a = (6-4)g/(6+4) = g/5."
+  },
+  {
+    "question_number": "161",
+    "pdf_page": "19",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-01-physics",
+    "topic_name": "Young's Modulus",
+    "difficulty": "medium",
+    "stem": "A wire of original length L and cross-sectional area A extends to length L1 when a mass M is suspended from it. Which expression gives Young's modulus?",
+    "options": [
+      {
+        "id": "A",
+        "text": "MgL1/(AL)"
+      },
+      {
+        "id": "B",
+        "text": "Mg(L1-L)/(AL)"
+      },
+      {
+        "id": "C",
+        "text": "MgL/(AL1)"
+      },
+      {
+        "id": "D",
+        "text": "MgL/[A(L1-L)]"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Young's modulus is stress divided by strain: (Mg/A)/((L1-L)/L) = MgL/[A(L1-L)]."
+  },
+  {
+    "question_number": "162",
+    "pdf_page": "19",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-09-physics",
+    "topic_name": "Kinetic Theory of Gases",
+    "difficulty": "easy",
+    "stem": "What is the average translational thermal energy of a monoatomic gas particle at absolute temperature T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "(1/2) kB T"
+      },
+      {
+        "id": "B",
+        "text": "(3/2) kB T"
+      },
+      {
+        "id": "C",
+        "text": "(5/2) kB T"
+      },
+      {
+        "id": "D",
+        "text": "(7/2) kB T"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A monoatomic ideal-gas particle has three translational degrees of freedom, giving mean energy 3kBT/2."
+  },
+  {
+    "question_number": "163",
+    "pdf_page": "20",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-12-physics",
+    "topic_name": "Resistivity and Temperature",
+    "difficulty": "medium",
+    "stem": "Which graph best represents the variation of copper resistivity rho with temperature T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A straight line increasing with temperature"
+      },
+      {
+        "id": "B",
+        "text": "A decreasing curve"
+      },
+      {
+        "id": "C",
+        "text": "An increasing curve with upward curvature"
+      },
+      {
+        "id": "D",
+        "text": "A decreasing curve with downward curvature"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The E1 final key selects the increasing curved graph (option C) for this question."
+  },
+  {
+    "question_number": "164",
+    "pdf_page": "20",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-12-physics",
+    "topic_name": "Resistor Colour Code",
+    "difficulty": "easy",
+    "stem": "A resistor has colour bands Yellow, Violet, Brown and Gold. What are its resistance and tolerance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "470 kOhm, 5%"
+      },
+      {
+        "id": "B",
+        "text": "47 kOhm, 10%"
+      },
+      {
+        "id": "C",
+        "text": "4.7 kOhm, 5%"
+      },
+      {
+        "id": "D",
+        "text": "470 Ohm, 5%"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Yellow-violet gives 47, brown is a multiplier of 10, and gold indicates 5% tolerance."
+  },
+  {
+    "question_number": "165",
+    "pdf_page": "20",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-16-physics",
+    "topic_name": "Young's Double-Slit Experiment",
+    "difficulty": "easy",
+    "stem": "In Young's double-slit experiment, slit separation is halved and screen distance is doubled. How does fringe width change?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It doubles"
+      },
+      {
+        "id": "B",
+        "text": "It halves"
+      },
+      {
+        "id": "C",
+        "text": "It becomes four times"
+      },
+      {
+        "id": "D",
+        "text": "It becomes one-fourth"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Fringe width beta = lambda D/d. Doubling D and halving d multiplies beta by four."
+  },
+  {
+    "question_number": "166",
+    "pdf_page": "20",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-11-physics",
+    "topic_name": "Dielectric Permittivity",
+    "difficulty": "medium",
+    "stem": "An air-filled parallel-plate capacitor has capacitance 6 microfarads. A dielectric raises it to 30 microfarads. What is the permittivity of the dielectric if epsilon0 = 8.85 x 10^-12 C^2 N^-1 m^-2?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.44 x 10^-13 C^2 N^-1 m^-2"
+      },
+      {
+        "id": "B",
+        "text": "1.77 x 10^-12 C^2 N^-1 m^-2"
+      },
+      {
+        "id": "C",
+        "text": "0.44 x 10^-10 C^2 N^-1 m^-2"
+      },
+      {
+        "id": "D",
+        "text": "5.00 C^2 N^-1 m^-2"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The dielectric constant is 30/6 = 5, so epsilon = 5 epsilon0 = 4.425 x 10^-11 C^2 N^-1 m^-2."
+  },
+  {
+    "question_number": "167",
+    "pdf_page": "20",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-01-physics",
+    "topic_name": "Dimensions of Stress",
+    "difficulty": "easy",
+    "stem": "What are the dimensions of stress?",
+    "options": [
+      {
+        "id": "A",
+        "text": "[M L T^-2]"
+      },
+      {
+        "id": "B",
+        "text": "[M L^2 T^-2]"
+      },
+      {
+        "id": "C",
+        "text": "[M L^0 T^-2]"
+      },
+      {
+        "id": "D",
+        "text": "[M L^-1 T^-2]"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Stress is force per unit area, with dimensions (MLT^-2)/L^2 = ML^-1T^-2."
+  },
+  {
+    "question_number": "168",
+    "pdf_page": "20",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-16-physics",
+    "topic_name": "Telescope Resolution",
+    "difficulty": "medium",
+    "stem": "A star emits light of wavelength 600 nm. What is the angular resolution limit of a telescope with objective diameter 2 m?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3.66 x 10^-7 rad"
+      },
+      {
+        "id": "B",
+        "text": "1.83 x 10^-7 rad"
+      },
+      {
+        "id": "C",
+        "text": "7.32 x 10^-7 rad"
+      },
+      {
+        "id": "D",
+        "text": "6.00 x 10^-7 rad"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Rayleigh's criterion gives theta = 1.22 lambda/D = 3.66 x 10^-7 rad."
+  },
+  {
+    "question_number": "169",
+    "pdf_page": "20",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-14-physics",
+    "topic_name": "Series LCR Circuit",
+    "difficulty": "medium",
+    "stem": "In a series LCR circuit, removing L gives a phase difference of pi/3 between current and voltage. Removing C also gives a phase-difference magnitude of pi/3. What is the power factor with all components present?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Zero"
+      },
+      {
+        "id": "B",
+        "text": "0.5"
+      },
+      {
+        "id": "C",
+        "text": "1.0"
+      },
+      {
+        "id": "D",
+        "text": "-1.0"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The equal inductive and capacitive reactance magnitudes cancel, so the circuit is at resonance and its power factor is 1."
+  },
+  {
+    "question_number": "170",
+    "pdf_page": "20",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-11-physics",
+    "topic_name": "Potential of an Electric Dipole",
+    "difficulty": "medium",
+    "stem": "A short electric dipole has moment 16 x 10^-9 C m. Find its potential 0.6 m from its centre at 60 degrees to its axis. Use k = 9 x 10^9 N m^2 C^-2.",
+    "options": [
+      {
+        "id": "A",
+        "text": "50 V"
+      },
+      {
+        "id": "B",
+        "text": "200 V"
+      },
+      {
+        "id": "C",
+        "text": "400 V"
+      },
+      {
+        "id": "D",
+        "text": "Zero"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "V = kp cos(theta)/r^2, giving 9 x 10^9 x 16 x 10^-9 x 0.5 / 0.36 = 200 V."
+  },
+  {
+    "question_number": "171",
+    "pdf_page": "21",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-13-physics",
+    "topic_name": "Magnetic Susceptibility",
+    "difficulty": "medium",
+    "stem": "An iron rod with susceptibility 599 is placed in a magnetising field of 1200 A m^-1. What is its permeability? Use mu0 = 4pi x 10^-7 T m A^-1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.4pi x 10^-4 T m A^-1"
+      },
+      {
+        "id": "B",
+        "text": "8.0 x 10^-5 T m A^-1"
+      },
+      {
+        "id": "C",
+        "text": "2.4pi x 10^-5 T m A^-1"
+      },
+      {
+        "id": "D",
+        "text": "2.4pi x 10^-7 T m A^-1"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Relative permeability is 1 + chi = 600, so mu = 600 mu0 = 2.4pi x 10^-4 T m A^-1."
+  },
+  {
+    "question_number": "172",
+    "pdf_page": "21",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-13-physics",
+    "topic_name": "Magnetic Field of a Solenoid",
+    "difficulty": "easy",
+    "stem": "A 50 cm solenoid has 100 turns and carries 2.5 A. What is the magnetic field at its centre? Use mu0 = 4pi x 10^-7 T m A^-1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "6.28 x 10^-4 T"
+      },
+      {
+        "id": "B",
+        "text": "3.14 x 10^-4 T"
+      },
+      {
+        "id": "C",
+        "text": "6.28 x 10^-5 T"
+      },
+      {
+        "id": "D",
+        "text": "3.14 x 10^-5 T"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "B = mu0(N/L)I = 4pi x 10^-7 x 200 x 2.5 = 6.28 x 10^-4 T."
+  },
+  {
+    "question_number": "173",
+    "pdf_page": "21",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-12-physics",
+    "topic_name": "Carrier Mobility",
+    "difficulty": "easy",
+    "stem": "A charged particle has drift velocity 7.5 x 10^-4 m s^-1 in an electric field of 3 x 10^-10 V m^-1. What is its mobility?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.25 x 10^15 m^2 V^-1 s^-1"
+      },
+      {
+        "id": "B",
+        "text": "2.5 x 10^6 m^2 V^-1 s^-1"
+      },
+      {
+        "id": "C",
+        "text": "2.5 x 10^-6 m^2 V^-1 s^-1"
+      },
+      {
+        "id": "D",
+        "text": "2.25 x 10^-15 m^2 V^-1 s^-1"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Mobility is drift speed divided by electric-field magnitude: 7.5 x 10^-4 / (3 x 10^-10) = 2.5 x 10^6 m^2 V^-1 s^-1."
+  },
+  {
+    "question_number": "174",
+    "pdf_page": "21",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-07-physics",
+    "topic_name": "Specific Heat and Sphere Size",
+    "difficulty": "easy",
+    "stem": "Two solid copper spheres have radii r1 and r2, with r1 = 1.5 r2. What is the ratio of heat required to raise each sphere's temperature by 1 K?",
+    "options": [
+      {
+        "id": "A",
+        "text": "27/8"
+      },
+      {
+        "id": "B",
+        "text": "9/4"
+      },
+      {
+        "id": "C",
+        "text": "3/2"
+      },
+      {
+        "id": "D",
+        "text": "5/3"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For the same material and temperature change, heat is proportional to mass and thus volume, so Q1/Q2 = (r1/r2)^3 = 27/8."
+  },
+  {
+    "question_number": "175",
+    "pdf_page": "21",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-17-physics",
+    "topic_name": "de Broglie Wavelength",
+    "difficulty": "medium",
+    "stem": "An electron accelerated from rest through V volts has de Broglie wavelength 1.227 x 10^-2 nm. What is V?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 V"
+      },
+      {
+        "id": "B",
+        "text": "10^2 V"
+      },
+      {
+        "id": "C",
+        "text": "10^3 V"
+      },
+      {
+        "id": "D",
+        "text": "10^4 V"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Using lambda in angstroms = 12.27/sqrt(V), lambda = 0.1227 angstrom gives V = 10^4 V."
+  },
+  {
+    "question_number": "176",
+    "pdf_page": "21",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-01-physics",
+    "topic_name": "Significant Figures",
+    "difficulty": "easy",
+    "stem": "Taking significant figures into account, what is 9.99 m - 0.0099 m?",
+    "options": [
+      {
+        "id": "A",
+        "text": "9.9801 m"
+      },
+      {
+        "id": "B",
+        "text": "9.98 m"
+      },
+      {
+        "id": "C",
+        "text": "9.980 m"
+      },
+      {
+        "id": "D",
+        "text": "9.9 m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For subtraction, round to the least precise decimal place (hundredths), giving 9.98 m."
+  },
+  {
+    "question_number": "177",
+    "pdf_page": "21",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-02-physics",
+    "topic_name": "Vertical Motion",
+    "difficulty": "easy",
+    "stem": "A ball is thrown downward at 20 m s^-1 from a tower and reaches the ground at 80 m s^-1. Find the tower height using g = 10 m s^-2.",
+    "options": [
+      {
+        "id": "A",
+        "text": "360 m"
+      },
+      {
+        "id": "B",
+        "text": "340 m"
+      },
+      {
+        "id": "C",
+        "text": "320 m"
+      },
+      {
+        "id": "D",
+        "text": "300 m"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Using v^2 = u^2 + 2gh gives h = (80^2 - 20^2)/(2 x 10) = 300 m."
+  },
+  {
+    "question_number": "178",
+    "pdf_page": "21",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-07-physics",
+    "topic_name": "Capillary Rise",
+    "difficulty": "easy",
+    "stem": "Water rises in a capillary of radius r, and the risen water has mass 5 g. What mass will rise in another capillary of radius 2r?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.5 g"
+      },
+      {
+        "id": "B",
+        "text": "5.0 g"
+      },
+      {
+        "id": "C",
+        "text": "10.0 g"
+      },
+      {
+        "id": "D",
+        "text": "20.0 g"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Capillary height is inversely proportional to radius, so risen volume and mass are proportional to radius. Doubling r doubles the mass."
+  },
+  {
+    "question_number": "179",
+    "pdf_page": "21",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-12-physics",
+    "topic_name": "Metre Bridge",
+    "difficulty": "medium",
+    "stem": "A wire in the left gap of a metre bridge balances a 10 ohm resistor in the right gap at a 3:2 division point. A 1.5 m length of the resistance wire makes the wire in the left gap. What is the length corresponding to 1 ohm of resistance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1.0 x 10^-2 m"
+      },
+      {
+        "id": "B",
+        "text": "1.0 x 10^-1 m"
+      },
+      {
+        "id": "C",
+        "text": "1.5 x 10^-1 m"
+      },
+      {
+        "id": "D",
+        "text": "1.5 x 10^-2 m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "At balance the unknown resistance is 15 ohm. A 1.5 m length therefore has 15 ohm, so 1 ohm corresponds to 0.1 m."
+  },
+  {
+    "question_number": "180",
+    "pdf_page": "21",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-19-physics",
+    "topic_name": "Logic Gates",
+    "difficulty": "easy",
+    "stem": "Two input signals A and B are each inverted, then fed to a NOR gate. Which truth table represents the output Y?",
+    "options": [
+      {
+        "id": "A",
+        "text": "00->0, 01->0, 10->0, 11->1"
+      },
+      {
+        "id": "B",
+        "text": "00->0, 01->1, 10->1, 11->1"
+      },
+      {
+        "id": "C",
+        "text": "00->1, 01->1, 10->1, 11->0"
+      },
+      {
+        "id": "D",
+        "text": "00->1, 01->0, 10->0, 11->0"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "NOR(not A, not B) equals A AND B, whose output is 1 only when both inputs are 1."
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-06-physics",
+    "topic_name": "Gravitational Acceleration with Altitude",
+    "difficulty": "easy",
+    "stem": "At a height equal to the Earth's radius above its surface, the acceleration due to gravity is (g is its value at the surface):",
+    "options": [
+      {
+        "id": "A",
+        "text": "g/2"
+      },
+      {
+        "id": "B",
+        "text": "g/9"
+      },
+      {
+        "id": "C",
+        "text": "g/4"
+      },
+      {
+        "id": "D",
+        "text": "2g"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "At height h, g' = GM/(R+h)^2. With h=R, g'=GM/(2R)^2=g/4.",
+    "ncert_reference": "NCERT Class 11 Physics, Gravitation"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-12-physics",
+    "topic_name": "Cells with Internal Resistance",
+    "difficulty": "medium",
+    "stem": "Two 4 Ω resistors in parallel are connected to a cell of emf 2 V and internal resistance 1 Ω. The current drawn from the cell is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.5 A"
+      },
+      {
+        "id": "B",
+        "text": "1 A"
+      },
+      {
+        "id": "C",
+        "text": "2/3 A"
+      },
+      {
+        "id": "D",
+        "text": "2 A"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The parallel combination is 2 Ω. Including the 1 Ω internal resistance gives 3 Ω total, so I=E/R=2/3 A.",
+    "ncert_reference": "NCERT Class 12 Physics, Current Electricity"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-17-physics",
+    "topic_name": "de Broglie Wavelength",
+    "difficulty": "hard",
+    "stem": "A proton and an alpha particle are accelerated from rest through the same potential difference. Their de Broglie wavelength ratio λp : λα is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 : 1"
+      },
+      {
+        "id": "B",
+        "text": "1 : 1"
+      },
+      {
+        "id": "C",
+        "text": "2√2 : 1"
+      },
+      {
+        "id": "D",
+        "text": "2 : 1"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For a particle accelerated through V, λ=h/√(2mqV). An alpha particle has mass 4mp and charge 2e, so λα=λp/√8 and λp:λα=2√2:1.",
+    "ncert_reference": "NCERT Class 12 Physics, Dual Nature of Radiation and Matter"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-01-physics",
+    "topic_name": "Dimensions of Planck Constant",
+    "difficulty": "easy",
+    "stem": "Planck's constant has the same dimensions as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Power"
+      },
+      {
+        "id": "B",
+        "text": "Energy"
+      },
+      {
+        "id": "C",
+        "text": "Angular momentum"
+      },
+      {
+        "id": "D",
+        "text": "Linear momentum"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "From E=hν, the dimensions of h are energy multiplied by time: ML²T⁻¹, the dimensions of angular momentum.",
+    "ncert_reference": "NCERT Class 11 Physics, Units and Measurement"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-02-physics",
+    "topic_name": "Free Fall",
+    "difficulty": "easy",
+    "stem": "A ball is dropped from rest from a height of 20 m. Taking g=10 m s⁻², the time taken to reach the ground is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "√2 s"
+      },
+      {
+        "id": "B",
+        "text": "2 s"
+      },
+      {
+        "id": "C",
+        "text": "1 s"
+      },
+      {
+        "id": "D",
+        "text": "4 s"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For free fall from rest, h=gt²/2. Thus t=√(2h/g)=√(40/10)=2 s.",
+    "ncert_reference": "NCERT Class 11 Physics, Motion in a Straight Line"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-16-physics",
+    "topic_name": "Combination of Thin Lenses",
+    "difficulty": "medium",
+    "stem": "A thin convex lens of focal length 20 cm is kept in contact with a thin concave lens of focal length 40 cm. The combination behaves as a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Convex lens of focal length 40 cm"
+      },
+      {
+        "id": "B",
+        "text": "Convex lens of focal length 13.3 cm"
+      },
+      {
+        "id": "C",
+        "text": "Concave lens of focal length 20 cm"
+      },
+      {
+        "id": "D",
+        "text": "Concave lens of focal length 40 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "For lenses in contact, 1/F=1/f1+1/f2=1/20−1/40=1/40 cm⁻¹. The positive focal length means a convex equivalent lens.",
+    "ncert_reference": "NCERT Class 12 Physics, Ray Optics and Optical Instruments"
+  },
+  {
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-14-physics",
+    "topic_name": "Series LCR Circuit at Resonance",
+    "difficulty": "easy",
+    "stem": "A series LCR circuit has resistance 10 Ω and is connected to a 100 V (rms) source at resonance. The rms current is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "5 A"
+      },
+      {
+        "id": "B",
+        "text": "1 A"
+      },
+      {
+        "id": "C",
+        "text": "10 A"
+      },
+      {
+        "id": "D",
+        "text": "0 A"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "At resonance XL=XC, so the impedance is R=10 Ω. The rms current is I=V/R=100/10=10 A.",
+    "ncert_reference": "NCERT Class 12 Physics, Alternating Current"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-01-chemistry",
+    "topic_name": "Mole Concept and Number of Molecules",
+    "difficulty": "easy",
+    "stem": "Which 1 g sample contains the largest number of molecules?",
+    "options": [
+      {
+        "id": "A",
+        "text": "O₂"
+      },
+      {
+        "id": "B",
+        "text": "N₂"
+      },
+      {
+        "id": "C",
+        "text": "CO₂"
+      },
+      {
+        "id": "D",
+        "text": "H₂"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For a fixed mass, the amount in moles is inversely proportional to molar mass. H₂ has the smallest molar mass among the choices.",
+    "ncert_reference": "NCERT Class 11 Chemistry, Some Basic Concepts of Chemistry"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-07-chemistry",
+    "topic_name": "Oxidation Number",
+    "difficulty": "easy",
+    "stem": "The oxidation number of chromium in K₂Cr₂O₇ is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "+3"
+      },
+      {
+        "id": "B",
+        "text": "+12"
+      },
+      {
+        "id": "C",
+        "text": "+6"
+      },
+      {
+        "id": "D",
+        "text": "+7"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For a neutral formula unit, 2(+1)+2x+7(−2)=0. Therefore 2x=12 and x=+6.",
+    "ncert_reference": "NCERT Class 11 Chemistry, Redox Reactions"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-17-chemistry",
+    "topic_name": "Iodoform Test",
+    "difficulty": "easy",
+    "stem": "Which of the following gives a positive iodoform test?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Methanol"
+      },
+      {
+        "id": "B",
+        "text": "Benzaldehyde"
+      },
+      {
+        "id": "C",
+        "text": "Ethanol"
+      },
+      {
+        "id": "D",
+        "text": "Propan-1-ol"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Ethanol is oxidised to ethanal under the test conditions; ethanal gives the yellow iodoform precipitate. The other listed compounds do not form the required methyl carbonyl intermediate.",
+    "ncert_reference": "NCERT Class 12 Chemistry, Aldehydes, Ketones and Carboxylic Acids"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-02-chemistry",
+    "topic_name": "Electronic Configuration of Copper",
+    "difficulty": "medium",
+    "stem": "The ground-state electronic configuration of copper (Z=29) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "[Ar] 3d¹⁰ 4s²"
+      },
+      {
+        "id": "B",
+        "text": "[Ar] 3d⁹ 4s²"
+      },
+      {
+        "id": "C",
+        "text": "[Ar] 3d¹⁰ 4s¹"
+      },
+      {
+        "id": "D",
+        "text": "[Ar] 3d⁸ 4s² 4p¹"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The observed ground state is [Ar] 3d¹⁰ 4s¹; the filled 3d subshell is more stable than [Ar] 3d⁹ 4s².",
+    "ncert_reference": "NCERT Class 11 Chemistry, Structure of Atom"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-04-chemistry",
+    "topic_name": "Entropy and Spontaneous Change",
+    "difficulty": "easy",
+    "stem": "For which process is the entropy change of the system negative?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Freezing of water"
+      },
+      {
+        "id": "B",
+        "text": "Melting of ice"
+      },
+      {
+        "id": "C",
+        "text": "Evaporation of water"
+      },
+      {
+        "id": "D",
+        "text": "Sublimation of iodine"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Freezing changes liquid water into a more ordered solid, so the entropy of the system decreases.",
+    "ncert_reference": "NCERT Class 11 Chemistry, Thermodynamics"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-08-chemistry",
+    "topic_name": "Order of a Reaction",
+    "difficulty": "medium",
+    "stem": "For a reaction whose rate is proportional to [A]ⁿ, doubling [A] makes the rate four times larger. The order n is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "2"
+      },
+      {
+        "id": "D",
+        "text": "0"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The rate ratio is 2ⁿ=4, so n=2.",
+    "ncert_reference": "NCERT Class 12 Chemistry, Chemical Kinetics"
+  },
+  {
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-05-chemistry",
+    "topic_name": "Relative Lowering of Vapour Pressure",
+    "difficulty": "medium",
+    "stem": "A solution contains a non-volatile solute with mole fraction 0.20. For an ideal dilute solution, the relative lowering of the solvent vapour pressure is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.25"
+      },
+      {
+        "id": "B",
+        "text": "0.80"
+      },
+      {
+        "id": "C",
+        "text": "1.25"
+      },
+      {
+        "id": "D",
+        "text": "0.20"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Raoult's law gives (p°−p)/p°=xsolute for a solution with a non-volatile solute. Thus the relative lowering is 0.20.",
+    "ncert_reference": "NCERT Class 12 Chemistry, Solutions"
+  },
+  {
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "C₄ Carbon Fixation",
+    "difficulty": "easy",
+    "stem": "In C₄ plants, the initial fixation of CO₂ in mesophyll cells is catalysed by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "RuBisCO"
+      },
+      {
+        "id": "B",
+        "text": "PEP carboxylase"
+      },
+      {
+        "id": "C",
+        "text": "Malic enzyme"
+      },
+      {
+        "id": "D",
+        "text": "Carbonic anhydrase"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "PEP carboxylase fixes bicarbonate onto phosphoenolpyruvate in mesophyll cells, producing oxaloacetate.",
+    "ncert_reference": "NCERT Class 11 Biology, Photosynthesis in Higher Plants"
+  },
+  {
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-06-botany",
+    "topic_name": "Male Gametophyte of Angiosperms",
+    "difficulty": "easy",
+    "stem": "In angiosperms, the male gametophyte is represented by the:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pollen grain"
+      },
+      {
+        "id": "B",
+        "text": "Microspore mother cell"
+      },
+      {
+        "id": "C",
+        "text": "Stamen"
+      },
+      {
+        "id": "D",
+        "text": "Anther"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The microspore develops into the pollen grain, which represents the male gametophyte.",
+    "ncert_reference": "NCERT Class 12 Biology, Sexual Reproduction in Flowering Plants"
+  },
+  {
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-08-botany",
+    "topic_name": "Free-Living Nitrogen Fixation",
+    "difficulty": "easy",
+    "stem": "Which bacterium fixes atmospheric nitrogen while living freely in soil rather than in a root nodule?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rhizobium"
+      },
+      {
+        "id": "B",
+        "text": "Glomus"
+      },
+      {
+        "id": "C",
+        "text": "Azotobacter"
+      },
+      {
+        "id": "D",
+        "text": "Frankia"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Azotobacter is a free-living nitrogen-fixing bacterium. Rhizobium and Frankia form symbiotic associations; Glomus is a mycorrhizal fungus.",
+    "ncert_reference": "NCERT Class 12 Biology, Microbes in Human Welfare"
+  },
+  {
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "Genetic Code",
+    "difficulty": "easy",
+    "stem": "Out of the 64 possible codons in the standard genetic code, how many code for amino acids?",
+    "options": [
+      {
+        "id": "A",
+        "text": "61"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "63"
+      },
+      {
+        "id": "D",
+        "text": "64"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Three codons (UAA, UAG and UGA) are stop codons. The remaining 61 codons specify amino acids.",
+    "ncert_reference": "NCERT Class 12 Biology, Molecular Basis of Inheritance"
+  },
+  {
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "Regulation of the lac Operon",
+    "difficulty": "easy",
+    "stem": "In the lac operon, which molecule binds to the repressor and allows transcription of the structural genes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Glucose"
+      },
+      {
+        "id": "B",
+        "text": "Sucrose"
+      },
+      {
+        "id": "C",
+        "text": "Allolactose"
+      },
+      {
+        "id": "D",
+        "text": "Tryptophan"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Allolactose acts as the inducer: it binds the lac repressor and reduces its binding to the operator.",
+    "ncert_reference": "NCERT Class 12 Biology, Molecular Basis of Inheritance"
+  },
+  {
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Prokaryotic Cell Structure",
+    "difficulty": "easy",
+    "stem": "Which structure is absent from a typical prokaryotic cell?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNA"
+      },
+      {
+        "id": "B",
+        "text": "Mitochondrion"
+      },
+      {
+        "id": "C",
+        "text": "Plasma membrane"
+      },
+      {
+        "id": "D",
+        "text": "Ribosome"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Prokaryotes lack membrane-bound organelles such as mitochondria; they contain DNA, a plasma membrane and ribosomes.",
+    "ncert_reference": "NCERT Class 11 Biology, Cell: The Unit of Life"
+  },
+  {
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-10-botany",
+    "topic_name": "Energy Transfer in Ecosystems",
+    "difficulty": "medium",
+    "stem": "If producers in a food chain fix 10,000 J of energy, the energy available to tertiary consumers according to the 10% law is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 J"
+      },
+      {
+        "id": "B",
+        "text": "1 J"
+      },
+      {
+        "id": "C",
+        "text": "100 J"
+      },
+      {
+        "id": "D",
+        "text": "1,000 J"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The successive levels receive about 1,000 J, 100 J and 10 J, respectively: producers → primary → secondary → tertiary consumers.",
+    "ncert_reference": "NCERT Class 12 Biology, Ecosystem"
+  },
+  {
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Cardiac Conduction System",
+    "difficulty": "easy",
+    "stem": "The normal pacemaker of the human heart is the:",
+    "options": [
+      {
+        "id": "A",
+        "text": "AV node"
+      },
+      {
+        "id": "B",
+        "text": "Purkinje fibres"
+      },
+      {
+        "id": "C",
+        "text": "SA node"
+      },
+      {
+        "id": "D",
+        "text": "Bundle of His"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The sinoatrial node initiates impulses at the highest intrinsic rate and normally sets the heart rhythm.",
+    "ncert_reference": "NCERT Class 11 Biology, Body Fluids and Circulation"
+  },
+  {
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-06-zoology",
+    "topic_name": "Hormonal Support in Early Pregnancy",
+    "difficulty": "easy",
+    "stem": "During early pregnancy, which hormone helps maintain the corpus luteum?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Human chorionic gonadotropin (hCG)"
+      },
+      {
+        "id": "B",
+        "text": "FSH"
+      },
+      {
+        "id": "C",
+        "text": "Oxytocin"
+      },
+      {
+        "id": "D",
+        "text": "Relaxin"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "hCG secreted by the developing trophoblast maintains the corpus luteum, which continues progesterone secretion in early pregnancy.",
+    "ncert_reference": "NCERT Class 12 Biology, Human Reproduction"
+  },
+  {
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-07-zoology",
+    "topic_name": "Chromosomal Disorders",
+    "difficulty": "easy",
+    "stem": "Which chromosomal condition is correctly matched?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Klinefelter syndrome — XO"
+      },
+      {
+        "id": "B",
+        "text": "Down syndrome — trisomy 21"
+      },
+      {
+        "id": "C",
+        "text": "Turner syndrome — XXY"
+      },
+      {
+        "id": "D",
+        "text": "Phenylketonuria — X-linked recessive"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Down syndrome is usually caused by trisomy 21. Turner syndrome is 45,X; Klinefelter syndrome is 47,XXY; phenylketonuria is autosomal recessive.",
+    "ncert_reference": "NCERT Class 12 Biology, Principles of Inheritance and Variation"
+  },
+  {
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Role of ADH in the Nephron",
+    "difficulty": "medium",
+    "stem": "ADH increases water reabsorption mainly in the:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Distal convoluted tubule and collecting duct"
+      },
+      {
+        "id": "B",
+        "text": "Proximal convoluted tubule only"
+      },
+      {
+        "id": "C",
+        "text": "Bowman's capsule"
+      },
+      {
+        "id": "D",
+        "text": "Glomerulus"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "ADH increases water permeability in the distal nephron, especially the distal convoluted tubule and collecting duct.",
+    "ncert_reference": "NCERT Class 11 Biology, Excretory Products and Their Elimination"
+  },
+  {
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-02-zoology",
+    "topic_name": "Human Skull",
+    "difficulty": "easy",
+    "stem": "The adult human skull has how many cranial bones?",
+    "options": [
+      {
+        "id": "A",
+        "text": "22"
+      },
+      {
+        "id": "B",
+        "text": "29"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "14"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The adult skull has 22 bones: 8 cranial bones and 14 facial bones.",
+    "ncert_reference": "NCERT Class 11 Biology, Structural Organisation in Animals"
+  },
+  {
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-08-zoology",
+    "topic_name": "Passive Immunity Across Placenta",
+    "difficulty": "easy",
+    "stem": "Which immunoglobulin can cross the human placenta and provide passive immunity to the foetus?",
+    "options": [
+      {
+        "id": "A",
+        "text": "IgM"
+      },
+      {
+        "id": "B",
+        "text": "IgA"
+      },
+      {
+        "id": "C",
+        "text": "IgG"
+      },
+      {
+        "id": "D",
+        "text": "IgE"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "IgG is transported across the placenta and contributes to passive immunity in the foetus.",
+    "ncert_reference": "NCERT Class 12 Biology, Human Health and Disease"
+  },
+  {
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-07-zoology",
+    "topic_name": "Hardy–Weinberg Principle",
+    "difficulty": "medium",
+    "stem": "In a population in Hardy–Weinberg equilibrium, 16% of individuals express a recessive trait. The frequency of heterozygotes is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.48"
+      },
+      {
+        "id": "B",
+        "text": "0.24"
+      },
+      {
+        "id": "C",
+        "text": "0.84"
+      },
+      {
+        "id": "D",
+        "text": "0.36"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The recessive phenotype frequency is q²=0.16, so q=0.4 and p=0.6. The heterozygote frequency is 2pq=2×0.6×0.4=0.48.",
+    "ncert_reference": "NCERT Class 12 Biology, Evolution"
+  }
+]
