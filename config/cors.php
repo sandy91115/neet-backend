@@ -21,6 +21,7 @@ return [
 
     'allowed_origins' => array_values(array_unique([
         env('FRONTEND_URL', 'http://localhost:5173'),
+        'https://neetpro.vercel.app',
         'http://localhost:5173',
         'http://127.0.0.1:5173',
     ])),
