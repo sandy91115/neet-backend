@@ -163,7 +163,7 @@ class NeetPracticeBlueprintSeeder extends Seeder
             }
             $pyqPlans = [];
 
-            foreach (['botany', 'zoology', 'chemistry'] as $code) {
+            foreach (['physics', 'chemistry', 'botany', 'zoology'] as $code) {
                 $count = (int) ($e1Counts[$code] ?? 0);
                 if ($count < 1) continue;
                 $pyqPlans[] = [
@@ -171,7 +171,7 @@ class NeetPracticeBlueprintSeeder extends Seeder
                     'title' => sprintf('NEET 2020 E1 - %s Quick PYQ Set (%d Questions)', ucfirst($code), $count),
                     'counts' => [$code => $count],
                     'subject' => $code,
-                    'sequence' => ['botany' => 14, 'zoology' => 15, 'chemistry' => 16][$code],
+                    'sequence' => ['physics' => 13, 'botany' => 14, 'zoology' => 15, 'chemistry' => 16][$code],
                 ];
             }
 
