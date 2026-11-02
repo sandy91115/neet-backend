@@ -44,13 +44,24 @@ class TestGenerationController extends Controller
                 $availability = [];
                 foreach ($requiredBySubject as $code => $required) {
                     $subjectId = $subjects[$code] ?? null;
-                    $available = $subjectId ? $approvedBank->filter(function ($row) use ($subjectId, $chapterIds, $pyqOnly, $year, $sourceSet) {
+                    $strictAvailable = $subjectId ? $approvedBank->filter(function ($row) use ($subjectId, $chapterIds, $pyqOnly, $year, $sourceSet) {
                         return (int) $row->subject_id === (int) $subjectId
                             && (! $chapterIds || in_array((int) $row->chapter_id, $chapterIds, true))
                             && (! $pyqOnly || (bool) $row->is_pyq)
                             && (! $year || (int) $row->pyq_year === (int) $year)
                             && (! $sourceSet || str_contains((string) $row->source_label, 'Set '.$sourceSet));
                     })->sum('question_count') : 0;
+
+                    $fallbackAvailable = $subjectId ? $approvedBank->filter(function ($row) use ($subjectId, $pyqOnly) {
+                        return (int) $row->subject_id === (int) $subjectId
+                            && (! $pyqOnly || (bool) $row->is_pyq);
+                    })->sum('question_count') : 0;
+
+                    $subjectTotalAvailable = $subjectId ? $approvedBank->filter(function ($row) use ($subjectId) {
+                        return (int) $row->subject_id === (int) $subjectId;
+                    })->sum('question_count') : 0;
+
+                    $available = max((int) $strictAvailable, (int) $fallbackAvailable, (int) $subjectTotalAvailable);
                     $availability[$code] = ['required' => (int) $required, 'available' => (int) $available];
                 }
 
@@ -158,6 +169,16 @@ class TestGenerationController extends Controller
             }
             $remaining = $required - $picked->count();
             if ($remaining > 0) $picked = $picked->merge($this->pick($pool->whereNotIn('id', $picked->pluck('id')), $remaining, $mode, $weightageSource));
+            if ($picked->count() < $required) {
+                $subjectFallbackPool = Question::query()
+                    ->where('review_status', 'approved')
+                    ->where('subject_id', $subject->id)
+                    ->whereNotIn('id', $picked->pluck('id'))
+                    ->orderByDesc('is_pyq')
+                    ->with('chapter:id,weightage_percent,weightage_basis')
+                    ->get();
+                $picked = $picked->merge($this->pick($subjectFallbackPool, $required - $picked->count(), $mode, $weightageSource));
+            }
             $picked = $picked->unique('id')->take($required)->values();
             if ($picked->count() < $required) $shortages[$subjectCode] = ['required' => $required, 'available' => $picked->count()];
             $selected = $selected->merge($picked);
