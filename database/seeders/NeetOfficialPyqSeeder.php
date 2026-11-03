@@ -68,5 +68,43 @@ class NeetOfficialPyqSeeder extends Seeder
                 }
             }
         }
+
+        $multiYearPath = database_path('data/neet_2015_2025_pyq.json');
+        if (File::exists($multiYearPath)) {
+            $multiYearRows = json_decode(
+                File::get($multiYearPath),
+                true,
+                flags: JSON_THROW_ON_ERROR,
+            );
+
+            foreach ($multiYearRows as $row) {
+                $subject = Subject::where('code', $row['subject_id'])->first();
+                $chapter = Chapter::where('slug', $row['chapter_id'])->first();
+                if (! $subject || ! $chapter || $chapter->subject_id !== $subject->id) continue;
+
+                $fingerprint = hash('sha256', Str::lower(Str::squish($row['stem']).'|'.json_encode($row['options'], JSON_UNESCAPED_UNICODE)));
+                $question = Question::where('content_fingerprint', $fingerprint)->first() ?? new Question();
+                $question->forceFill([
+                    'subject_id' => $subject->id,
+                    'chapter_id' => $chapter->id,
+                    'topic_name' => $row['topic_name'],
+                    'question_type' => 'single_correct',
+                    'difficulty' => $row['difficulty'],
+                    'stem' => $row['stem'],
+                    'options' => $row['options'],
+                    'correct_option' => $row['correct_option'],
+                    'explanation' => $row['explanation'],
+                    'ncert_reference' => $row['ncert_reference'] ?? null,
+                    'is_pyq' => true,
+                    'pyq_year' => (int) $row['pyq_year'],
+                    'source_label' => $row['source_label'] ?? ('NTA / CBSE NEET (UG) '.$row['pyq_year'].' Official Paper'),
+                    'source_url' => $row['source_url'] ?? 'https://neet.nta.nic.in/archive/',
+                    'source_page' => 'PDF page '.$row['pdf_page'],
+                    'source_question_number' => (string) $row['question_number'],
+                    'review_status' => 'approved',
+                    'content_fingerprint' => $fingerprint,
+                ])->save();
+            }
+        }
     }
 }

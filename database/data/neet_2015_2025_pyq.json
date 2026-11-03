@@ -1,0 +1,3334 @@
+[
+  {
+    "pyq_year": 2015,
+    "question_number": "1",
+    "pdf_page": "3",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-01-physics",
+    "topic_name": "Dimensional Analysis",
+    "difficulty": "medium",
+    "stem": "If energy (E), velocity (V) and time (T) are chosen as the fundamental quantities, the dimensional formula of surface tension will be:",
+    "options": [
+      {
+        "id": "A",
+        "text": "[E V⁻² T⁻¹]"
+      },
+      {
+        "id": "B",
+        "text": "[E V⁻¹ T⁻²]"
+      },
+      {
+        "id": "C",
+        "text": "[E V⁻² T⁻²]"
+      },
+      {
+        "id": "D",
+        "text": "[E⁻² V⁻¹ T⁻³]"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Surface tension S = Force / Length = Energy / Area = E / (L²) = E / (V·T)² = [E V⁻² T⁻²].",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 1: Units and Measurements",
+    "id": "pyq-2015-physics-1",
+    "source_label": "NTA / CBSE NEET (UG) 2015 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2021,
+    "question_number": "4",
+    "pdf_page": "4",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-01-physics",
+    "topic_name": "Dimensions of Physical Quantities",
+    "difficulty": "easy",
+    "stem": "If E and G respectively denote energy and gravitational constant, then E / G has the dimensions of:",
+    "options": [
+      {
+        "id": "A",
+        "text": "[M²] [L⁻¹] [T⁰]"
+      },
+      {
+        "id": "B",
+        "text": "[M] [L⁻¹] [T⁻¹]"
+      },
+      {
+        "id": "C",
+        "text": "[M] [L⁰] [T⁰]"
+      },
+      {
+        "id": "D",
+        "text": "[M²] [L⁻²] [T⁻¹]"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "[E] = [M L² T⁻²] and [G] = [M⁻¹ L³ T⁻²]. Therefore [E/G] = [M² L⁻¹ T⁰].",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 1: Units and Measurements",
+    "id": "pyq-2021-physics-2",
+    "source_label": "NTA / CBSE NEET (UG) 2021 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2016,
+    "question_number": "2",
+    "pdf_page": "3",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-02-physics",
+    "topic_name": "Motion in a Straight Line",
+    "difficulty": "medium",
+    "stem": "If the velocity of a particle is v = At + Bt², where A and B are constants, then the distance travelled by it between 1 s and 2 s is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "(3/2)A + (7/3)B"
+      },
+      {
+        "id": "B",
+        "text": "(A/2) + (B/3)"
+      },
+      {
+        "id": "C",
+        "text": "(3/2)A + 4B"
+      },
+      {
+        "id": "D",
+        "text": "3A + 7B"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "dx = v dt = (At + Bt²) dt. Integrating from t = 1 to t = 2 gives [A t²/2 + B t³/3]₁² = (3/2)A + (7/3)B.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 2: Motion in a Straight Line",
+    "id": "pyq-2016-physics-3",
+    "source_label": "NTA / CBSE NEET (UG) 2016 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2022,
+    "question_number": "5",
+    "pdf_page": "4",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-02-physics",
+    "topic_name": "Projectile Motion",
+    "difficulty": "easy",
+    "stem": "A ball is projected with a velocity 10 m/s at an angle of 60° with the vertical direction. Its speed at the highest point of its trajectory will be:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Zero"
+      },
+      {
+        "id": "B",
+        "text": "5√3 m/s"
+      },
+      {
+        "id": "C",
+        "text": "5 m/s"
+      },
+      {
+        "id": "D",
+        "text": "10 m/s"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Angle with vertical = 60°, so angle with horizontal θ = 30°. Speed at highest point = u cos30° = 10 × (√3/2) = 5√3 m/s.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 3: Motion in a Plane",
+    "id": "pyq-2022-physics-4",
+    "source_label": "NTA / CBSE NEET (UG) 2022 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2017,
+    "question_number": "6",
+    "pdf_page": "4",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-03-physics",
+    "topic_name": "Circular Motion & Tension",
+    "difficulty": "medium",
+    "stem": "One end of string of length l is connected to a particle of mass m and the other end is connected to a small peg on a smooth horizontal table. If the particle moves in circle with speed v, the net force on the particle (directed towards center) will be (T represents the tension in the string):",
+    "options": [
+      {
+        "id": "A",
+        "text": "T"
+      },
+      {
+        "id": "B",
+        "text": "T − mv²/l"
+      },
+      {
+        "id": "C",
+        "text": "T + mv²/l"
+      },
+      {
+        "id": "D",
+        "text": "Zero"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Tension T in the string provides the necessary centripetal force mv²/l directed towards the centre.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 4: Laws of Motion",
+    "id": "pyq-2017-physics-5",
+    "source_label": "NTA / CBSE NEET (UG) 2017 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2023,
+    "question_number": "8",
+    "pdf_page": "5",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-03-physics",
+    "topic_name": "Newton’s Second Law",
+    "difficulty": "easy",
+    "stem": "A football player is moving southward and suddenly turns eastward with the same speed to avoid an opponent. The force that acts on the player while turning is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Along northward"
+      },
+      {
+        "id": "B",
+        "text": "Along north-east"
+      },
+      {
+        "id": "C",
+        "text": "Along south-west"
+      },
+      {
+        "id": "D",
+        "text": "Along eastward"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Initial velocity v_i = −v ĵ (south), final velocity v_f = +v î (east). Change in velocity Δv = v_f − v_i = v î + v ĵ, which points along north-east.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 4: Laws of Motion",
+    "id": "pyq-2023-physics-6",
+    "source_label": "NTA / CBSE NEET (UG) 2023 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2018,
+    "question_number": "9",
+    "pdf_page": "5",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-04-physics",
+    "topic_name": "Elastic Collision",
+    "difficulty": "medium",
+    "stem": "A moving block having mass m collides with another stationary block having mass 4m. The lighter block comes to rest after collision. When the initial velocity of the lighter block is v, then the value of coefficient of restitution (e) will be:",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.5"
+      },
+      {
+        "id": "B",
+        "text": "0.25"
+      },
+      {
+        "id": "C",
+        "text": "0.8"
+      },
+      {
+        "id": "D",
+        "text": "0.4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By momentum conservation: mv = 0 + 4m·v₂ ⇒ v₂ = v/4. Coefficient of restitution e = (v₂ − v₁)/(u₁ − u₂) = (v/4 − 0)/(v − 0) = 0.25.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 5: Work, Energy and Power",
+    "id": "pyq-2018-physics-7",
+    "source_label": "NTA / CBSE NEET (UG) 2018 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2024,
+    "question_number": "11",
+    "pdf_page": "6",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-04-physics",
+    "topic_name": "Inelastic Collision",
+    "difficulty": "medium",
+    "stem": "Two bodies A and B of same mass undergo completely inelastic one-dimensional collision. Body A moves with velocity v₁ while body B is at rest. The ratio of initial kinetic energy to final kinetic energy of the system is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 : 2"
+      },
+      {
+        "id": "B",
+        "text": "2 : 1"
+      },
+      {
+        "id": "C",
+        "text": "4 : 1"
+      },
+      {
+        "id": "D",
+        "text": "1 : 4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "By momentum conservation: m v₁ = 2m V ⇒ V = v₁/2. Initial KE = ½ m v₁²; Final KE = ½ (2m)(v₁/2)² = ¼ m v₁². Ratio = 2 : 1.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 5: Work, Energy and Power",
+    "id": "pyq-2024-physics-8",
+    "source_label": "NTA / CBSE NEET (UG) 2024 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2019,
+    "question_number": "12",
+    "pdf_page": "6",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-05-physics",
+    "topic_name": "Moment of Inertia",
+    "difficulty": "medium",
+    "stem": "A solid cylinder of mass 2 kg and radius 4 cm is rotating about its axis at the rate of 3 rpm. The torque required to stop it after 2π revolutions is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 × 10⁶ N m"
+      },
+      {
+        "id": "B",
+        "text": "2 × 10⁻⁶ N m"
+      },
+      {
+        "id": "C",
+        "text": "2 × 10⁻³ N m"
+      },
+      {
+        "id": "D",
+        "text": "12 × 10⁻⁴ N m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "I = ½ m R² = ½ × 2 × (0.04)² = 1.6 × 10⁻³ kg m². ω₀ = 3 × 2π/60 = π/10 rad/s. θ = 2π × 2π = 4π² rad. Using τ θ = ½ I ω₀², τ = 2 × 10⁻⁶ N m.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 6: System of Particles and Rotational Motion",
+    "id": "pyq-2019-physics-9",
+    "source_label": "NTA / CBSE NEET (UG) 2019 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2025,
+    "question_number": "13",
+    "pdf_page": "6",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-05-physics",
+    "topic_name": "Radius of Gyration",
+    "difficulty": "easy",
+    "stem": "The ratio of the radius of gyration of a thin uniform disc about an axis passing through its centre and normal to its plane to the radius of gyration of the disc about its diameter is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "√2 : 1"
+      },
+      {
+        "id": "B",
+        "text": "2 : 1"
+      },
+      {
+        "id": "C",
+        "text": "4 : 1"
+      },
+      {
+        "id": "D",
+        "text": "1 : √2"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "I_normal = ½ MR² ⇒ K₁ = R/√2. I_diameter = ¼ MR² ⇒ K₂ = R/2. Therefore K₁ : K₂ = (R/√2) / (R/2) = √2 : 1.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 6: Rotational Motion",
+    "id": "pyq-2025-physics-10",
+    "source_label": "NTA / CBSE NEET (UG) 2025 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2017,
+    "question_number": "14",
+    "pdf_page": "7",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-06-physics",
+    "topic_name": "Variation of g with Altitude & Depth",
+    "difficulty": "medium",
+    "stem": "The acceleration due to gravity at a height 1 km above the earth is the same as at a depth d below the surface of earth. Then:",
+    "options": [
+      {
+        "id": "A",
+        "text": "d = 1 km"
+      },
+      {
+        "id": "B",
+        "text": "d = 3/2 km"
+      },
+      {
+        "id": "C",
+        "text": "d = 2 km"
+      },
+      {
+        "id": "D",
+        "text": "d = 1/2 km"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For small h and d (≪ R), g(1 − 2h/R) = g(1 − d/R) ⇒ d = 2h = 2 km.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 7: Gravitation",
+    "id": "pyq-2017-physics-11",
+    "source_label": "NTA / CBSE NEET (UG) 2017 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2018,
+    "question_number": "15",
+    "pdf_page": "7",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-07-physics",
+    "topic_name": "Stokes’ Law & Terminal Velocity",
+    "difficulty": "medium",
+    "stem": "A small sphere of radius r falls from rest in a viscous liquid. As a result, heat is produced due to viscous force. The rate of production of heat when the sphere attains its terminal velocity is proportional to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "r³"
+      },
+      {
+        "id": "B",
+        "text": "r²"
+      },
+      {
+        "id": "C",
+        "text": "r⁵"
+      },
+      {
+        "id": "D",
+        "text": "r⁴"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Rate of heat production Power P = F_v · v_T = (6π η r v_T) · v_T ∝ r · v_T². Since terminal velocity v_T ∝ r², P ∝ r · (r²)² = r⁵.",
+    "ncert_reference": "NCERT Class 11 Physics Part 2, Ch 9: Mechanical Properties of Fluids",
+    "id": "pyq-2018-physics-12",
+    "source_label": "NTA / CBSE NEET (UG) 2018 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2016,
+    "question_number": "16",
+    "pdf_page": "8",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-08-physics",
+    "topic_name": "Adiabatic Process",
+    "difficulty": "medium",
+    "stem": "A gas is compressed isothermally to half its initial volume. The same gas is compressed separately through an adiabatic process until its volume is again reduced to half. Then:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Compressing the gas isothermally will require more work to be done"
+      },
+      {
+        "id": "B",
+        "text": "Compressing the gas through adiabatic process will require more work to be done"
+      },
+      {
+        "id": "C",
+        "text": "Compressing the gas isothermally or adiabatically will require the same amount of work"
+      },
+      {
+        "id": "D",
+        "text": "Which of the case requires more work will depend upon the atomicity of the gas"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "On a P-V diagram, the adiabatic curve is steeper (slope = −γ P/V) than the isothermal curve. For compression to V/2, the area under the adiabatic curve is larger.",
+    "ncert_reference": "NCERT Class 11 Physics Part 2, Ch 11: Thermodynamics",
+    "id": "pyq-2016-physics-13",
+    "source_label": "NTA / CBSE NEET (UG) 2016 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2019,
+    "question_number": "17",
+    "pdf_page": "8",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-09-physics",
+    "topic_name": "Kinetic Theory & RMS Speed",
+    "difficulty": "easy",
+    "stem": "Increase in temperature of a gas filled in a container would lead to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increase in its mass"
+      },
+      {
+        "id": "B",
+        "text": "Increase in its kinetic energy"
+      },
+      {
+        "id": "C",
+        "text": "Decrease in its pressure"
+      },
+      {
+        "id": "D",
+        "text": "Decrease in intermolecular distance"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Average translational kinetic energy of gas molecules is directly proportional to absolute temperature (E = 3/2 nRT).",
+    "ncert_reference": "NCERT Class 11 Physics Part 2, Ch 12: Kinetic Theory",
+    "id": "pyq-2019-physics-14",
+    "source_label": "NTA / CBSE NEET (UG) 2019 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2021,
+    "question_number": "18",
+    "pdf_page": "8",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-10-physics",
+    "topic_name": "Oscillations of a Spring",
+    "difficulty": "medium",
+    "stem": "A spring is stretched by 5 cm by a force 10 N. The time period of the oscillations when a mass of 2 kg is suspended by it is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.0628 s"
+      },
+      {
+        "id": "B",
+        "text": "6.28 s"
+      },
+      {
+        "id": "C",
+        "text": "3.14 s"
+      },
+      {
+        "id": "D",
+        "text": "0.628 s"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Force constant k = F/x = 10 / 0.05 = 200 N/m. Time period T = 2π √(m/k) = 2π √(2/200) = 2π/10 = 0.628 s.",
+    "ncert_reference": "NCERT Class 11 Physics Part 2, Ch 13: Oscillations",
+    "id": "pyq-2021-physics-15",
+    "source_label": "NTA / CBSE NEET (UG) 2021 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2023,
+    "question_number": "19",
+    "pdf_page": "9",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-11-physics",
+    "topic_name": "Electric Dipole & Gauss Law",
+    "difficulty": "easy",
+    "stem": "An electric dipole is placed at an angle of 30° with an electric field of intensity 2 × 10⁵ N/C. It experiences a torque equal to 4 N m. Calculate the magnitude of charge on the dipole, if the dipole length is 2 cm:",
+    "options": [
+      {
+        "id": "A",
+        "text": "8 mC"
+      },
+      {
+        "id": "B",
+        "text": "6 mC"
+      },
+      {
+        "id": "C",
+        "text": "4 mC"
+      },
+      {
+        "id": "D",
+        "text": "2 mC"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "τ = q (2a) E sinθ ⇒ 4 = q × 0.02 × 2 × 10⁵ × sin30° = q × 2 × 10³ ⇒ q = 2 × 10⁻³ C = 2 mC.",
+    "ncert_reference": "NCERT Class 12 Physics Part 1, Ch 1: Electric Charges and Fields",
+    "id": "pyq-2023-physics-16",
+    "source_label": "NTA / CBSE NEET (UG) 2023 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2022,
+    "question_number": "20",
+    "pdf_page": "9",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-12-physics",
+    "topic_name": "Wheatstone Bridge & Resistors",
+    "difficulty": "easy",
+    "stem": "As the temperature increases, the electrical resistance:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increases for both conductors and semiconductors"
+      },
+      {
+        "id": "B",
+        "text": "Decreases for both conductors and semiconductors"
+      },
+      {
+        "id": "C",
+        "text": "Increases for conductors but decreases for semiconductors"
+      },
+      {
+        "id": "D",
+        "text": "Decreases for conductors but increases for semiconductors"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Conductors have a positive temperature coefficient of resistance (α > 0), whereas semiconductors have a negative temperature coefficient (α < 0).",
+    "ncert_reference": "NCERT Class 12 Physics Part 1, Ch 3: Current Electricity",
+    "id": "pyq-2022-physics-17",
+    "source_label": "NTA / CBSE NEET (UG) 2022 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2015,
+    "question_number": "21",
+    "pdf_page": "9",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-13-physics",
+    "topic_name": "Force Between Parallel Conductors",
+    "difficulty": "medium",
+    "stem": "A square loop ABCD carrying a current i is placed near and coplanar with a long straight conductor XY carrying a current I, the net force on the loop will be:",
+    "options": [
+      {
+        "id": "A",
+        "text": "(2 μ₀ I i) / (3π)"
+      },
+      {
+        "id": "B",
+        "text": "(μ₀ I i L) / (2π)"
+      },
+      {
+        "id": "C",
+        "text": "(2 μ₀ I i L) / (3π)"
+      },
+      {
+        "id": "D",
+        "text": "(μ₀ I i) / (2π)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "When the near side is at distance L/2 and far side at 3L/2, net force F = (μ₀ I i L)/(2π) [1/(L/2) − 1/(3L/2)] = (2 μ₀ I i)/(3π).",
+    "ncert_reference": "NCERT Class 12 Physics Part 1, Ch 4: Moving Charges and Magnetism",
+    "id": "pyq-2015-physics-18",
+    "source_label": "NTA / CBSE NEET (UG) 2015 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2024,
+    "question_number": "22",
+    "pdf_page": "10",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-14-physics",
+    "topic_name": "Transformer & AC Circuits",
+    "difficulty": "easy",
+    "stem": "In an ideal transformer, the turns ratio is N_p / N_s = 1 / 2. The ratio V_s : V_p is equal to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 : 2"
+      },
+      {
+        "id": "B",
+        "text": "2 : 1"
+      },
+      {
+        "id": "C",
+        "text": "1 : 1"
+      },
+      {
+        "id": "D",
+        "text": "1 : 4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For an ideal transformer, V_s / V_p = N_s / N_p = 2 / 1.",
+    "ncert_reference": "NCERT Class 12 Physics Part 1, Ch 7: Alternating Current",
+    "id": "pyq-2024-physics-19",
+    "source_label": "NTA / CBSE NEET (UG) 2024 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2021,
+    "question_number": "23",
+    "pdf_page": "10",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-15-physics",
+    "topic_name": "Electromagnetic Waves",
+    "difficulty": "easy",
+    "stem": "For a plane electromagnetic wave propagating in x-direction, which one of the following combination gives the correct possible directions for electric field (E) and magnetic field (B) respectively?",
+    "options": [
+      {
+        "id": "A",
+        "text": "−ĵ + k̂, −ĵ − k̂"
+      },
+      {
+        "id": "B",
+        "text": "ĵ + k̂, ĵ + k̂"
+      },
+      {
+        "id": "C",
+        "text": "−ĵ + k̂, −ĵ + k̂"
+      },
+      {
+        "id": "D",
+        "text": "ĵ + k̂, −ĵ − k̂"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Direction of propagation is along E × B. (−ĵ + k̂) × (−ĵ − k̂) = 2 î (along +x direction), and E · B = 1 − 1 = 0.",
+    "ncert_reference": "NCERT Class 12 Physics Part 1, Ch 8: Electromagnetic Waves",
+    "id": "pyq-2021-physics-20",
+    "source_label": "NTA / CBSE NEET (UG) 2021 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2019,
+    "question_number": "24",
+    "pdf_page": "10",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-16-physics",
+    "topic_name": "Total Internal Reflection & Prism",
+    "difficulty": "easy",
+    "stem": "Which colour of the light has the longest wavelength?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Red"
+      },
+      {
+        "id": "B",
+        "text": "Blue"
+      },
+      {
+        "id": "C",
+        "text": "Green"
+      },
+      {
+        "id": "D",
+        "text": "Violet"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In the visible spectrum (VIBGYOR), red light has the longest wavelength (~700 nm) and lowest frequency.",
+    "ncert_reference": "NCERT Class 12 Physics Part 2, Ch 9: Ray Optics and Optical Instruments",
+    "id": "pyq-2019-physics-21",
+    "source_label": "NTA / CBSE NEET (UG) 2019 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2017,
+    "question_number": "25",
+    "pdf_page": "11",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-17-physics",
+    "topic_name": "Photoelectric Effect",
+    "difficulty": "medium",
+    "stem": "The photoelectric threshold wavelength of silver is 3250 × 10⁻¹⁰ m. The velocity of the electron ejected from a silver surface by ultraviolet light of wavelength 2536 × 10⁻¹⁰ m is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "≈ 0.6 × 10⁶ m/s"
+      },
+      {
+        "id": "B",
+        "text": "≈ 61 × 10³ m/s"
+      },
+      {
+        "id": "C",
+        "text": "≈ 0.3 × 10⁶ m/s"
+      },
+      {
+        "id": "D",
+        "text": "≈ 6 × 10⁵ m/s"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "K_max = hc (1/λ − 1/λ₀) ≈ 1.076 eV. From ½ m v² = K_max, v ≈ 0.6 × 10⁶ m/s (or 6 × 10⁵ m/s).",
+    "ncert_reference": "NCERT Class 12 Physics Part 2, Ch 11: Dual Nature of Radiation and Matter",
+    "id": "pyq-2017-physics-22",
+    "source_label": "NTA / CBSE NEET (UG) 2017 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2022,
+    "question_number": "26",
+    "pdf_page": "11",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-18-physics",
+    "topic_name": "Bohr Atomic Model & Nuclei",
+    "difficulty": "easy",
+    "stem": "Let T₁ and T₂ be the energy of an electron in the first and second excited states of hydrogen atoms, respectively. According to the Bohr model of an atom, the ratio T₁ : T₂ is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 : 9"
+      },
+      {
+        "id": "B",
+        "text": "9 : 4"
+      },
+      {
+        "id": "C",
+        "text": "1 : 4"
+      },
+      {
+        "id": "D",
+        "text": "4 : 1"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "First excited state corresponds to n₁ = 2 and second excited state corresponds to n₂ = 3. Since E_n ∝ 1/n², T₁ : T₂ = n₂² : n₁² = 9 : 4.",
+    "ncert_reference": "NCERT Class 12 Physics Part 2, Ch 12: Atoms",
+    "id": "pyq-2022-physics-23",
+    "source_label": "NTA / CBSE NEET (UG) 2022 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2025,
+    "question_number": "27",
+    "pdf_page": "11",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-19-physics",
+    "topic_name": "Semiconductor Diodes & Logic Gates",
+    "difficulty": "easy",
+    "stem": "In a p-n junction diode, change in temperature due to heating:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Does not affect resistance of p-n junction"
+      },
+      {
+        "id": "B",
+        "text": "Affects only forward resistance"
+      },
+      {
+        "id": "C",
+        "text": "Affects only reverse resistance"
+      },
+      {
+        "id": "D",
+        "text": "Affects the overall V–I characteristics of p-n junction"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Thermal generation of electron-hole pairs changes both forward and reverse saturation currents, thereby affecting the overall V-I characteristics.",
+    "ncert_reference": "NCERT Class 12 Physics Part 2, Ch 14: Semiconductor Electronics",
+    "id": "pyq-2025-physics-24",
+    "source_label": "NTA / CBSE NEET (UG) 2025 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2021,
+    "question_number": "28",
+    "pdf_page": "12",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-20-physics",
+    "topic_name": "Screw Gauge & Vernier Calipers",
+    "difficulty": "medium",
+    "stem": "A screw gauge gives the following readings when used to measure the diameter of a wire: Main scale reading = 0 mm, Circular scale reading = 52 divisions. Given that 1 mm on main scale corresponds to 100 divisions on the circular scale, the diameter of the wire is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.052 cm"
+      },
+      {
+        "id": "B",
+        "text": "0.52 cm"
+      },
+      {
+        "id": "C",
+        "text": "0.026 cm"
+      },
+      {
+        "id": "D",
+        "text": "0.005 cm"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Least count = 1 mm / 100 = 0.01 mm = 0.001 cm. Diameter = 0 + 52 × 0.001 cm = 0.052 cm.",
+    "ncert_reference": "NCERT Class 11 Physics Laboratory Manual: Screw Gauge",
+    "id": "pyq-2021-physics-25",
+    "source_label": "NTA / CBSE NEET (UG) 2021 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2015,
+    "question_number": "46",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-01-chemistry",
+    "topic_name": "Mole Concept & Stoichiometry",
+    "difficulty": "easy",
+    "stem": "The number of water molecules is maximum in:",
+    "options": [
+      {
+        "id": "A",
+        "text": "18 molecules of water"
+      },
+      {
+        "id": "B",
+        "text": "1.8 grams of water"
+      },
+      {
+        "id": "C",
+        "text": "18 grams of water"
+      },
+      {
+        "id": "D",
+        "text": "18 moles of water"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "18 moles of water contains 18 × N_A (18 × 6.022 × 10²³) molecules, which is the largest among the options.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 1, Unit 1: Some Basic Concepts of Chemistry",
+    "id": "pyq-2015-chemistry-26",
+    "source_label": "NTA / CBSE NEET (UG) 2015 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2016,
+    "question_number": "47",
+    "pdf_page": "14",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-02-chemistry",
+    "topic_name": "Quantum Numbers & Orbitals",
+    "difficulty": "easy",
+    "stem": "Two electrons occupying the same orbital are distinguished by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Principal quantum number"
+      },
+      {
+        "id": "B",
+        "text": "Magnetic quantum number"
+      },
+      {
+        "id": "C",
+        "text": "Azimuthal quantum number"
+      },
+      {
+        "id": "D",
+        "text": "Spin quantum number"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "By Pauli’s exclusion principle, two electrons in the same orbital have identical n, l, and m_l values but opposite spin quantum numbers (m_s = +½ and −½).",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 1, Unit 2: Structure of Atom",
+    "id": "pyq-2016-chemistry-27",
+    "source_label": "NTA / CBSE NEET (UG) 2016 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2017,
+    "question_number": "48",
+    "pdf_page": "15",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-03-chemistry",
+    "topic_name": "VSEPR Theory & Hybridization",
+    "difficulty": "medium",
+    "stem": "The species, having bond angles of 120° is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "ClF₃"
+      },
+      {
+        "id": "B",
+        "text": "NCl₃"
+      },
+      {
+        "id": "C",
+        "text": "BCl₃"
+      },
+      {
+        "id": "D",
+        "text": "PH₃"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "BCl₃ has sp² hybridization with trigonal planar geometry and no lone pair on boron, giving bond angles of 120°.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 1, Unit 4: Chemical Bonding and Molecular Structure",
+    "id": "pyq-2017-chemistry-28",
+    "source_label": "NTA / CBSE NEET (UG) 2017 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2018,
+    "question_number": "49",
+    "pdf_page": "15",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-04-chemistry",
+    "topic_name": "Gibbs Energy & Spontaneity",
+    "difficulty": "medium",
+    "stem": "The bond dissociation energies of X₂, Y₂ and XY are in the ratio of 1 : 0.5 : 1. ΔH for the formation of XY is −200 kJ mol⁻¹. The bond dissociation energy of X₂ will be:",
+    "options": [
+      {
+        "id": "A",
+        "text": "200 kJ mol⁻¹"
+      },
+      {
+        "id": "B",
+        "text": "100 kJ mol⁻¹"
+      },
+      {
+        "id": "C",
+        "text": "800 kJ mol⁻¹"
+      },
+      {
+        "id": "D",
+        "text": "400 kJ mol⁻¹"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For ½ X₂ + ½ Y₂ → XY, ΔH = ½ E + ½(0.5 E) − E = −0.25 E = −200 kJ mol⁻¹ ⇒ E = 800 kJ mol⁻¹.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 1, Unit 5: Thermodynamics",
+    "id": "pyq-2018-chemistry-29",
+    "source_label": "NTA / CBSE NEET (UG) 2018 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2019,
+    "question_number": "50",
+    "pdf_page": "15",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-05-chemistry",
+    "topic_name": "Ideal & Non-Ideal Solutions",
+    "difficulty": "easy",
+    "stem": "The mixture that forms maximum boiling azeotrope is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Water + Nitric acid"
+      },
+      {
+        "id": "B",
+        "text": "Ethanol + Water"
+      },
+      {
+        "id": "C",
+        "text": "Acetone + Carbon disulphide"
+      },
+      {
+        "id": "D",
+        "text": "Heptane + Octane"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Water + Nitric acid shows negative deviation from Raoult’s law due to strong hydrogen bonding, forming a maximum boiling azeotrope.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 1, Unit 1: Solutions",
+    "id": "pyq-2019-chemistry-30",
+    "source_label": "NTA / CBSE NEET (UG) 2019 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2021,
+    "question_number": "51",
+    "pdf_page": "16",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-06-chemistry",
+    "topic_name": "Ionic Equilibrium & pK_a",
+    "difficulty": "medium",
+    "stem": "The pK_b of dimethylamine and pK_a of acetic acid are 3.27 and 4.77 respectively at T(K). The correct option for the pH of dimethylammonium acetate solution is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "6.25"
+      },
+      {
+        "id": "B",
+        "text": "8.50"
+      },
+      {
+        "id": "C",
+        "text": "5.50"
+      },
+      {
+        "id": "D",
+        "text": "7.75"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For salt of weak acid and weak base: pH = 7 + ½ (pK_a − pK_b) = 7 + ½ (4.77 − 3.27) = 7 + 0.75 = 7.75.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 1, Unit 6: Equilibrium",
+    "id": "pyq-2021-chemistry-31",
+    "source_label": "NTA / CBSE NEET (UG) 2021 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2022,
+    "question_number": "52",
+    "pdf_page": "16",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-07-chemistry",
+    "topic_name": "Nernst Equation & Electrochemistry",
+    "difficulty": "medium",
+    "stem": "At 298 K, the standard electrode potentials of Cu²⁺/Cu, Zn²⁺/Zn, Fe²⁺/Fe and Ag⁺/Ag are 0.34 V, −0.76 V, −0.44 V and 0.80 V, respectively. On the basis of standard electrode potential, predict which of the following reaction cannot occur?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CuSO₄(aq) + Zn(s) → ZnSO₄(aq) + Cu(s)"
+      },
+      {
+        "id": "B",
+        "text": "CuSO₄(aq) + Fe(s) → FeSO₄(aq) + Cu(s)"
+      },
+      {
+        "id": "C",
+        "text": "FeSO₄(aq) + Zn(s) → ZnSO₄(aq) + Fe(s)"
+      },
+      {
+        "id": "D",
+        "text": "2CuSO₄(aq) + 2Ag(s) → 2Cu(s) + Ag₂SO₄(aq)"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Ag has a higher reduction potential (+0.80 V) than Cu (+0.34 V), so Ag cannot reduce Cu²⁺ (E°_cell = 0.34 − 0.80 = −0.46 V < 0).",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 1, Unit 2: Electrochemistry",
+    "id": "pyq-2022-chemistry-32",
+    "source_label": "NTA / CBSE NEET (UG) 2022 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2023,
+    "question_number": "53",
+    "pdf_page": "16",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-08-chemistry",
+    "topic_name": "Rate Law & Order of Reaction",
+    "difficulty": "easy",
+    "stem": "For a certain reaction, the rate = k [A]² [B], when the initial concentration of A is tripled keeping concentration of B constant, the initial rate would:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increase by a factor of six"
+      },
+      {
+        "id": "B",
+        "text": "Increase by a factor of nine"
+      },
+      {
+        "id": "C",
+        "text": "Increase by a factor of three"
+      },
+      {
+        "id": "D",
+        "text": "Decrease by a factor of nine"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Since rate ∝ [A]², tripling [A] increases the rate by 3² = 9 times.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 1, Unit 3: Chemical Kinetics",
+    "id": "pyq-2023-chemistry-33",
+    "source_label": "NTA / CBSE NEET (UG) 2023 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2024,
+    "question_number": "54",
+    "pdf_page": "17",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-09-chemistry",
+    "topic_name": "Periodic Trends & Ionization Enthalpy",
+    "difficulty": "easy",
+    "stem": "Arrange the following elements in increasing order of first ionization enthalpy: Li, Be, B, C, N:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Li < Be < B < C < N"
+      },
+      {
+        "id": "B",
+        "text": "Li < B < Be < C < N"
+      },
+      {
+        "id": "C",
+        "text": "Li < B < C < Be < N"
+      },
+      {
+        "id": "D",
+        "text": "B < Li < Be < C < N"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Be (1s² 2s²) has a completely filled 2s subshell, so its first ionization enthalpy is greater than that of B (1s² 2s² 2p¹). Thus Li < B < Be < C < N.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 1, Unit 3: Classification of Elements and Periodicity",
+    "id": "pyq-2024-chemistry-34",
+    "source_label": "NTA / CBSE NEET (UG) 2024 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2019,
+    "question_number": "55",
+    "pdf_page": "17",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-10-chemistry",
+    "topic_name": "p-Block Elements",
+    "difficulty": "easy",
+    "stem": "Which of the following hydrides has the lowest boiling point?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H₂O"
+      },
+      {
+        "id": "B",
+        "text": "H₂S"
+      },
+      {
+        "id": "C",
+        "text": "H₂Se"
+      },
+      {
+        "id": "D",
+        "text": "H₂Te"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "H₂O has anomalously high boiling point due to intermolecular H-bonding; among H₂S, H₂Se, H₂Te, boiling point increases with molar mass, so H₂S is lowest.",
+    "ncert_reference": "NCERT Class 12 Chemistry, p-Block Elements (Group 16)",
+    "id": "pyq-2019-chemistry-35",
+    "source_label": "NTA / CBSE NEET (UG) 2019 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2021,
+    "question_number": "56",
+    "pdf_page": "17",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-11-chemistry",
+    "topic_name": "Lanthanoid Contraction",
+    "difficulty": "easy",
+    "stem": "Zr (Z = 40) and Hf (Z = 72) have similar atomic and ionic radii because of:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Belonging to same group"
+      },
+      {
+        "id": "B",
+        "text": "Diagonal relationship"
+      },
+      {
+        "id": "C",
+        "text": "Lanthanoid contraction"
+      },
+      {
+        "id": "D",
+        "text": "Having similar chemical properties"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Poor shielding of 4f electrons causes lanthanoid contraction, making the atomic/ionic radii of 4d (Zr) and 5d (Hf) elements almost identical.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 1, Unit 4: The d- and f-Block Elements",
+    "id": "pyq-2021-chemistry-36",
+    "source_label": "NTA / CBSE NEET (UG) 2021 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2025,
+    "question_number": "57",
+    "pdf_page": "18",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-12-chemistry",
+    "topic_name": "Crystal Field Theory & Magnetism",
+    "difficulty": "medium",
+    "stem": "Which of the following complex ions is diamagnetic in nature?",
+    "options": [
+      {
+        "id": "A",
+        "text": "[CoF₆]³⁻"
+      },
+      {
+        "id": "B",
+        "text": "[NiCl₄]²⁻"
+      },
+      {
+        "id": "C",
+        "text": "[Ni(CN)₄]²⁻"
+      },
+      {
+        "id": "D",
+        "text": "[CuCl₄]²⁻"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "In [Ni(CN)₄]²⁻, Ni²⁺ (3d⁸) is coordinated to strong-field CN⁻ ligands in a dsp² square planar complex with all 8 electrons paired (0 unpaired electrons).",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 1, Unit 5: Coordination Compounds",
+    "id": "pyq-2025-chemistry-37",
+    "source_label": "NTA / CBSE NEET (UG) 2025 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2021,
+    "question_number": "58",
+    "pdf_page": "18",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-13-chemistry",
+    "topic_name": "Qualitative Analysis (Lassaigne Test)",
+    "difficulty": "easy",
+    "stem": "In Lassaigne’s extract of an organic compound, both nitrogen and sulphur are present, which gives blood red colour with Fe³⁺ due to the formation of:",
+    "options": [
+      {
+        "id": "A",
+        "text": "NaSCN"
+      },
+      {
+        "id": "B",
+        "text": "[Fe(CN)₅NOS]⁴⁻"
+      },
+      {
+        "id": "C",
+        "text": "[Fe(SCN)]²⁺"
+      },
+      {
+        "id": "D",
+        "text": "Fe₄[Fe(CN)₆]₃·xH₂O"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "When both N and S are present, NaSCN is formed in Lassaigne’s extract, which reacts with Fe³⁺ to form blood-red [Fe(SCN)]²⁺.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 2, Unit 8: Organic Chemistry - Some Basic Principles and Techniques",
+    "id": "pyq-2021-chemistry-38",
+    "source_label": "NTA / CBSE NEET (UG) 2021 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2018,
+    "question_number": "59",
+    "pdf_page": "18",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-14-chemistry",
+    "topic_name": "Carbocation Stability & Hyperconjugation",
+    "difficulty": "easy",
+    "stem": "Which of the following carbocations is expected to be most stable?",
+    "options": [
+      {
+        "id": "A",
+        "text": "(CH₃)₃C⁺"
+      },
+      {
+        "id": "B",
+        "text": "(CH₃)₂CH⁺"
+      },
+      {
+        "id": "C",
+        "text": "CH₃CH₂⁺"
+      },
+      {
+        "id": "D",
+        "text": "CH₃⁺"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "tert-Butyl carbocation (CH₃)₃C⁺ has 9 α-hydrogens for hyperconjugation plus +I effect of three methyl groups, making it the most stable.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 2, Unit 8: Organic Chemistry - Some Basic Principles",
+    "id": "pyq-2018-chemistry-39",
+    "source_label": "NTA / CBSE NEET (UG) 2018 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2017,
+    "question_number": "60",
+    "pdf_page": "19",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-15-chemistry",
+    "topic_name": "Alkyne Acidity & Hydrocarbons",
+    "difficulty": "medium",
+    "stem": "Predict the correct intermediate and product in the hydration of propyne (CH₃−C≡CH) in the presence of H₂SO₄ and HgSO₄:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Enol: CH₃−C(OH)=CH₂ and Product: Acetone (CH₃−CO−CH₃)"
+      },
+      {
+        "id": "B",
+        "text": "Enol: CH₃−CH=CH−OH and Product: Propanal"
+      },
+      {
+        "id": "C",
+        "text": "Product: Propan-1-ol"
+      },
+      {
+        "id": "D",
+        "text": "Product: Propene"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Kucherov hydration of propyne follows Markovnikov addition to give prop-1-en-2-ol, which tautomerizes to propanone (acetone).",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 2, Unit 9: Hydrocarbons",
+    "id": "pyq-2017-chemistry-40",
+    "source_label": "NTA / CBSE NEET (UG) 2017 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2016,
+    "question_number": "61",
+    "pdf_page": "19",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-16-chemistry",
+    "topic_name": "SN1 and SN2 Mechanisms",
+    "difficulty": "medium",
+    "stem": "Which of the following biphenyls is optically active?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2,2′-Diiodobiphenyl with bulky ortho substituents preventing rotation"
+      },
+      {
+        "id": "B",
+        "text": "4,4′-Dibromobiphenyl"
+      },
+      {
+        "id": "C",
+        "text": "Unsubstituted biphenyl"
+      },
+      {
+        "id": "D",
+        "text": "3,3′-Dinitrobiphenyl (planar)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Bulky ortho-substituents on biphenyl hinder rotation around the single bond (atropisomerism), making non-superimposable chiral conformers optically active.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 2, Unit 6: Haloalkanes and Haloarenes",
+    "id": "pyq-2016-chemistry-41",
+    "source_label": "NTA / CBSE NEET (UG) 2016 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2022,
+    "question_number": "62",
+    "pdf_page": "19",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-17-chemistry",
+    "topic_name": "Aldol & Cannizzaro Reactions",
+    "difficulty": "medium",
+    "stem": "RMgX on reaction with CO₂ followed by acidic hydrolysis gives:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aldehyde (RCHO)"
+      },
+      {
+        "id": "B",
+        "text": "Ketone (RCOR)"
+      },
+      {
+        "id": "C",
+        "text": "Carboxylic acid (RCOOH)"
+      },
+      {
+        "id": "D",
+        "text": "Alcohol (RCH₂OH)"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Nucleophilic addition of Grignard reagent (RMgX) to dry ice (CO₂) forms RCOOMgX, which upon hydrolysis yields carboxylic acid RCOOH.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 2, Unit 8: Aldehydes, Ketones and Carboxylic Acids",
+    "id": "pyq-2022-chemistry-42",
+    "source_label": "NTA / CBSE NEET (UG) 2022 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2015,
+    "question_number": "63",
+    "pdf_page": "20",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-18-chemistry",
+    "topic_name": "Diazonium Salts & Amines",
+    "difficulty": "easy",
+    "stem": "Method by which aniline cannot be prepared is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Degradation of benzamide with bromine in alkaline solution"
+      },
+      {
+        "id": "B",
+        "text": "Reduction of nitrobenzene with H₂/Pd in ethanol"
+      },
+      {
+        "id": "C",
+        "text": "Potassium salt of phthalimide treated with chlorobenzene followed by hydrolysis with aqueous NaOH solution"
+      },
+      {
+        "id": "D",
+        "text": "Hydrolysis of phenyl isocyanide with acidic solution"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Gabriel phthalimide synthesis cannot prepare aromatic primary amines (aniline) because aryl halides do not undergo nucleophilic substitution with phthalimide anion.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 2, Unit 9: Amines",
+    "id": "pyq-2015-chemistry-43",
+    "source_label": "NTA / CBSE NEET (UG) 2015 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2023,
+    "question_number": "64",
+    "pdf_page": "20",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-19-chemistry",
+    "topic_name": "Carbohydrates, Proteins & Nucleic Acids",
+    "difficulty": "easy",
+    "stem": "Deficiency of which vitamin causes pernicious anaemia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vitamin B₁"
+      },
+      {
+        "id": "B",
+        "text": "Vitamin B₂"
+      },
+      {
+        "id": "C",
+        "text": "Vitamin B₆"
+      },
+      {
+        "id": "D",
+        "text": "Vitamin B₁₂"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Deficiency of Vitamin B₁₂ (Cyanocobalamin) causes pernicious anaemia (RBC deficiency in haemoglobin).",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 2, Unit 10: Biomolecules",
+    "id": "pyq-2023-chemistry-44",
+    "source_label": "NTA / CBSE NEET (UG) 2023 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2024,
+    "question_number": "65",
+    "pdf_page": "20",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-20-chemistry",
+    "topic_name": "Practical Chemistry & Salt Analysis",
+    "difficulty": "easy",
+    "stem": "In qualitative salt analysis, which group reagent is used for the precipitation of Group III cations (Fe³⁺, Al³⁺, Cr³⁺)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dilute HCl"
+      },
+      {
+        "id": "B",
+        "text": "H₂S gas in presence of dilute HCl"
+      },
+      {
+        "id": "C",
+        "text": "NH₄OH in presence of NH₄Cl"
+      },
+      {
+        "id": "D",
+        "text": "(NH₄)₂CO₃ in presence of NH₄OH"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Group III cations are precipitated as hydroxides using NH₄OH in the presence of NH₄Cl (which suppresses OH⁻ concentration by common ion effect).",
+    "ncert_reference": "NCERT Class 12 Chemistry Laboratory Manual: Qualitative Salt Analysis",
+    "id": "pyq-2024-chemistry-45",
+    "source_label": "NTA / CBSE NEET (UG) 2024 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2015,
+    "question_number": "91",
+    "pdf_page": "22",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-01-botany",
+    "topic_name": "Algae, Bryophytes & Plant Kingdom",
+    "difficulty": "easy",
+    "stem": "Which one of the following shows isogamy with non-flagellated gametes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sargassum"
+      },
+      {
+        "id": "B",
+        "text": "Ectocarpus"
+      },
+      {
+        "id": "C",
+        "text": "Ulothrix"
+      },
+      {
+        "id": "D",
+        "text": "Spirogyra"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "In Spirogyra, sexual reproduction is isogamous and the gametes are non-flagellated (non-motile) and similar in size.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 3: Plant Kingdom",
+    "id": "pyq-2015-botany-46",
+    "source_label": "NTA / CBSE NEET (UG) 2015 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2016,
+    "question_number": "92",
+    "pdf_page": "22",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-02-botany",
+    "topic_name": "Morphology of Flowering Plants",
+    "difficulty": "easy",
+    "stem": "Tricarpellary, syncarpous gynoecium is found in flowers of:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fabaceae"
+      },
+      {
+        "id": "B",
+        "text": "Poaceae"
+      },
+      {
+        "id": "C",
+        "text": "Liliaceae"
+      },
+      {
+        "id": "D",
+        "text": "Solanaceae"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Flowers of family Liliaceae possess a tricarpellary, syncarpous gynoecium with superior ovary and axile placentation.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 5: Morphology of Flowering Plants",
+    "id": "pyq-2016-botany-47",
+    "source_label": "NTA / CBSE NEET (UG) 2016 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2017,
+    "question_number": "93",
+    "pdf_page": "23",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Cell Organelles & Mitosis/Meiosis",
+    "difficulty": "easy",
+    "stem": "Which of the following cell organelles is responsible for extracting energy from carbohydrates to form ATP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ribosome"
+      },
+      {
+        "id": "B",
+        "text": "Chloroplast"
+      },
+      {
+        "id": "C",
+        "text": "Mitochondrion"
+      },
+      {
+        "id": "D",
+        "text": "Lysosome"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Mitochondria are the sites of aerobic respiration and oxidative phosphorylation, producing cellular energy in the form of ATP.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 8: Cell - The Unit of Life",
+    "id": "pyq-2017-botany-48",
+    "source_label": "NTA / CBSE NEET (UG) 2017 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2018,
+    "question_number": "94",
+    "pdf_page": "23",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "Photosynthesis & C4 Pathway",
+    "difficulty": "easy",
+    "stem": "Oxygen is not produced during photosynthesis by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Green sulphur bacteria"
+      },
+      {
+        "id": "B",
+        "text": "Nostoc"
+      },
+      {
+        "id": "C",
+        "text": "Cycas"
+      },
+      {
+        "id": "D",
+        "text": "Chara"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Green sulphur bacteria use H₂S instead of H₂O as the hydrogen donor, performing anoxygenic photosynthesis and evolving sulphur rather than O₂.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 11: Photosynthesis in Higher Plants",
+    "id": "pyq-2018-botany-49",
+    "source_label": "NTA / CBSE NEET (UG) 2018 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2019,
+    "question_number": "95",
+    "pdf_page": "23",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-05-botany",
+    "topic_name": "Respiratory Quotient",
+    "difficulty": "easy",
+    "stem": "Respiratory Quotient (RQ) value of tripalmitin is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.9"
+      },
+      {
+        "id": "B",
+        "text": "0.7"
+      },
+      {
+        "id": "C",
+        "text": "0.07"
+      },
+      {
+        "id": "D",
+        "text": "0.09"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "For fats like tripalmitin, 2(C₅₁H₉₈O₆) + 145 O₂ → 102 CO₂ + 98 H₂O. RQ = 102 / 145 = 0.7.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 12: Respiration in Plants",
+    "id": "pyq-2019-botany-50",
+    "source_label": "NTA / CBSE NEET (UG) 2019 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2021,
+    "question_number": "96",
+    "pdf_page": "24",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-06-botany",
+    "topic_name": "Pollination & Double Fertilization",
+    "difficulty": "easy",
+    "stem": "The term used for transfer of pollen grains from anthers of one plant to stigma of a different plant which, during pollination, brings genetically different types of pollen grains to stigma, is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cleistogamy"
+      },
+      {
+        "id": "B",
+        "text": "Xenogamy"
+      },
+      {
+        "id": "C",
+        "text": "Geitonogamy"
+      },
+      {
+        "id": "D",
+        "text": "Chasmogamy"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Xenogamy is cross-pollination between flowers of two different plants of the same species, bringing genetically distinct pollen to the stigma.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 1: Sexual Reproduction in Flowering Plants",
+    "id": "pyq-2021-botany-51",
+    "source_label": "NTA / CBSE NEET (UG) 2021 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2022,
+    "question_number": "97",
+    "pdf_page": "24",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "DNA Packaging & Molecular Inheritance",
+    "difficulty": "easy",
+    "stem": "If the length of a DNA molecule is 1.1 metres, what will be the approximate number of base pairs?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3.3 × 10⁹ bp"
+      },
+      {
+        "id": "B",
+        "text": "6.6 × 10⁹ bp"
+      },
+      {
+        "id": "C",
+        "text": "3.3 × 10⁶ bp"
+      },
+      {
+        "id": "D",
+        "text": "6.6 × 10⁶ bp"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Distance between two consecutive base pairs = 0.34 × 10⁻⁹ m. Number of base pairs = 1.1 m / (0.34 × 10⁻⁹ m) ≈ 3.3 × 10⁹ bp.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 5: Molecular Basis of Inheritance",
+    "id": "pyq-2022-botany-52",
+    "source_label": "NTA / CBSE NEET (UG) 2022 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2023,
+    "question_number": "98",
+    "pdf_page": "24",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-08-botany",
+    "topic_name": "Microbes in Human Welfare",
+    "difficulty": "easy",
+    "stem": "Which of the following microbes is used for commercial production of citric acid?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aspergillus niger"
+      },
+      {
+        "id": "B",
+        "text": "Acetobacter aceti"
+      },
+      {
+        "id": "C",
+        "text": "Clostridium butylicum"
+      },
+      {
+        "id": "D",
+        "text": "Lactobacillus"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Aspergillus niger (a fungus) is used for the commercial production of citric acid.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 8: Microbes in Human Welfare",
+    "id": "pyq-2023-botany-53",
+    "source_label": "NTA / CBSE NEET (UG) 2023 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2024,
+    "question_number": "99",
+    "pdf_page": "25",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-09-botany",
+    "topic_name": "Recombinant DNA & Gel Electrophoresis",
+    "difficulty": "easy",
+    "stem": "Upon exposure to UV radiation, DNA stained with ethidium bromide will show:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bright red colour"
+      },
+      {
+        "id": "B",
+        "text": "Bright blue colour"
+      },
+      {
+        "id": "C",
+        "text": "Bright yellow colour"
+      },
+      {
+        "id": "D",
+        "text": "Bright orange colour"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Separated DNA fragments stained with ethidium bromide appear as bright orange coloured bands when exposed to UV light.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 9: Biotechnology - Principles and Processes",
+    "id": "pyq-2024-botany-54",
+    "source_label": "NTA / CBSE NEET (UG) 2024 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2025,
+    "question_number": "100",
+    "pdf_page": "25",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-10-botany",
+    "topic_name": "Ecosystem Productivity & Biodiversity",
+    "difficulty": "easy",
+    "stem": "In the equation GPP − R = NPP, what does R represent?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Radiant energy"
+      },
+      {
+        "id": "B",
+        "text": "Retardation factor"
+      },
+      {
+        "id": "C",
+        "text": "Environment factor"
+      },
+      {
+        "id": "D",
+        "text": "Respiration losses"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Gross Primary Productivity (GPP) minus Respiration losses (R) equals Net Primary Productivity (NPP).",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 12: Ecosystem",
+    "id": "pyq-2025-botany-55",
+    "source_label": "NTA / CBSE NEET (UG) 2025 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2015,
+    "question_number": "136",
+    "pdf_page": "26",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-01-zoology",
+    "topic_name": "Animal Kingdom Phyla",
+    "difficulty": "easy",
+    "stem": "Metagenesis refers to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Occurrence of a drastic change in form during post-embryonic development"
+      },
+      {
+        "id": "B",
+        "text": "Presence of a segmented body and parthenogenetic mode of reproduction"
+      },
+      {
+        "id": "C",
+        "text": "Presence of different morphic forms"
+      },
+      {
+        "id": "D",
+        "text": "Alternation of generation between asexual and sexual phases of an organism"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "In cnidarians like Obelia, polyps produce medusae asexually and medusae form polyps sexually; this alternation of generations is called metagenesis.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 4: Animal Kingdom",
+    "id": "pyq-2015-zoology-56",
+    "source_label": "NTA / CBSE NEET (UG) 2015 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2016,
+    "question_number": "137",
+    "pdf_page": "26",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-02-zoology",
+    "topic_name": "Animal Tissues",
+    "difficulty": "easy",
+    "stem": "Smooth muscles are:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Involuntary, fusiform, non-striated"
+      },
+      {
+        "id": "B",
+        "text": "Voluntary, multinucleate, cylindrical"
+      },
+      {
+        "id": "C",
+        "text": "Involuntary, cylindrical, striated"
+      },
+      {
+        "id": "D",
+        "text": "Voluntary, spindle-shaped, uninucleate"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Smooth muscle fibres taper at both ends (fusiform), do not show striations (non-striated), and are involuntary in action.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 7: Structural Organisation in Animals",
+    "id": "pyq-2016-zoology-57",
+    "source_label": "NTA / CBSE NEET (UG) 2016 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2017,
+    "question_number": "138",
+    "pdf_page": "27",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-03-zoology",
+    "topic_name": "Biomolecules & Enzymes",
+    "difficulty": "easy",
+    "stem": "Which one of the following statements is correct, with reference to enzymes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Holocenzyme = Apoenzyme + Coenzyme"
+      },
+      {
+        "id": "B",
+        "text": "Coenzyme = Apoenzyme + Holoenzyme"
+      },
+      {
+        "id": "C",
+        "text": "Holoenzyme = Coenzyme + Co-factor"
+      },
+      {
+        "id": "D",
+        "text": "Apoenzyme = Holoenzyme + Coenzyme"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A complete catalytically active enzyme (holoenzyme) consists of its protein part (apoenzyme) bound to its non-protein cofactor/coenzyme.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 9: Biomolecules",
+    "id": "pyq-2017-zoology-58",
+    "source_label": "NTA / CBSE NEET (UG) 2017 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2018,
+    "question_number": "139",
+    "pdf_page": "27",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-04-zoology",
+    "topic_name": "Cellular Respiration & ATP",
+    "difficulty": "easy",
+    "stem": "What is the role of NAD⁺ in cellular respiration?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It functions as an enzyme"
+      },
+      {
+        "id": "B",
+        "text": "It functions as an electron carrier"
+      },
+      {
+        "id": "C",
+        "text": "It is a nucleotide source for ATP synthesis"
+      },
+      {
+        "id": "D",
+        "text": "It is the final electron acceptor for anaerobic respiration"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "NAD⁺ acts as a hydrogen and electron carrier during cellular respiration, getting reduced to NADH + H⁺.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 12: Respiration",
+    "id": "pyq-2018-zoology-59",
+    "source_label": "NTA / CBSE NEET (UG) 2018 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2019,
+    "question_number": "140",
+    "pdf_page": "27",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Human Respiratory Volumes",
+    "difficulty": "medium",
+    "stem": "Tidal Volume and Expiratory Reserve Volume of an athlete is 500 mL and 1000 mL respectively. What will be his Expiratory Capacity if the Residual Volume is 1200 mL?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2700 mL"
+      },
+      {
+        "id": "B",
+        "text": "1500 mL"
+      },
+      {
+        "id": "C",
+        "text": "1700 mL"
+      },
+      {
+        "id": "D",
+        "text": "2200 mL"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Expiratory Capacity (EC) = Tidal Volume (TV) + Expiratory Reserve Volume (ERV) = 500 mL + 1000 mL = 1500 mL.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 14: Breathing and Exchange of Gases",
+    "id": "pyq-2019-zoology-60",
+    "source_label": "NTA / CBSE NEET (UG) 2019 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2021,
+    "question_number": "141",
+    "pdf_page": "28",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-06-zoology",
+    "topic_name": "Pregnancy Hormones & Placenta",
+    "difficulty": "easy",
+    "stem": "Which of the following secretes the hormone, relaxin, during the later phase of pregnancy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Corpus luteum"
+      },
+      {
+        "id": "B",
+        "text": "Foetus"
+      },
+      {
+        "id": "C",
+        "text": "Uterus"
+      },
+      {
+        "id": "D",
+        "text": "Graafian follicle"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Relaxin is secreted by the ovary (corpus luteum) and placenta during the later phase of pregnancy.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 2: Human Reproduction",
+    "id": "pyq-2021-zoology-61",
+    "source_label": "NTA / CBSE NEET (UG) 2021 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2022,
+    "question_number": "142",
+    "pdf_page": "28",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-07-zoology",
+    "topic_name": "Mendelian Disorders & Pedigree",
+    "difficulty": "easy",
+    "stem": "Which of the following occurs due to the presence of autosome linked dominant trait?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Haemophilia"
+      },
+      {
+        "id": "B",
+        "text": "Thalessemia"
+      },
+      {
+        "id": "C",
+        "text": "Sickle cell anaemia"
+      },
+      {
+        "id": "D",
+        "text": "Myotonic dystrophy"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Myotonic dystrophy is an autosomal dominant disorder, whereas sickle cell anaemia and thalassemia are autosomal recessive and haemophilia is X-linked recessive.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 4: Principles of Inheritance and Variation",
+    "id": "pyq-2022-zoology-62",
+    "source_label": "NTA / CBSE NEET (UG) 2022 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2023,
+    "question_number": "143",
+    "pdf_page": "28",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-08-zoology",
+    "topic_name": "Human Health, Immunity & HIV",
+    "difficulty": "easy",
+    "stem": "In which blood corpuscles, the HIV undergoes replication and produces progeny viruses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "T_H cells (Helper T-lymphocytes)"
+      },
+      {
+        "id": "B",
+        "text": "B-lymphocytes"
+      },
+      {
+        "id": "C",
+        "text": "Basophils"
+      },
+      {
+        "id": "D",
+        "text": "Eosinophils"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "HIV enters helper T-lymphocytes (T_H), replicates and produces progeny viruses that attack other helper T-cells, causing progressive immunodeficiency.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 7: Human Health and Disease",
+    "id": "pyq-2023-zoology-63",
+    "source_label": "NTA / CBSE NEET (UG) 2023 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2024,
+    "question_number": "144",
+    "pdf_page": "29",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-09-zoology",
+    "topic_name": "Biotechnology in Medicine (Insulin & Gene Therapy)",
+    "difficulty": "easy",
+    "stem": "Which of the following is not a component of mature human insulin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A-peptide"
+      },
+      {
+        "id": "B",
+        "text": "B-peptide"
+      },
+      {
+        "id": "C",
+        "text": "C-peptide"
+      },
+      {
+        "id": "D",
+        "text": "Disulphide bridges"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Pro-insulin contains A, B, and C peptides, but the C-peptide is removed during maturation into active insulin.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 10: Biotechnology and its Applications",
+    "id": "pyq-2024-zoology-64",
+    "source_label": "NTA / CBSE NEET (UG) 2024 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2025,
+    "question_number": "145",
+    "pdf_page": "29",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-10-zoology",
+    "topic_name": "Biodiversity Conservation",
+    "difficulty": "easy",
+    "stem": "Which one of the following is not a method of in-situ conservation of biodiversity?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biosphere Reserve"
+      },
+      {
+        "id": "B",
+        "text": "Wildlife Sanctuary"
+      },
+      {
+        "id": "C",
+        "text": "Botanical Garden"
+      },
+      {
+        "id": "D",
+        "text": "Sacred Grove"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Botanical gardens, zoological parks, and seed banks are ex-situ (off-site) conservation methods, whereas biosphere reserves, sanctuaries, and sacred groves are in-situ.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 13: Biodiversity and Conservation",
+    "id": "pyq-2025-zoology-65",
+    "source_label": "NTA / CBSE NEET (UG) 2025 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2015,
+    "question_number": "29",
+    "pdf_page": "11",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-11-physics",
+    "topic_name": "Parallel Plate Capacitor with Dielectric",
+    "difficulty": "medium",
+    "stem": "A parallel plate air capacitor of capacitance C is connected to a cell of emf V and then disconnected from it. A dielectric slab of dielectric constant K, which can just fill the air gap of the capacitor, is now inserted in it. Which of the following is incorrect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The potential difference between the plates decreases K times"
+      },
+      {
+        "id": "B",
+        "text": "The energy stored in the capacitor decreases K times"
+      },
+      {
+        "id": "C",
+        "text": "The change in energy stored is ½ CV² (1/K − 1)"
+      },
+      {
+        "id": "D",
+        "text": "The charge on the capacitor is not conserved"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Since the battery is disconnected before inserting the dielectric slab, the charge Q = CV on the capacitor plates remains conserved.",
+    "ncert_reference": "NCERT Class 12 Physics Part 1, Ch 2: Electrostatic Potential and Capacitance",
+    "id": "pyq-2015-physics-66",
+    "source_label": "NTA / CBSE NEET (UG) 2015 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2016,
+    "question_number": "30",
+    "pdf_page": "11",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-14-physics",
+    "topic_name": "LCR Series Resonance",
+    "difficulty": "medium",
+    "stem": "Which of the following combinations should be selected for better tuning of an L-C-R circuit used for communication?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R = 20 Ω, L = 1.5 H, C = 35 μF"
+      },
+      {
+        "id": "B",
+        "text": "R = 25 Ω, L = 2.5 H, C = 45 μF"
+      },
+      {
+        "id": "C",
+        "text": "R = 15 Ω, L = 3.5 H, C = 30 μF"
+      },
+      {
+        "id": "D",
+        "text": "R = 25 Ω, L = 1.5 H, C = 45 μF"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "For better tuning, the Quality factor Q = (1/R) √(L/C) must be maximum, which requires small R, large L, and small C (R = 15 Ω, L = 3.5 H, C = 30 μF).",
+    "ncert_reference": "NCERT Class 12 Physics Part 1, Ch 7: Alternating Current",
+    "id": "pyq-2016-physics-67",
+    "source_label": "NTA / CBSE NEET (UG) 2016 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2018,
+    "question_number": "31",
+    "pdf_page": "12",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-16-physics",
+    "topic_name": "Brewster’s Law & Polarization",
+    "difficulty": "easy",
+    "stem": "Unpolarised light is incident from air on a plane surface of a material of refractive index μ. At a particular angle of incidence i, it is found that the reflected and refracted rays are perpendicular to each other. Which of the following options is correct for this situation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reflected light is polarised with its electric vector parallel to the plane of incidence"
+      },
+      {
+        "id": "B",
+        "text": "Reflected light is polarised with its electric vector perpendicular to the plane of incidence"
+      },
+      {
+        "id": "C",
+        "text": "i = sin⁻¹(1/μ)"
+      },
+      {
+        "id": "D",
+        "text": "i = tan⁻¹(1/μ)"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "At Brewster’s angle (tan i_B = μ), the reflected and refracted rays are perpendicular and the reflected light is completely plane-polarized with its electric vector perpendicular to the plane of incidence.",
+    "ncert_reference": "NCERT Class 12 Physics Part 2, Ch 10: Wave Optics",
+    "id": "pyq-2018-physics-68",
+    "source_label": "NTA / CBSE NEET (UG) 2018 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2023,
+    "question_number": "32",
+    "pdf_page": "12",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-17-physics",
+    "topic_name": "Photoelectric Work Function",
+    "difficulty": "easy",
+    "stem": "The work functions of Caesium (Cs), Potassium (K) and Sodium (Na) are 2.14 eV, 2.30 eV and 2.75 eV respectively. If incident electromagnetic radiation has an incident energy of 2.20 eV, which of these photosensitive surfaces may emit photoelectrons?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both Na and K"
+      },
+      {
+        "id": "B",
+        "text": "K only"
+      },
+      {
+        "id": "C",
+        "text": "Na only"
+      },
+      {
+        "id": "D",
+        "text": "Cs only"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Photoelectric emission occurs only when photon energy hν > work function φ₀. Only Caesium (2.14 eV < 2.20 eV) satisfies this condition.",
+    "ncert_reference": "NCERT Class 12 Physics Part 2, Ch 11: Dual Nature of Radiation and Matter",
+    "id": "pyq-2023-physics-69",
+    "source_label": "NTA / CBSE NEET (UG) 2023 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2024,
+    "question_number": "33",
+    "pdf_page": "12",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-19-physics",
+    "topic_name": "Logic Gates & Truth Table",
+    "difficulty": "easy",
+    "stem": "When both inputs A and B of a NAND gate are connected together (A = B), the resulting single-input circuit acts as a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "NOT gate"
+      },
+      {
+        "id": "B",
+        "text": "AND gate"
+      },
+      {
+        "id": "C",
+        "text": "OR gate"
+      },
+      {
+        "id": "D",
+        "text": "XOR gate"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Output Y = ¬(A · A) = ¬A, so a NAND gate with shorted inputs functions as a NOT gate (inverter).",
+    "ncert_reference": "NCERT Class 12 Physics Part 2, Ch 14: Semiconductor Electronics",
+    "id": "pyq-2024-physics-70",
+    "source_label": "NTA / CBSE NEET (UG) 2024 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2025,
+    "question_number": "34",
+    "pdf_page": "13",
+    "subject_id": "physics",
+    "chapter_id": "physics-unit-06-physics",
+    "topic_name": "Escape Velocity",
+    "difficulty": "medium",
+    "stem": "A planet has twice the mass and twice the radius of the Earth. If the escape velocity from the surface of the Earth is v_e, then the escape velocity from the surface of that planet is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "v_e"
+      },
+      {
+        "id": "B",
+        "text": "2 v_e"
+      },
+      {
+        "id": "C",
+        "text": "v_e / √2"
+      },
+      {
+        "id": "D",
+        "text": "√2 v_e"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Escape velocity v_e = √(2GM/R). When both M and R are doubled, v_p = √(2G(2M)/(2R)) = √(2GM/R) = v_e.",
+    "ncert_reference": "NCERT Class 11 Physics Part 1, Ch 7: Gravitation",
+    "id": "pyq-2025-physics-71",
+    "source_label": "NTA / CBSE NEET (UG) 2025 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2015,
+    "question_number": "66",
+    "pdf_page": "20",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-12-chemistry",
+    "topic_name": "Crystal Field Stabilization & Ligands",
+    "difficulty": "medium",
+    "stem": "Which of these statements about [Co(CN)₆]³⁻ is true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "[Co(CN)₆]³⁻ has four unpaired electrons and will be in a low-spin configuration"
+      },
+      {
+        "id": "B",
+        "text": "[Co(CN)₆]³⁻ has no unpaired electrons and will be in a high-spin configuration"
+      },
+      {
+        "id": "C",
+        "text": "[Co(CN)₆]³⁻ has no unpaired electrons and will be in a low-spin configuration"
+      },
+      {
+        "id": "D",
+        "text": "[Co(CN)₆]³⁻ has four unpaired electrons and will be in a high-spin configuration"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Co³⁺ is a 3d⁶ ion, and CN⁻ is a strong-field ligand causing pairing in the t₂g⁶ e_g⁰ low-spin octahedral configuration with zero unpaired electrons.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 1, Unit 5: Coordination Compounds",
+    "id": "pyq-2015-chemistry-72",
+    "source_label": "NTA / CBSE NEET (UG) 2015 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2016,
+    "question_number": "67",
+    "pdf_page": "20",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-08-chemistry",
+    "topic_name": "First-Order Kinetics",
+    "difficulty": "medium",
+    "stem": "The rate of a first-order reaction is 0.04 mol L⁻¹ s⁻¹ at 10 seconds and 0.03 mol L⁻¹ s⁻¹ at 20 seconds after initiation of the reaction. The half-life period of the reaction is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "24.1 s"
+      },
+      {
+        "id": "B",
+        "text": "34.1 s"
+      },
+      {
+        "id": "C",
+        "text": "44.1 s"
+      },
+      {
+        "id": "D",
+        "text": "54.1 s"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "k = (2.303 / (20 − 10)) log(0.04 / 0.03) = 0.2303 × 0.1249 = 0.0287 s⁻¹. Half-life t_½ = 0.693 / 0.0287 ≈ 24.1 s.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 1, Unit 3: Chemical Kinetics",
+    "id": "pyq-2016-chemistry-73",
+    "source_label": "NTA / CBSE NEET (UG) 2016 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2017,
+    "question_number": "68",
+    "pdf_page": "21",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-07-chemistry",
+    "topic_name": "Cell Potential & Equilibrium Constant",
+    "difficulty": "medium",
+    "stem": "In the electrochemical cell Zn | ZnSO₄(0.01 M) || CuSO₄(1.0 M) | Cu, the emf of this Daniel cell is E₁. When the concentration of ZnSO₄ is changed to 1.0 M and that of CuSO₄ changed to 0.01 M, the emf changes to E₂. Which one of the following is the relationship between E₁ and E₂?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E₁ > E₂"
+      },
+      {
+        "id": "B",
+        "text": "E₁ < E₂"
+      },
+      {
+        "id": "C",
+        "text": "E₁ = E₂"
+      },
+      {
+        "id": "D",
+        "text": "E₂ = 0 ≠ E₁"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "By Nernst equation, E = E° − (0.059/2) log([Zn²⁺]/[Cu²⁺]). In case 1, log(0.01/1) = −2 so E₁ = E° + 0.059 V. In case 2, log(1/0.01) = +2 so E₂ = E° − 0.059 V. Hence E₁ > E₂.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 1, Unit 2: Electrochemistry",
+    "id": "pyq-2017-chemistry-74",
+    "source_label": "NTA / CBSE NEET (UG) 2017 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2018,
+    "question_number": "69",
+    "pdf_page": "21",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-17-chemistry",
+    "topic_name": "Reimer-Tiemann Reaction",
+    "difficulty": "easy",
+    "stem": "In the reaction of phenol with CHCl₃ and aqueous NaOH at 343 K (Reimer-Tiemann reaction), the electrophile attacking the ring is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "CHCl₃"
+      },
+      {
+        "id": "B",
+        "text": "·CHCl₂"
+      },
+      {
+        "id": "C",
+        "text": ":CCl₂ (Dichlorocarbene)"
+      },
+      {
+        "id": "D",
+        "text": "COCl₂"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Dichlorocarbene (:CCl₂) generated from CHCl₃ and strong base (OH⁻) acts as the neutral electrophile in the Reimer-Tiemann reaction.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 2, Unit 7: Alcohols, Phenols and Ethers",
+    "id": "pyq-2018-chemistry-75",
+    "source_label": "NTA / CBSE NEET (UG) 2018 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2019,
+    "question_number": "70",
+    "pdf_page": "21",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-03-chemistry",
+    "topic_name": "Molecular Orbital Theory",
+    "difficulty": "easy",
+    "stem": "Which of the following diatomic molecular species has only π bonds according to Molecular Orbital Theory?",
+    "options": [
+      {
+        "id": "A",
+        "text": "O₂"
+      },
+      {
+        "id": "B",
+        "text": "N₂"
+      },
+      {
+        "id": "C",
+        "text": "C₂"
+      },
+      {
+        "id": "D",
+        "text": "Be₂"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Because of s-p mixing in C₂ (12 electrons), the two bonding electron pairs occupy the degenerate π(2p_x)² and π(2p_y)² orbitals, so the double bond in C₂ consists of both π bonds.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 1, Unit 4: Chemical Bonding and Molecular Structure",
+    "id": "pyq-2019-chemistry-76",
+    "source_label": "NTA / CBSE NEET (UG) 2019 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2022,
+    "question_number": "71",
+    "pdf_page": "21",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-18-chemistry",
+    "topic_name": "Hinsberg Reagent & Amines",
+    "difficulty": "easy",
+    "stem": "Which compound is known as Hinsberg’s reagent and is used to distinguish between primary, secondary, and tertiary amines?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Benzenesulphonyl chloride (C₆H₅SO₂Cl)"
+      },
+      {
+        "id": "B",
+        "text": "Benzenediazonium chloride (C₆H₅N₂⁺Cl⁻)"
+      },
+      {
+        "id": "C",
+        "text": "Phenyl isocyanide (C₆H₅NC)"
+      },
+      {
+        "id": "D",
+        "text": "Acetic anhydride ((CH₃CO)₂O)"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Benzenesulphonyl chloride (C₆H₅SO₂Cl) is Hinsberg’s reagent; it reacts with 1° amines to give alkali-soluble sulphonamides, with 2° amines to give alkali-insoluble sulphonamides, and does not react with 3° amines.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 2, Unit 9: Amines",
+    "id": "pyq-2022-chemistry-77",
+    "source_label": "NTA / CBSE NEET (UG) 2022 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2023,
+    "question_number": "72",
+    "pdf_page": "21",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-01-chemistry",
+    "topic_name": "Stoichiometry of Thermal Decomposition",
+    "difficulty": "easy",
+    "stem": "The right option for the mass of CO₂ produced by heating 20 g of 20% pure limestone (CaCO₃) is (Atomic mass of Ca = 40):",
+    "options": [
+      {
+        "id": "A",
+        "text": "1.76 g"
+      },
+      {
+        "id": "B",
+        "text": "2.64 g"
+      },
+      {
+        "id": "C",
+        "text": "1.32 g"
+      },
+      {
+        "id": "D",
+        "text": "1.12 g"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Mass of pure CaCO₃ = 20 × (20/100) = 4 g. Since 100 g CaCO₃ gives 44 g CO₂, 4 g CaCO₃ gives (44/100) × 4 = 1.76 g CO₂.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 1, Unit 1: Some Basic Concepts of Chemistry",
+    "id": "pyq-2023-chemistry-78",
+    "source_label": "NTA / CBSE NEET (UG) 2023 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2024,
+    "question_number": "73",
+    "pdf_page": "21",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-05-chemistry",
+    "topic_name": "Colligative Properties & Osmotic Pressure",
+    "difficulty": "easy",
+    "stem": "Which of the following colligative properties is preferred for determining the molar mass of macromolecules such as proteins and polymers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Relative lowering of vapour pressure"
+      },
+      {
+        "id": "B",
+        "text": "Elevation in boiling point"
+      },
+      {
+        "id": "C",
+        "text": "Depression in freezing point"
+      },
+      {
+        "id": "D",
+        "text": "Osmotic pressure"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Osmotic pressure is measured around room temperature (preventing protein denaturation) and uses molarity, producing a large measurable pressure even for very dilute solutions.",
+    "ncert_reference": "NCERT Class 12 Chemistry Part 1, Unit 1: Solutions",
+    "id": "pyq-2024-chemistry-79",
+    "source_label": "NTA / CBSE NEET (UG) 2024 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2025,
+    "question_number": "74",
+    "pdf_page": "21",
+    "subject_id": "chemistry",
+    "chapter_id": "chemistry-unit-04-chemistry",
+    "topic_name": "Isothermal Reversible Expansion",
+    "difficulty": "medium",
+    "stem": "The work done during reversible isothermal expansion of 2 moles of an ideal gas from 10 L to 100 L at 300 K is approximately (R = 8.314 J K⁻¹ mol⁻¹, log 10 = 1):",
+    "options": [
+      {
+        "id": "A",
+        "text": "−11.49 kJ"
+      },
+      {
+        "id": "B",
+        "text": "−5.74 kJ"
+      },
+      {
+        "id": "C",
+        "text": "+11.49 kJ"
+      },
+      {
+        "id": "D",
+        "text": "−2.30 kJ"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "w = −2.303 nRT log(V₂/V₁) = −2.303 × 2 × 8.314 × 300 × log(100/10) ≈ −11,488 J = −11.49 kJ.",
+    "ncert_reference": "NCERT Class 11 Chemistry Part 1, Unit 5: Thermodynamics",
+    "id": "pyq-2025-chemistry-80",
+    "source_label": "NTA / CBSE NEET (UG) 2025 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2015,
+    "question_number": "101",
+    "pdf_page": "25",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "Mendelian Crosses",
+    "difficulty": "easy",
+    "stem": "In his classic experiments on pea plants, Mendel did not use:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pod length"
+      },
+      {
+        "id": "B",
+        "text": "Seed shape"
+      },
+      {
+        "id": "C",
+        "text": "Flower position"
+      },
+      {
+        "id": "D",
+        "text": "Seed colour"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Mendel studied pod shape (inflated/constricted) and pod colour (green/yellow), not pod length.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 4: Principles of Inheritance and Variation",
+    "id": "pyq-2015-botany-81",
+    "source_label": "NTA / CBSE NEET (UG) 2015 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2016,
+    "question_number": "102",
+    "pdf_page": "25",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-06-botany",
+    "topic_name": "Coconut Water & Endosperm",
+    "difficulty": "easy",
+    "stem": "The coconut water from tender coconut represents:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fleshy mesocarp"
+      },
+      {
+        "id": "B",
+        "text": "Free-nuclear proembryo"
+      },
+      {
+        "id": "C",
+        "text": "Free-nuclear endosperm"
+      },
+      {
+        "id": "D",
+        "text": "Endocarp"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Coconut water is free-nuclear endosperm made up of thousands of nuclei, while the surrounding white kernel is the cellular endosperm.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 1: Sexual Reproduction in Flowering Plants",
+    "id": "pyq-2016-botany-82",
+    "source_label": "NTA / CBSE NEET (UG) 2016 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2017,
+    "question_number": "103",
+    "pdf_page": "25",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-01-botany",
+    "topic_name": "Double Fertilization in Angiosperms",
+    "difficulty": "easy",
+    "stem": "Double fertilization is exhibited by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Algae"
+      },
+      {
+        "id": "B",
+        "text": "Fungi"
+      },
+      {
+        "id": "C",
+        "text": "Angiosperms"
+      },
+      {
+        "id": "D",
+        "text": "Gymnosperms"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Double fertilization (syngamy + triple fusion) is a unique characteristic event of flowering plants (Angiosperms).",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 3: Plant Kingdom",
+    "id": "pyq-2017-botany-83",
+    "source_label": "NTA / CBSE NEET (UG) 2017 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2018,
+    "question_number": "104",
+    "pdf_page": "25",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-02-botany",
+    "topic_name": "Stomatal Apparatus",
+    "difficulty": "easy",
+    "stem": "Stomata in grass leaf are:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dumb-bell shaped"
+      },
+      {
+        "id": "B",
+        "text": "Kidney shaped"
+      },
+      {
+        "id": "C",
+        "text": "Rectangular"
+      },
+      {
+        "id": "D",
+        "text": "Barrel shaped"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In grasses (monocots), the guard cells of the stomatal apparatus are dumb-bell shaped.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 6: Anatomy of Flowering Plants",
+    "id": "pyq-2018-botany-84",
+    "source_label": "NTA / CBSE NEET (UG) 2018 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2019,
+    "question_number": "105",
+    "pdf_page": "25",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-07-botany",
+    "topic_name": "Lac Operon Gene Regulation",
+    "difficulty": "easy",
+    "stem": "Match the following genes of the Lac operon with their respective products: (i) i gene → Repressor, (ii) z gene → β-galactosidase, (iii) a gene → Transacetylase, (iv) y gene → Permease. Which option is completely correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "i → Repressor, z → β-galactosidase, y → Permease, a → Transacetylase"
+      },
+      {
+        "id": "B",
+        "text": "i → Inducer, z → Permease, y → β-galactosidase, a → Transacetylase"
+      },
+      {
+        "id": "C",
+        "text": "i → Repressor, z → Transacetylase, y → β-galactosidase, a → Permease"
+      },
+      {
+        "id": "D",
+        "text": "i → Promoter, z → β-galactosidase, y → Permease, a → Transacetylase"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "In the lac operon of E. coli, lac i encodes the repressor protein, lac z encodes β-galactosidase, lac y encodes permease, and lac a encodes transacetylase.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 5: Molecular Basis of Inheritance",
+    "id": "pyq-2019-botany-85",
+    "source_label": "NTA / CBSE NEET (UG) 2019 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2022,
+    "question_number": "106",
+    "pdf_page": "25",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "Plant Growth Regulators (Ethylene & Gibberellins)",
+    "difficulty": "easy",
+    "stem": "Production of cucumber has increased manifold in recent years. Application of which of the following phytohormones has resulted in this improvement as it promotes female flowers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ABA"
+      },
+      {
+        "id": "B",
+        "text": "Gibberellin"
+      },
+      {
+        "id": "C",
+        "text": "Ethylene"
+      },
+      {
+        "id": "D",
+        "text": "Cytokinin"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Ethylene promotes female flowers in cucumbers, thereby increasing the number of fruits and total yield.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 13: Plant Growth and Development",
+    "id": "pyq-2022-botany-86",
+    "source_label": "NTA / CBSE NEET (UG) 2022 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2023,
+    "question_number": "107",
+    "pdf_page": "25",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-04-botany",
+    "topic_name": "Photolysis of Water & PS II",
+    "difficulty": "easy",
+    "stem": "The reaction centre in Photosystem II (PS II) has an absorption maxima at:",
+    "options": [
+      {
+        "id": "A",
+        "text": "700 nm"
+      },
+      {
+        "id": "B",
+        "text": "660 nm"
+      },
+      {
+        "id": "C",
+        "text": "780 nm"
+      },
+      {
+        "id": "D",
+        "text": "680 nm"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "In PS II, the reaction centre chlorophyll a absorbs maximally at 680 nm and is therefore called P680.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 11: Photosynthesis in Higher Plants",
+    "id": "pyq-2023-botany-87",
+    "source_label": "NTA / CBSE NEET (UG) 2023 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2024,
+    "question_number": "108",
+    "pdf_page": "25",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-03-botany",
+    "topic_name": "Meiosis Prophase I Stages",
+    "difficulty": "easy",
+    "stem": "Crossing over between homologous chromosomes takes place during which substage of Prophase I of Meiosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Leptotene"
+      },
+      {
+        "id": "B",
+        "text": "Zygotene"
+      },
+      {
+        "id": "C",
+        "text": "Pachytene"
+      },
+      {
+        "id": "D",
+        "text": "Diakinesis"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Recombination nodules appear and recombinase-mediated crossing over between non-sister chromatids of homologous chromosomes occurs during Pachytene.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 10: Cell Cycle and Cell Division",
+    "id": "pyq-2024-botany-88",
+    "source_label": "NTA / CBSE NEET (UG) 2024 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2025,
+    "question_number": "109",
+    "pdf_page": "25",
+    "subject_id": "botany",
+    "chapter_id": "biology-unit-09-botany",
+    "topic_name": "PCR (Polymerase Chain Reaction)",
+    "difficulty": "easy",
+    "stem": "What is the correct sequence of steps in the Polymerase Chain Reaction (PCR)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Denaturation → Annealing → Extension"
+      },
+      {
+        "id": "B",
+        "text": "Annealing → Denaturation → Extension"
+      },
+      {
+        "id": "C",
+        "text": "Extension → Denaturation → Annealing"
+      },
+      {
+        "id": "D",
+        "text": "Denaturation → Extension → Annealing"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Each PCR cycle consists of three sequential steps: (1) Denaturation (~94°C), (2) Primer Annealing (~54°C), and (3) Taq Polymerase Extension (~72°C).",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 9: Biotechnology - Principles and Processes",
+    "id": "pyq-2025-botany-89",
+    "source_label": "NTA / CBSE NEET (UG) 2025 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2015,
+    "question_number": "146",
+    "pdf_page": "29",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Sliding Filament Theory & Muscle Contraction",
+    "difficulty": "easy",
+    "stem": "Sliding filament theory can be best explained as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Actin and myosin filaments do not shorten but rather slide pass each other"
+      },
+      {
+        "id": "B",
+        "text": "When myofilaments slide pass each other, myosin filaments shorten while actin filaments do not shorten"
+      },
+      {
+        "id": "C",
+        "text": "When myofilaments slide pass each other, actin filaments shorten while myosin filaments do not shorten"
+      },
+      {
+        "id": "D",
+        "text": "Actin and myosin filaments shorten and slide pass each other"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "During muscle contraction, thin (actin) filaments slide over thick (myosin) filaments pulled towards the M-line without either filament shortening in length.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 17: Locomotion and Movement",
+    "id": "pyq-2015-zoology-90",
+    "source_label": "NTA / CBSE NEET (UG) 2015 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2016,
+    "question_number": "147",
+    "pdf_page": "29",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-06-zoology",
+    "topic_name": "Contraceptive IUDs",
+    "difficulty": "easy",
+    "stem": "Which of the following is a hormone-releasing Intra Uterine Device (IUD)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Multiload 375"
+      },
+      {
+        "id": "B",
+        "text": "LNG-20"
+      },
+      {
+        "id": "C",
+        "text": "Cervical cap"
+      },
+      {
+        "id": "D",
+        "text": "Vault"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "LNG-20 and Progestasert are hormone-releasing IUDs, whereas Multiload 375 and CuT are copper-releasing IUDs.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 3: Reproductive Health",
+    "id": "pyq-2016-zoology-91",
+    "source_label": "NTA / CBSE NEET (UG) 2016 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2017,
+    "question_number": "148",
+    "pdf_page": "29",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Myelin Sheath Formation",
+    "difficulty": "easy",
+    "stem": "Myelin sheath is produced by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Astrocytes and Schwann cells"
+      },
+      {
+        "id": "B",
+        "text": "Oligodendrocytes and Osteoclasts"
+      },
+      {
+        "id": "C",
+        "text": "Osteoclasts and Astrocytes"
+      },
+      {
+        "id": "D",
+        "text": "Schwann cells and Oligodendrocytes"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Schwann cells form the myelin sheath around axons in the Peripheral Nervous System (PNS), and oligodendrocytes form it in the Central Nervous System (CNS).",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 18: Neural Control and Coordination",
+    "id": "pyq-2017-zoology-92",
+    "source_label": "NTA / CBSE NEET (UG) 2017 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2018,
+    "question_number": "149",
+    "pdf_page": "29",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-06-zoology",
+    "topic_name": "Amniocentesis & Foetal Sex Determination",
+    "difficulty": "easy",
+    "stem": "The contraceptive \"Saheli\":",
+    "options": [
+      {
+        "id": "A",
+        "text": "Blocks estrogen receptors in the uterus, preventing eggs from getting implanted"
+      },
+      {
+        "id": "B",
+        "text": "Increases the concentration of estrogen and prevents ovulation in females"
+      },
+      {
+        "id": "C",
+        "text": "Is an IUD"
+      },
+      {
+        "id": "D",
+        "text": "Is a post-coital contraceptive"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Saheli (centchroman) is a non-steroidal oral contraceptive developed by CDRI Lucknow that selectively modulates estrogen receptors and prevents implantation.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 3: Reproductive Health",
+    "id": "pyq-2018-zoology-93",
+    "source_label": "NTA / CBSE NEET (UG) 2018 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2019,
+    "question_number": "150",
+    "pdf_page": "29",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-08-zoology",
+    "topic_name": "Colostrum & Passive Immunity",
+    "difficulty": "easy",
+    "stem": "Colostrum, the yellowish fluid, secreted by mother during the initial days of lactation is very essential to impart immunity to the newborn infants because it contains:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Natural killer cells"
+      },
+      {
+        "id": "B",
+        "text": "Monocytes"
+      },
+      {
+        "id": "C",
+        "text": "Macrophages"
+      },
+      {
+        "id": "D",
+        "text": "Immunoglobulin A (IgA)"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Colostrum is rich in maternal IgA antibodies, which provide natural passive immunity to the newborn infant.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 7: Human Health and Disease",
+    "id": "pyq-2019-zoology-94",
+    "source_label": "NTA / CBSE NEET (UG) 2019 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2022,
+    "question_number": "151",
+    "pdf_page": "29",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-01-zoology",
+    "topic_name": "Chordates & Cyclostomata",
+    "difficulty": "easy",
+    "stem": "In which of the following animals, digestive tract has additional chambers like crop and gizzard?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Corvus, Columba, Chameleon"
+      },
+      {
+        "id": "B",
+        "text": "Bufo, Balaenoptera, Bangarus"
+      },
+      {
+        "id": "C",
+        "text": "Catla, Columba, Crocodilus"
+      },
+      {
+        "id": "D",
+        "text": "Pavo, Psittacula, Corvus"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Birds (Aves) such as Pavo (peacock), Psittacula (parrot), and Corvus (crow) have crop and gizzard as additional chambers in their digestive tract.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 4: Animal Kingdom",
+    "id": "pyq-2022-zoology-95",
+    "source_label": "NTA / CBSE NEET (UG) 2022 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2023,
+    "question_number": "152",
+    "pdf_page": "29",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "ECG Waves & Cardiac Cycle",
+    "difficulty": "easy",
+    "stem": "In a standard ECG, which wave represents the depolarisation of the ventricles?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P-wave"
+      },
+      {
+        "id": "B",
+        "text": "QRS complex"
+      },
+      {
+        "id": "C",
+        "text": "T-wave"
+      },
+      {
+        "id": "D",
+        "text": "S-T segment"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "In an Electrocardiogram (ECG), the P-wave represents atrial depolarisation, the QRS complex represents ventricular depolarisation, and the T-wave represents ventricular repolarisation.",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 15: Body Fluids and Circulation",
+    "id": "pyq-2023-zoology-96",
+    "source_label": "NTA / CBSE NEET (UG) 2023 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2024,
+    "question_number": "153",
+    "pdf_page": "29",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-07-zoology",
+    "topic_name": "Hardy-Weinberg Equilibrium & Evolution",
+    "difficulty": "medium",
+    "stem": "In a population in Hardy-Weinberg equilibrium, the frequency of the recessive allele (q) is 0.4. What is the percentage of heterozygous individuals (2pq) in this population?",
+    "options": [
+      {
+        "id": "A",
+        "text": "36%"
+      },
+      {
+        "id": "B",
+        "text": "16%"
+      },
+      {
+        "id": "C",
+        "text": "48%"
+      },
+      {
+        "id": "D",
+        "text": "24%"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Since p + q = 1 and q = 0.4, p = 0.6. Heterozygous frequency 2pq = 2 × 0.6 × 0.4 = 0.48 = 48%.",
+    "ncert_reference": "NCERT Class 12 Biology, Ch 6: Evolution",
+    "id": "pyq-2024-zoology-97",
+    "source_label": "NTA / CBSE NEET (UG) 2024 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  },
+  {
+    "pyq_year": 2025,
+    "question_number": "154",
+    "pdf_page": "29",
+    "subject_id": "zoology",
+    "chapter_id": "biology-unit-05-zoology",
+    "topic_name": "Glomerular Filtration & JGA",
+    "difficulty": "easy",
+    "stem": "A fall in Glomerular Filtration Rate (GFR) activates the Juxtaglomerular (JG) cells to release:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aldosterone"
+      },
+      {
+        "id": "B",
+        "text": "Vasopressin (ADH)"
+      },
+      {
+        "id": "C",
+        "text": "Renin"
+      },
+      {
+        "id": "D",
+        "text": "Atrial Natriuretic Factor (ANF)"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A fall in GFR activates the JG cells of the kidney to release renin, which converts angiotensinogen in blood to angiotensin I and further to angiotensin II (RAAS mechanism).",
+    "ncert_reference": "NCERT Class 11 Biology, Ch 16: Excretory Products and their Elimination",
+    "id": "pyq-2025-zoology-98",
+    "source_label": "NTA / CBSE NEET (UG) 2025 Official Paper",
+    "source_url": "https://neet.nta.nic.in/archive/"
+  }
+]
